@@ -868,6 +868,10 @@
       "kind": "catalog",
       "url": "https://github.com/duyquang6/maple-mono-android"
     },
+    "tricky_store": {
+      "kind": "mmrl",
+      "url": "https://juliazero.github.io/mrbj/"
+    },
     "memkeep_plus": {
       "kind": "catalog",
       "url": "https://github.com/qvq9999/memkeep"
@@ -961,8 +965,8 @@
       "url": "https://shamratrh-web.github.io/mmrl-repo/"
     },
     "netproxy": {
-      "kind": "mmrl",
-      "url": "https://mmrl.dev/repo/ksu/"
+      "kind": "catalog",
+      "url": "https://github.com/Fanju6/NetProxy-Magisk"
     },
     "netproxy_xray": {
       "kind": "catalog",
@@ -1027,10 +1031,6 @@
     "oh_my_keymint": {
       "kind": "catalog",
       "url": "https://github.com/qwq233/OhMyKeymint"
-    },
-    "ommega": {
-      "kind": "catalog",
-      "url": "https://github.com/jiyin004-jpg/ommega"
     },
     "oneplus15_bds_guard": {
       "kind": "catalog",
@@ -1174,7 +1174,7 @@
     },
     "proteus": {
       "kind": "catalog",
-      "url": "https://github.com/xposed-modules-repo/net.wowsoftware.hidemyemulator"
+      "url": "https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid"
     },
     "py2droid": {
       "kind": "catalog",
@@ -1420,10 +1420,6 @@
       "kind": "mmrl",
       "url": "https://juliazero.github.io/mrbj/"
     },
-    "tricky_store": {
-      "kind": "mmrl",
-      "url": "https://juliazero.github.io/mrbj/"
-    },
     "trustmycert": {
       "kind": "catalog",
       "url": "https://github.com/konanguyen/trustmycert"
@@ -1661,8 +1657,8 @@
       "url": "https://mmrl.dev/repo/"
     },
     "COPG": {
-      "kind": "mmrl",
-      "url": "https://mmrl.dev/repo/"
+      "kind": "catalog",
+      "url": "https://github.com/AlirezaParsi/COPG"
     },
     "nanhe_ovo": {
       "kind": "catalog",
@@ -3611,8 +3607,8 @@
     "zygisk-sui": 4,
     "zygisk_nohello": 1,
     "zygisk_vector": 5,
-    "bindhosts": 22,
-    "mmrl_wpd": 15,
+    "bindhosts": 23,
+    "mmrl_wpd": 16,
     "BetterKnownInstalled": 4,
     "Re-Malwack": 3,
     "TA_utl": 9,
@@ -4021,7 +4017,6 @@
     "https://github.com/yudharn/hypercool": "catalog",
     "https://github.com/xe-ark/sbc-xq-hyperos": "catalog",
     "https://github.com/mods-center/hyperos-rust-launcher-mod": "catalog",
-    "https://github.com/chickendrop89/hyperos-accessibility-fix": "catalog",
     "https://github.com/mods-center/hyperos-aod": "catalog",
     "https://github.com/mods-center/hyperos-app-vault": "catalog",
     "https://github.com/ukriu/hyperunlocked": "catalog",

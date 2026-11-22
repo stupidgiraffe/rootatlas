@@ -1,14 +1,14 @@
 # RootAtlas — all tracked source repositories
 
 Automatically generated from the actual source configuration and discovery state.
-Last successful feed update: **2026-11-21 09:23 UTC**.
+Last successful feed update: **2026-11-22 09:22 UTC**.
 
 ## Live coverage
 
-- Best Root Apps catalog: **1959** discovery entries, 1849 GitHub project candidates.
-- MMRL modules after deduplication: **893**.
-- KernelSU Next entries after deduplication: **402**.
-- External feeds fetched: **46 / 49** (some failed sources may retain cached entries).
+- Best Root Apps catalog: **1972** discovery entries, 1862 GitHub project candidates.
+- MMRL modules after deduplication: **892**.
+- KernelSU Next entries after deduplication: **401**.
+- External feeds fetched: **46 / 50** (some failed sources may retain cached entries).
 
 ## Original discovery catalog (1)
 
@@ -52,12 +52,13 @@ The [MMRL official discovery directory](https://github.com/MMRLApp/Discovery/blo
 | [KernelSU Next official metamodules](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/meta_modules.json) | [Open JSON](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/meta_modules.json) | Enabled |
 | [KernelSU Next non-free (opt-in)](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/non_free_modules.json) | [Open JSON](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/non_free_modules.json) | Not included (opt-in) |
 
-## Independently discovered GitHub feeds (26)
+## Independently discovered GitHub feeds (27)
 
 Repository names below come directly from the GitHub discovery state. Some are alternate URLs or mirrors of curated sources; do not add these counts to the curated total as if they were all unique.
 
 | GitHub repository | Type | Feed URL |
 |---|---|---|
+| [breeze256/mmrl-repo](https://github.com/breeze256/mmrl-repo) | MMRL | [Open JSON](https://breeze256.github.io/mmrl-repo/json/modules.json) |
 | [brz0x100/mmrl-repo](https://github.com/brz0x100/mmrl-repo) | MMRL | [Open JSON](https://brz0x100.github.io/mmrl-repo/json/modules.json) |
 | [cabiamdos/my-mmrl-repository](https://github.com/cabiamdos/my-mmrl-repository) | MMRL | [Open JSON](https://raw.githubusercontent.com/cabiamdos/my-mmrl-repository/master/json/modules.json) |
 | [crayinsanejames/Magisk-modules-Jamesed](https://github.com/crayinsanejames/Magisk-modules-Jamesed) | MMRL | [Open JSON](https://raw.githubusercontent.com/crayinsanejames/Magisk-modules-Jamesed/master/json/modules.json) |

@@ -1,24 +1,30 @@
 {
-  "updated": 1795252998,
+  "updated": 1795339377,
   "source": "krishna3163/best-root-apps-for-android",
-  "catalog_entries": 1959,
-  "catalog_readme_entries": 1914,
+  "catalog_entries": 1972,
+  "catalog_readme_entries": 1927,
   "morphe_apks": 45,
   "tracked_extras": 0,
-  "github_repositories": 1849,
-  "checked_repositories": 1849,
+  "github_repositories": 1862,
+  "checked_repositories": 1862,
   "pending_repositories": 0,
-  "checked_this_run": 454,
+  "checked_this_run": 482,
   "verified_module_repositories": 439,
-  "mmrl_modules": 893,
-  "kernelsu_next_modules": 402,
-  "catalog_mmrl_modules": 423,
-  "catalog_ksu_modules": 386,
+  "mmrl_modules": 892,
+  "kernelsu_next_modules": 401,
+  "catalog_mmrl_modules": 422,
+  "catalog_ksu_modules": 385,
   "federation": {
     "fetched": 46,
-    "failed": 3,
+    "failed": 4,
     "malformed_modules": 1,
     "failures": [
+      {
+        "kind": "mmrl",
+        "source": "https://brz0x100.github.io/mmrl-repo/",
+        "status": "stale",
+        "error": "HTTPError"
+      },
       {
         "kind": "mmrl",
         "source": "https://leloubil.github.io/magisk-repo/",
@@ -38,32 +44,32 @@
         "error": "HTTPError"
       }
     ],
-    "total": 49,
-    "mmrl_upstream_sources": 47,
+    "total": 50,
+    "mmrl_upstream_sources": 48,
     "ksu_upstream_sources": 2,
-    "base_mmrl_modules": 423,
-    "base_ksu_modules": 386,
-    "unified_mmrl_modules": 893,
-    "unified_ksu_modules": 402,
-    "mmrl_external_selected": 510,
+    "base_mmrl_modules": 422,
+    "base_ksu_modules": 385,
+    "unified_mmrl_modules": 892,
+    "unified_ksu_modules": 401,
+    "mmrl_external_selected": 508,
     "ksu_external_selected": 16,
     "duplicate_ids_resolved": 287,
     "directory_notes": [],
     "independent_discovery": {
       "github_queries": 8,
       "github_search_errors": [],
-      "github_search_candidates_this_run": 114,
-      "new_candidates_inspected": 13,
+      "github_search_candidates_this_run": 112,
+      "new_candidates_inspected": 11,
       "remaining_unchecked_candidates": 0,
-      "candidates_ever_checked": 145,
-      "discovered_feeds": 26,
-      "discovered_mmrl_feeds": 26,
+      "candidates_ever_checked": 156,
+      "discovered_feeds": 27,
+      "discovered_mmrl_feeds": 27,
       "discovered_ksu_feeds": 0
     }
   },
   "exclusions_by_reason": {
-    "ambiguous_multiple_module_ids": 13,
-    "no_latest_release": 474,
-    "no_valid_module_zip": 596
+    "ambiguous_multiple_module_ids": 14,
+    "no_latest_release": 480,
+    "no_valid_module_zip": 602
   }
 }

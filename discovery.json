@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 1959,
-    "readme_entries": 1914,
+    "total_entries": 1972,
+    "readme_entries": 1927,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1849,
+    "unique_github_repositories": 1862,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 688,
+      "android_tool": 696,
       "lsposed": 194,
-      "lsposed_or_zygisk": 307,
+      "lsposed_or_zygisk": 310,
       "patched_apk": 45,
-      "root_module_candidate": 487,
-      "shizuku": 202
+      "root_module_candidate": 488,
+      "shizuku": 203
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 1896,
+      "github.com": 1909,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,15 +37,15 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1849,
-    "checked_repositories": 1849,
+    "repository_candidates": 1862,
+    "checked_repositories": 1862,
     "pending_repositories": 0,
     "valid_module_repositories": 439,
-    "mmrl_modules": 893,
-    "kernelsu_next_modules": 402,
-    "catalog_mmrl_modules": 423,
-    "catalog_kernelsu_next_modules": 386,
-    "federated_mmrl_sources": 47,
+    "mmrl_modules": 892,
+    "kernelsu_next_modules": 401,
+    "catalog_mmrl_modules": 422,
+    "catalog_kernelsu_next_modules": 385,
+    "federated_mmrl_sources": 48,
     "federated_ksu_sources": 2
   },
   "entries": [
@@ -25472,6 +25472,253 @@
       "repository": "mihai2mn/xperia-1-iv-lineageos-guide"
     },
     {
+      "id": "3b2f2f3014a4bf0e14",
+      "name": "aa-next",
+      "url": "https://github.com/rushiranpise/aa-next",
+      "description": "Tweaks for Android Auto, as a Vector module: start on the launcher, a recents button, phone apps on the car screen, microG and no telemetry.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/rushiranpise/aa-next"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "rushiranpise/aa-next"
+    },
+    {
+      "id": "b9f5f7bbf70bb2443a",
+      "name": "adbSwitch",
+      "url": "https://github.com/gaoyilun/adbswitch",
+      "description": "快速开关 Android 调试与无障碍等状态以通过应用检测。支持免 root / root / Shizuku 环境，可自定义开关项，支持创建桌面快捷方式、App Shortcut 或通知磁贴一键操作，自动关闭相关功能后再打开目标应用。关闭调试后常驻通知/实时动态状态栏胶囊，点击一键恢复。Quickly toggle Android debugging, accessibility, and other statuses to pass app detection. Supports non-root, root, and Shizuku.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/gaoyilun/adbswitch"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "gaoyilun/adbswitch"
+    },
+    {
+      "id": "80099915c8558c1a12",
+      "name": "android-doctor-app",
+      "url": "https://github.com/knowamit/android-doctor-app",
+      "description": "Android Doctor companion app: diagnose why your phone is slow, on device. Kotlin, Jetpack Compose, MVVM, Clean Architecture.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/knowamit/android-doctor-app"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "knowamit/android-doctor-app"
+    },
+    {
+      "id": "da20406c40793eb54d",
+      "name": "android-touch-block-module",
+      "url": "https://github.com/mtyf9/android-touch-block-module",
+      "description": "Magisk module for rooted ARM64 Android devices: block a physical touchscreen and temporarily enable touch with hardware keys.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mtyf9/android-touch-block-module"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "mtyf9/android-touch-block-module"
+    },
+    {
+      "id": "9bdc692ca505f63ce5",
+      "name": "Andromon-android",
+      "url": "https://github.com/deshan555/andromon-android",
+      "description": "Andromon Companion: the small Android app that gives Andromon your SMS, contacts, call log, calendar and media over ADB. It also moves files over Wi‑Fi and has phone-care tools. No account, no trackers.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deshan555/andromon-android"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "deshan555/andromon-android"
+    },
+    {
+      "id": "bb30a029027f7b230b",
+      "name": "Auto-Clicker-Nega",
+      "url": "https://github.com/godswisdomv1/auto-clicker-nega",
+      "description": "Auto Clicker Nega is an Android automation tool, with no root. It can tap, swipe and wait on a schedule, and it can watch the screen and act when it sees an image, text or colour you told it to find. A floating panel runs it over any app",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/godswisdomv1/auto-clicker-nega"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "godswisdomv1/auto-clicker-nega"
+    },
+    {
+      "id": "13bb7ee6ca7eeee865",
+      "name": "DeadZone",
+      "url": "https://github.com/varmaleena/deadzone",
+      "description": "AI that tests how your app behaves offline. Gemini Nano judges every screen on-device with no network; cloud Gemini finds the root cause and writes the fix. Chrome extension + web console + Android Field SDK, built on Firebase AI Logic hybrid inference.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/varmaleena/deadzone"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "varmaleena/deadzone"
+    },
+    {
+      "id": "e4738d43234a60b53f",
+      "name": "iiscshuttlers.github.io",
+      "url": "https://github.com/iiscshuttlers/iiscshuttlers.github.io",
+      "description": "Root site: Android App Links verification for IISc Shuttlers",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/iiscshuttlers/iiscshuttlers.github.io"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "iiscshuttlers/iiscshuttlers.github.io"
+    },
+    {
+      "id": "b0468d93897f10ff0d",
+      "name": "MatrixModule",
+      "url": "https://github.com/mengalpratik/matrixmodule",
+      "description": "The Ultimate All-In-One Root Cloaking & Play Integrity Suite for Android. Pass MEETS_STRONG_INTEGRITY, Zero-APK Headless HMA App Isolation & Pitch-Black WebUI. One module with Zygisk, and done! ⚡✅",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mengalpratik/matrixmodule"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "mengalpratik/matrixmodule"
+    },
+    {
+      "id": "03b6f3e0e31bc28b0e",
+      "name": "NeoGlass",
+      "url": "https://github.com/kakashi-1v1/neoglass",
+      "description": "HyperOS 4 glass on HyperOS 3: control center, notifications, lock screen and launcher. LSPosed module (Android 16), beta.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/kakashi-1v1/neoglass"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "kakashi-1v1/neoglass"
+    },
+    {
+      "id": "41e53d6e9a3aec5a05",
+      "name": "offscreen-android",
+      "url": "https://github.com/jminn0/offscreen-android",
+      "description": "AI agents run Android apps on a hidden virtual display: background, no root, MCP",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jminn0/offscreen-android"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "jminn0/offscreen-android"
+    },
+    {
+      "id": "d007856c6bae678c1e",
+      "name": "planyourtv",
+      "url": "https://github.com/heimi51168/planyourtv",
+      "description": "开源的 Android TV 儿童时间管理桌面：定时规则、每日额度、App 级计时、学习模式、答题解锁、本地题库与 AI 出题。基于 Aerial，Android TV 5.0+，无需 root。",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/heimi51168/planyourtv"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "heimi51168/planyourtv"
+    },
+    {
+      "id": "afe6a0ae0eb3d0caed",
+      "name": "TidalConnectTailscale",
+      "url": "https://github.com/solomag/tidalconnecttailscale",
+      "description": "TIDAL Connect over Tailscale: a Vector/LSPosed module that shows your PC's TidaLuna receiver in TIDAL Android's device list, also on mobile data",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/solomag/tidalconnecttailscale"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "solomag/tidalconnecttailscale"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -38601,5 +38848,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795252998
+  "updated": 1795339377
 }

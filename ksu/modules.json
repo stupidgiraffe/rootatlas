@@ -403,7 +403,7 @@
   },
   {
     "name": "CamX Full-Size QCFA",
-    "description": "50 MP on the main, ultrawide and HP9 for third-party apps (exposeFullSizeForQCFA + sensor-mode rules) and hidden-camera access for PhotonCamera and Open Camera. Pair with OriTweaks \"Full resolution in camera apps\".",
+    "description": "50 MP on the main, ultrawide and HP9 for third-party apps (exposeFullSizeForQCFA + sensor-mode rules) and hidden-camera access for PhotonCamera and Open Camera. Pair with OriTweaks \"Full resolution in camera apps\". App mountinfo stays stock: the patched config is bound in a private /vendor subtree visible only to the camera stack.",
     "author": "kailashrs",
     "repoUrl": "https://github.com/kailashrs/camx-fullsize",
     "visibility": 1
@@ -1140,13 +1140,6 @@
     "description": "Patched HyperOS 4 launcher (native Dock, soft glass, search app, icons, widgets, recents) + HyperLauncherExt settings app. Telegram: https://t.me/kashis_cringey_stuffs",
     "author": "🅺🅰🆂🅷🅸",
     "repoUrl": "https://github.com/mods-center/hyperos-rust-launcher-mod",
-    "visibility": 1
-  },
-  {
-    "name": "HyperOS accessibility fix",
-    "description": "Stop HyperOS from randomly disabling accessibility services | Click Action to view logs",
-    "author": "chkndrp",
-    "repoUrl": "https://github.com/chickendrop89/hyperos-accessibility-fix",
     "visibility": 1
   },
   {
@@ -2813,7 +2806,7 @@
   },
   {
     "name": "恒温充电 (ThermoCharge)",
-    "description": "以电池温度为被控量、充电电流为控制量的恒温充电控制器。温度锁在目标值,充电功率随散热条件自动浮动。基于 mca votable 的 Min 聚合,永远不会比系统原有保护更激进。安装时自动套用机型参数(内置 K90 Ultra)。交流群 377709300。",
+    "description": "仅依据电池温度及趋势连续调节充电功率，不追固定瓦数；环境温度估计、热模型及旧PID已移除。默认不接管系统温控；限流票不代表实测电流，实际执行与安全性受设备策略影响。交流群 377709300。",
     "author": "酷安@玖清雨",
     "repoUrl": "https://github.com/luoyi0914/thermocharge",
     "visibility": 1

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": 1795252998,
+  "generated": 1795339377,
   "repositories": {
     "cabiamdos/my-mmrl-repository": {
       "kind": "mmrl",
@@ -1042,6 +1042,84 @@
       "repository": "qianbinbin/fdroid-priv-ext",
       "last_error": "HTTPError",
       "checked": 1795252998
+    },
+    "ackd7/flexfont": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "ackd7/FlexFont",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "nikakvo/developer-option-persist": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "nikakvo/developer-option-persist",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "nikakvo/dnscrypt-proxy-android-arm64-only": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "nikakvo/dnscrypt-proxy-android-arm64-only",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "nikakvo/gps-locker": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "nikakvo/gps-locker",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "fynks/awesome-kernelsu": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "fynks/awesome-kernelsu",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "jiang551518/vowifi-ims": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "jiang551518/vowifi-ims",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "breeze256/mmrl-repo": {
+      "kind": "mmrl",
+      "url": "https://breeze256.github.io/mmrl-repo/json/modules.json",
+      "modules": 2,
+      "status": "found",
+      "repository": "breeze256/mmrl-repo",
+      "checked": 1795339377
+    },
+    "alirezaparsi/copg": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "AlirezaParsi/COPG",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "rama-x2/gms-breaker-miyabi-core": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "Rama-X2/gms-breaker-miyabi-core",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "nikakvo/vpn-hotspot-arm64": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "nikakvo/vpn-hotspot-arm64",
+      "last_error": "HTTPError",
+      "checked": 1795339377
+    },
+    "yunyu614/modrepo": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "yunyu614/modrepo",
+      "last_error": "HTTPError",
+      "checked": 1795339377
     }
   }
 }
