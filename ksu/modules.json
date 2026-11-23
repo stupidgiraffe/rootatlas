@@ -1264,6 +1264,13 @@
     "visibility": 1
   },
   {
+    "name": "Kayro SecureGuard Lite",
+    "description": "开机自动卸载 oplus_secure_guard_new · 点击运行检测",
+    "author": "Kayro",
+    "repoUrl": "https://github.com/jeoor/kayro-secureguard-lite",
+    "visibility": 1
+  },
+  {
     "name": "KernelEnhancer",
     "description": "Precision Kernel Tuning for Harmonized Performance. Game Mode, WebUI, arm64 / arm / x86_64 / x86 / riscv64.",
     "author": "@RAAJK20Pro",
@@ -1462,6 +1469,13 @@
     "description": "Replaces Roboto, Google Sans and the monospace font with Maple Mono NL v7.9 (variable wght). Disable this module to restore the stock fonts.",
     "author": "ligt",
     "repoUrl": "https://github.com/duyquang6/maple-mono-android",
+    "visibility": 1
+  },
+  {
+    "name": "MaxManager",
+    "description": "MaxManager - adaptive, chip-aware performance tuning for your device.",
+    "author": "MaxManager Project",
+    "repoUrl": "https://github.com/nader295/maxmanager",
     "visibility": 1
   },
   {
@@ -1764,6 +1778,13 @@
     "repoUrl": "https://github.com/qwq233/OhMyKeymint",
     "visibility": 1,
     "license": "AGPL-3.0"
+  },
+  {
+    "name": "OMK PIF Suite",
+    "description": "All-in-one Play Integrity manager & WebUI (AUTO & PRO modes): one-tap autonomous integrity check & fingerprint auto-selection, live progress trace, Play Store -8 throttle bypass, OMK filter guard & clean uninstall, and multi-provider keybox CRL cascade.",
+    "author": "SuspectWorkers",
+    "repoUrl": "https://github.com/suspectworkers/omk-pif-suite",
+    "visibility": 1
   },
   {
     "name": "OnePlus 15 BeiDou GNSS Guard",
@@ -2078,13 +2099,6 @@
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
     "visibility": 1,
     "license": "GPL-3.0"
-  },
-  {
-    "name": "RootfulViPER4Android engine",
-    "description": "Installs the RootfulViPER4Android DSP engine as a system-wide audio effect, so root mode runs this fork's own effects rather than the stock JamesDSP set. Adds the vintage tape and vinyl cards, balance, the maximizer, dynamic EQ, stereo imaging, impact, low end, the exciter, six reverb rooms (including smooth Concert hall and Room), the ViPER classi",
-    "author": "alienware377",
-    "repoUrl": "https://github.com/alienware377/rootlessviper4android",
-    "visibility": 1
   },
   {
     "name": "Rotation Suggestions Toggle",
@@ -2621,13 +2635,6 @@
     "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
     "author": "Der_Googler, veez21 @ xda-developers",
     "repoUrl": "https://github.com/Googlers-Repo/wpd",
-    "visibility": 1
-  },
-  {
-    "name": "WinPlay PC Engine (XRING O1)",
-    "description": "在 Xiaomi Pad 7 Ultra (XRING O1) 上一键跑 Windows 程序：Zygisk 桥 + 启动器 + root 网桥 + sdcard 挂载 + Wine 任务面板。开机自动就绪，应用无需 root 权限。",
-    "author": "PECABOO",
-    "repoUrl": "https://github.com/pecaboo/pc-engine-xring-o1",
     "visibility": 1
   },
   {

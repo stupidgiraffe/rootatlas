@@ -748,6 +748,10 @@
       "kind": "catalog",
       "url": "https://github.com/teamjcd/joycondroidcompanion"
     },
+    "kayro_secureguard": {
+      "kind": "catalog",
+      "url": "https://github.com/jeoor/kayro-secureguard-lite"
+    },
     "KernelEnhancer": {
       "kind": "catalog",
       "url": "https://github.com/RAAJK20Pro/KernelEnhancer"
@@ -872,6 +876,10 @@
       "kind": "mmrl",
       "url": "https://juliazero.github.io/mrbj/"
     },
+    "MaxManager": {
+      "kind": "catalog",
+      "url": "https://github.com/nader295/maxmanager"
+    },
     "memkeep_plus": {
       "kind": "catalog",
       "url": "https://github.com/qvq9999/memkeep"
@@ -965,8 +973,8 @@
       "url": "https://shamratrh-web.github.io/mmrl-repo/"
     },
     "netproxy": {
-      "kind": "catalog",
-      "url": "https://github.com/Fanju6/NetProxy-Magisk"
+      "kind": "mmrl",
+      "url": "https://mmrl.dev/repo/ksu/"
     },
     "netproxy_xray": {
       "kind": "catalog",
@@ -1031,6 +1039,10 @@
     "oh_my_keymint": {
       "kind": "catalog",
       "url": "https://github.com/qwq233/OhMyKeymint"
+    },
+    "omk_pif_suite": {
+      "kind": "catalog",
+      "url": "https://github.com/suspectworkers/omk-pif-suite"
     },
     "oneplus15_bds_guard": {
       "kind": "catalog",
@@ -1212,17 +1224,9 @@
       "kind": "catalog",
       "url": "https://github.com/ahmed-alnassif/resusfs"
     },
-    "revancex-tools": {
-      "kind": "catalog",
-      "url": "https://github.com/thunderkex/revancex"
-    },
     "rezygisk": {
       "kind": "mmrl",
       "url": "https://apt.izzysoft.de/magisk/"
-    },
-    "rv4a_engine": {
-      "kind": "catalog",
-      "url": "https://github.com/alienware377/rootlessviper4android"
     },
     "rotation_suggestions_toggle": {
       "kind": "catalog",
@@ -1555,10 +1559,6 @@
     "mmrl_wpd": {
       "kind": "mmrl",
       "url": "https://vc-teahouse.github.io/magisk-module-repo/"
-    },
-    "winplay_pcengine": {
-      "kind": "catalog",
-      "url": "https://github.com/pecaboo/pc-engine-xring-o1"
     },
     "uu-wheel-evdev": {
       "kind": "catalog",
@@ -1926,7 +1926,7 @@
     },
     "com.chiller3.msd": {
       "kind": "mmrl",
-      "url": "https://juliazero.github.io/mrbj/"
+      "url": "https://apt.izzysoft.de/magisk/"
     },
     "custom-certificate-authorities": {
       "kind": "mmrl",
@@ -3076,6 +3076,10 @@
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/ksu/"
     },
+    "magic_v2ray": {
+      "kind": "mmrl",
+      "url": "https://mmrl.dev/repo/ksu/"
+    },
     "magisk-netbird": {
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/ksu/"
@@ -3668,6 +3672,7 @@
     "xhhttp": 3,
     "altdb": 1,
     "auriya": 1,
+    "Clear_Rubbish": 1,
     "device_faker": 1,
     "duck-toolbox": 2,
     "hypercool": 1,
@@ -4034,6 +4039,7 @@
     "https://github.com/james34602/jamesdspmanager": "catalog",
     "https://github.com/mars-wave/jetbrains-font-magisk-module": "catalog",
     "https://github.com/teamjcd/joycondroidcompanion": "catalog",
+    "https://github.com/jeoor/kayro-secureguard-lite": "catalog",
     "https://github.com/raajk20pro/kernelenhancer": "catalog",
     "https://github.com/nativestar/kernelsugranttoast": "catalog",
     "https://github.com/ylh440104/kernelsu-tuner": "catalog",
@@ -4060,6 +4066,7 @@
     "https://github.com/mrh929/magisk-wifiadb": "catalog",
     "https://github.com/kyliekyler/magnetar": "catalog",
     "https://github.com/duyquang6/maple-mono-android": "catalog",
+    "https://github.com/nader295/maxmanager": "catalog",
     "https://github.com/qvq9999/memkeep": "catalog",
     "https://github.com/immalware/meow-icon-shape-magisk": "catalog",
     "https://github.com/kiran-embedded/micfix-magisk-module": "catalog",
@@ -4097,6 +4104,7 @@
     "https://github.com/minionguyjpro/novainstaller": "catalog",
     "https://github.com/aleopho/nx789j-autobrightness": "catalog",
     "https://github.com/nikitos4683/nzapret": "catalog",
+    "https://github.com/suspectworkers/omk-pif-suite": "catalog",
     "https://github.com/christuo-dev/oneplus15-beidou-gnss-guard": "catalog",
     "https://github.com/magisk-modules-alt-repo/oneplus-8series-9r-camera-unlocker": "catalog",
     "https://github.com/nikolastama/oplus-camera-los": "catalog",
@@ -4140,7 +4148,6 @@
     "https://github.com/exloud/render-switcher": "catalog",
     "https://github.com/xeloria/resonancefx": "catalog",
     "https://github.com/ahmed-alnassif/resusfs": "catalog",
-    "https://github.com/alienware377/rootlessviper4android": "catalog",
     "https://github.com/astoritin/rotationsuggestionsclosed": "catalog",
     "https://github.com/katelynthestargazer/rsync-magisk": "catalog",
     "https://github.com/andresuhensleeby-a11y/thermal-fire-universal-v1.4.0": "catalog",
@@ -4215,7 +4222,6 @@
     "https://github.com/hyperramzey/wcg_f946b": "catalog",
     "https://github.com/e3n-glotm/wifi7-lab-safe": "catalog",
     "https://github.com/googlers-repo/wpd": "catalog",
-    "https://github.com/pecaboo/pc-engine-xring-o1": "catalog",
     "https://github.com/nosiybugs/uu-wheel-evdev": "catalog",
     "https://github.com/leapdragon/xiaomiplaystorefix": "catalog",
     "https://github.com/cherwing/xiaomi_usb_security_bypass": "catalog",

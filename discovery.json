@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 1972,
-    "readme_entries": 1927,
+    "total_entries": 1986,
+    "readme_entries": 1941,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1862,
+    "unique_github_repositories": 1876,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 696,
+      "android_tool": 699,
       "lsposed": 194,
-      "lsposed_or_zygisk": 310,
+      "lsposed_or_zygisk": 316,
       "patched_apk": 45,
-      "root_module_candidate": 488,
-      "shizuku": 203
+      "root_module_candidate": 490,
+      "shizuku": 206
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 1909,
+      "github.com": 1923,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,14 +37,14 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1862,
-    "checked_repositories": 1862,
+    "repository_candidates": 1876,
+    "checked_repositories": 1876,
     "pending_repositories": 0,
     "valid_module_repositories": 439,
-    "mmrl_modules": 892,
-    "kernelsu_next_modules": 401,
+    "mmrl_modules": 893,
+    "kernelsu_next_modules": 402,
     "catalog_mmrl_modules": 422,
-    "catalog_kernelsu_next_modules": 385,
+    "catalog_kernelsu_next_modules": 386,
     "federated_mmrl_sources": 48,
     "federated_ksu_sources": 2
   },
@@ -25719,6 +25719,272 @@
       "repository": "solomag/tidalconnecttailscale"
     },
     {
+      "id": "ba1ff50c250dddb945",
+      "name": "aare-patches",
+      "url": "https://github.com/pirrotto/aare-patches",
+      "description": "Morphe patches for AARE (Android Auto replacement): integrated Shizuku (no Shizuku app), WhatsApp voice messages and voice reply, AARE assistant (IT/DE/EN), car microphone, background location, and a Settings screen to turn each one on or off.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/pirrotto/aare-patches"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "pirrotto/aare-patches"
+    },
+    {
+      "id": "07fc677d980a96515a",
+      "name": "AppManager--shizukuapi",
+      "url": "https://github.com/nguyenthanhan12062001/appmanager--shizukuapi",
+      "description": "Manage installed Android app states via Shizuku without root access",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/nguyenthanhan12062001/appmanager--shizukuapi"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "nguyenthanhan12062001/appmanager--shizukuapi"
+    },
+    {
+      "id": "efa50bbc9b27207651",
+      "name": "BiliExtended",
+      "url": "https://github.com/xpramt/biliextended",
+      "description": "LSPosed module that applies the Media3 frame release model to Bilibili's IJK player for smooth high-frame-rate playback",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xpramt/biliextended"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "xpramt/biliextended"
+    },
+    {
+      "id": "f11c7eca9697732543",
+      "name": "copy_bar",
+      "url": "https://github.com/ssuper1/copy_bar",
+      "description": "LSPosed module for managing Android text-processing menu extensions / Android 文字菜单扩展管理",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ssuper1/copy_bar"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "ssuper1/copy_bar"
+    },
+    {
+      "id": "d1866272ac41f1afe8",
+      "name": "DeX120Hz-S22-Exynos",
+      "url": "https://github.com/hangothanhh/dex120hz-s22-exynos",
+      "description": "LSPosed module & companion app unlocking high-refresh-rate Samsung DeX (up to 120Hz) on Galaxy S22 Exynos (Android 12 / One UI 4.1)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hangothanhh/dex120hz-s22-exynos"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "hangothanhh/dex120hz-s22-exynos"
+    },
+    {
+      "id": "68e0917991dd3b23ae",
+      "name": "Essential-Tweaks",
+      "url": "https://github.com/xwey10/essential-tweaks",
+      "description": "An LSPosed module for Nothing OS, bringing deeper SystemUI customization, Quick Settings tweaks, lockscreen enhancements, and Essential Key controls.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xwey10/essential-tweaks"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "xwey10/essential-tweaks"
+    },
+    {
+      "id": "b84e08e066f4977a13",
+      "name": "Flappy-Bird-APK",
+      "url": "https://github.com/wickthewizard/flappy-bird-apk",
+      "description": "Flappy Bird APK for Android—includes install steps, Shizuku app & Options app notes, and release downloads in the repo.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/wickthewizard/flappy-bird-apk"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "wickthewizard/flappy-bird-apk"
+    },
+    {
+      "id": "948a189ca95ba9d2bb",
+      "name": "Husk",
+      "url": "https://github.com/xishanp/husk",
+      "description": "在无 root、不解 BL、无虚拟化的 Android 普通应用权限下，让 glibc Linux 用户态作为 app 进程本身直接跑在内核上。运行时零 syscall 拦截，性能接近原生。",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xishanp/husk"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "xishanp/husk"
+    },
+    {
+      "id": "9d2c3c223d5c708804",
+      "name": "kayro-secureguard-lite",
+      "url": "https://github.com/jeoor/kayro-secureguard-lite",
+      "description": "KernelSU module: early unload oplus_secure_guard_new on OnePlus ColorOS 17",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jeoor/kayro-secureguard-lite"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "jeoor/kayro-secureguard-lite"
+    },
+    {
+      "id": "7b994bd2844c51e3db",
+      "name": "noticontrol",
+      "url": "https://github.com/ossacolsale/noticontrol",
+      "description": "Minimalist Android app to centrally manage, group and bulk-edit app notification settings, channels and sounds, with no root required.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ossacolsale/noticontrol"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "ossacolsale/noticontrol"
+    },
+    {
+      "id": "640abcdd6def9debb3",
+      "name": "omk-pif-suite",
+      "url": "https://github.com/suspectworkers/omk-pif-suite",
+      "description": "All-in-one KernelSU/Magisk module & WebUI for PlayIntegrityFork + Oh My KeyMint.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/suspectworkers/omk-pif-suite"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "suspectworkers/omk-pif-suite"
+    },
+    {
+      "id": "0b65fbadb4881fa34c",
+      "name": "oplati-name-fix",
+      "url": "https://github.com/atorixa/oplati-name-fix",
+      "description": "Xposed module that rewrites the name displayed inside the Oplati app",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/atorixa/oplati-name-fix"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "atorixa/oplati-name-fix"
+    },
+    {
+      "id": "5c6f4eaa677989812b",
+      "name": "phone-control",
+      "url": "https://github.com/misila122/phone-control",
+      "description": "用 ADB 实时操控安卓手机的 Agent Skill / 独立 CLI：截图 + 无障碍控件树『看屏幕』，点击/输入（含中文）/滑动/按键/启动 App『做操作』。不 Root、手机不装自动化 App。含合成演示图、离线 replay 和 19 个离线测试。",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/misila122/phone-control"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "misila122/phone-control"
+    },
+    {
+      "id": "ab05191f14cca02f98",
+      "name": "Samsung-NotiHighlights-AI",
+      "url": "https://github.com/furkan-tsc/samsung-notihighlights-ai",
+      "description": "Support ALL languages for Samsung Summarize Notifications. LSPosed module for Samsung One UI 8.5: unlocks Notification Highlights with custom LLM summaries in any language & Turkish priority notifications.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/furkan-tsc/samsung-notihighlights-ai"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "furkan-tsc/samsung-notihighlights-ai"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -38848,5 +39114,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795339377
+  "updated": 1795426112
 }
