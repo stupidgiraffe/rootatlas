@@ -1,13 +1,13 @@
 # RootAtlas — all tracked source repositories
 
 Automatically generated from the actual source configuration and discovery state.
-Last successful feed update: **2026-11-23 09:28 UTC**.
+Last successful feed update: **2026-11-24 09:25 UTC**.
 
 ## Live coverage
 
-- Best Root Apps catalog: **1986** discovery entries, 1876 GitHub project candidates.
-- MMRL modules after deduplication: **893**.
-- KernelSU Next entries after deduplication: **402**.
+- Best Root Apps catalog: **2005** discovery entries, 1895 GitHub project candidates.
+- MMRL modules after deduplication: **898**.
+- KernelSU Next entries after deduplication: **407**.
 - External feeds fetched: **46 / 50** (some failed sources may retain cached entries).
 
 ## Original discovery catalog (1)

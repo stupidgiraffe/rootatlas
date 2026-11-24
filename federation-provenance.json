@@ -548,6 +548,10 @@
       "kind": "catalog",
       "url": "https://github.com/elvex10/galaxy-multiuser"
     },
+    "fawpie_adaptive_brightness": {
+      "kind": "catalog",
+      "url": "https://github.com/fawpie/galaxy-tab-s9-fe-plus-gsi-autobrightness"
+    },
     "gxr_window_curvature": {
       "kind": "catalog",
       "url": "https://github.com/bluescorpiovr/galaxyxr-modules"
@@ -944,6 +948,10 @@
       "kind": "catalog",
       "url": "https://github.com/mods-center/monet-picker"
     },
+    "morphe-autodetach": {
+      "kind": "catalog",
+      "url": "https://github.com/aaronmurniadi/morphe-autodetach"
+    },
     "moto_g15_raw": {
       "kind": "catalog",
       "url": "https://github.com/rchrdariza/moto-g15-raw"
@@ -1015,6 +1023,10 @@
     "nortc": {
       "kind": "catalog",
       "url": "https://github.com/cheems-boop/nortc-leak"
+    },
+    "nt_display_refresh": {
+      "kind": "catalog",
+      "url": "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker"
     },
     "nothing-euicc": {
       "kind": "catalog",
@@ -1256,6 +1268,10 @@
       "kind": "catalog",
       "url": "https://github.com/evdenis/selinux_permissive"
     },
+    "sextant-core": {
+      "kind": "catalog",
+      "url": "https://github.com/zzyyyds88/sextant"
+    },
     "shark8_gamemode": {
       "kind": "catalog",
       "url": "https://github.com/nalbe/shark8-gamemode-gsi"
@@ -1267,6 +1283,10 @@
     "SideKeyPlus": {
       "kind": "catalog",
       "url": "https://github.com/liyw0205/sidekeyplus"
+    },
+    "sideveil_proxy": {
+      "kind": "catalog",
+      "url": "https://github.com/5jona/sideveil-proxy"
     },
     "scenethesky": {
       "kind": "catalog",
@@ -1483,10 +1503,6 @@
     "vbmeta-fixer": {
       "kind": "catalog",
       "url": "https://github.com/reveny/Android-VBMeta-Fixer"
-    },
-    "vdbackup": {
-      "kind": "catalog",
-      "url": "https://github.com/vd171/vd-backup"
     },
     "zygisk_vector": {
       "kind": "mmrl",
@@ -3424,6 +3440,10 @@
       "kind": "mmrl",
       "url": "https://raw.githubusercontent.com/RavenWolf1998/MMRL-Magisk-Module-Repo/main/"
     },
+    "vdbackup": {
+      "kind": "mmrl",
+      "url": "https://raw.githubusercontent.com/VD171/VD-Modules/master/"
+    },
     "vddropbear": {
       "kind": "mmrl",
       "url": "https://raw.githubusercontent.com/VD171/VD-Modules/master/"
@@ -3800,7 +3820,6 @@
     "bypasser": 1,
     "aa4mg": 1,
     "COPG-VD": 1,
-    "vdbackup": 1,
     "fas_rs": 1,
     "hostsredirect": 1,
     "magisk_custompinyindictionary_fcitx": 1,
@@ -3991,6 +4010,7 @@
     "https://github.com/mango0oo/g-news-control": "catalog",
     "https://github.com/jun430/g750-boost": "catalog",
     "https://github.com/elvex10/galaxy-multiuser": "catalog",
+    "https://github.com/fawpie/galaxy-tab-s9-fe-plus-gsi-autobrightness": "catalog",
     "https://github.com/bluescorpiovr/galaxyxr-modules": "catalog",
     "https://github.com/cameleonnbss/galaxyhz": "catalog",
     "https://github.com/youtiaoll1745055735-afk/gameshield": "catalog",
@@ -4085,6 +4105,7 @@
     "https://github.com/mods-center/hyperos-security-center": "catalog",
     "https://github.com/mods-center/hyperos-theme-manager": "catalog",
     "https://github.com/mods-center/monet-picker": "catalog",
+    "https://github.com/aaronmurniadi/morphe-autodetach": "catalog",
     "https://github.com/rchrdariza/moto-g15-raw": "catalog",
     "https://github.com/backslashxx/mountify": "catalog",
     "https://github.com/ys1231/movecertificate": "catalog",
@@ -4099,6 +4120,7 @@
     "https://github.com/ymuuuu/noemulator": "catalog",
     "https://github.com/lzghzr/apatch_kpm": "catalog",
     "https://github.com/cheems-boop/nortc-leak": "catalog",
+    "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker": "catalog",
     "https://github.com/reindex-ot/nothing-euicc": "catalog",
     "https://github.com/ethanm6/noto-emoji-magisk": "catalog",
     "https://github.com/minionguyjpro/novainstaller": "catalog",
@@ -4154,9 +4176,11 @@
     "https://github.com/supermarsx/magisk-samsung-dex-standalone-mode": "catalog",
     "https://github.com/fleshoo/phonelink-aosp-module": "catalog",
     "https://github.com/evdenis/selinux_permissive": "catalog",
+    "https://github.com/zzyyyds88/sextant": "catalog",
     "https://github.com/nalbe/shark8-gamemode-gsi": "catalog",
     "https://github.com/nalbe/shark8-smartrefresh-gsi": "catalog",
     "https://github.com/liyw0205/sidekeyplus": "catalog",
+    "https://github.com/5jona/sideveil-proxy": "catalog",
     "https://github.com/weirdmidas/skysceneaddon": "catalog",
     "https://github.com/saadnahid7/smalipatcherreborn": "catalog",
     "https://github.com/leanxmodulostk/smallbattery": "catalog",

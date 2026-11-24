@@ -763,7 +763,7 @@
   },
   {
     "name": "FALCON INTEGRITY FIX",
-    "description": "Play Integrity fix for Magisk / KernelSU / KernelSU Next / APatch. TrickyStore OSS keystore engine, PlayIntegrityFork fingerprint spoofing, bundled device-specific RKP keybox (exp: 01-12-2026), app hiding, keybox status notifications and the FALCON TRICKY Web UI. Android 10-17.",
+    "description": "Play Integrity fix for Magisk / KernelSU / KernelSU Next / APatch. TrickyStore OSS keystore engine, PlayIntegrityFork fingerprint spoofing, bundled private device-issued RKP keybox (validated against Google CRL), app hiding, keybox status notifications and the FALCON TRICKY Web UI. Android 10-17.",
     "author": "ABUFARID | Telegram:@falcon_kernel",
     "repoUrl": "https://github.com/ahmed2111x/falcon_integrity_fix",
     "visibility": 1
@@ -907,6 +907,13 @@
     "description": "KernelSU module for enabling Android multi-user properties on Samsung Galaxy devices.",
     "author": "Elvex10",
     "repoUrl": "https://github.com/elvex10/galaxy-multiuser",
+    "visibility": 1
+  },
+  {
+    "name": "Galaxy Tab S9 FE+ GSI Auto-Brightness Fix",
+    "description": "Enables adaptive brightness on the Galaxy Tab S9 FE+ Wi-Fi (SM-X610) with a device-tested brightness curve.",
+    "author": "fawpie",
+    "repoUrl": "https://github.com/fawpie/galaxy-tab-s9-fe-plus-gsi-autobrightness",
     "visibility": 1
   },
   {
@@ -1622,6 +1629,13 @@
     "visibility": 1
   },
   {
+    "name": "Morphe Auto-Detach",
+    "description": "Keeps every Morphe root-mount app detached from Google Play Store, so Play cannot replace the patched APK. Uses an installed zygisk-detach module when present, otherwise its own bundled engine.",
+    "author": "aaronmurniadi",
+    "repoUrl": "https://github.com/aaronmurniadi/morphe-autodetach",
+    "visibility": 1
+  },
+  {
     "name": "Moto G15 RAW16 unlock",
     "description": "Exposes RAW16 on rear (4080x3072) and front (3264x2448) cameras via a patched libmtkcam_metastore.so bind mount. Stock lib sha256 d4d71c54 required.",
     "author": "richard",
@@ -1734,6 +1748,13 @@
     "description": "第三方 VPN/代理（tun 模式）运行时丢弃 WebRTC 的明文 STUN/TURN 出站，防真实公网 IP 泄露。v1.2：daemon 重启后继承实际钩子状态（旧规则不再残留）、建链失败自动拆链、锁死锁自愈、规则条数完整性校验。仅在检测到 tun 接口时生效。",
     "author": "MT MCP",
     "repoUrl": "https://github.com/cheems-boop/nortc-leak",
+    "visibility": 1
+  },
+  {
+    "name": "Nothing Display 120Hz & LTPO Unlocker",
+    "description": "Принудительные 120 Гц для Twitch, браузеров, соцсетей и будущих приложений. Полное сохранение динамического LTPO (1-10 Гц в простое). Не конфликтует с Nothing Optimizer.",
+    "author": "Antigravity",
+    "repoUrl": "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker",
     "visibility": 1
   },
   {
@@ -1866,7 +1887,7 @@
   },
   {
     "name": "PhhIms VoLTE (r8q)",
-    "description": "Open-source IMS (PhhIms) for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q), Android 17 and 16. Tested with o2 (DE), ONDO (MN) and VIVACOM (BG); testers wanted. Action button shows the VoLTE status. Boot-loop protected, log: /data/adb/phhims-volte.log",
+    "description": "Open-source IMS (PhhIms) for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q), Android 17 and 16. Tested with o2 (DE), ONDO (MN), VIVACOM and A1 (BG) and Turkcell (TR); testers wanted. Action button shows the VoLTE status. Boot-loop protected, log: /data/adb/phhims-volte.log",
     "author": "Silvertax, based on buddi0812's r8q-volte-phhims",
     "repoUrl": "https://github.com/silvertax/phhims-volte-o2",
     "visibility": 1
@@ -2143,6 +2164,13 @@
     "visibility": 1
   },
   {
+    "name": "Sextant Core",
+    "description": "Sextant Core: the privileged device-side stack (root daemon, helper, scrcpy, WebUI) plus the zero-root Sextant Pilot APK it installs. Manifest-driven config, structured status, audited, fully reversible on uninstall.",
+    "author": "chopin-rom",
+    "repoUrl": "https://github.com/zzyyyds88/sextant",
+    "visibility": 1
+  },
+  {
     "name": "Shark8 MTK game mode trigger (GSI)",
     "description": "Feeds the stock MTK power HAL (HIDL IMtkPower::notifyAppState) with the foreground app/activity that the GSI framework no longer reports, so the vendor game profiles in /vendor/etc/power_app_cfg.xml apply again. Pure trigger, no binary patches, no policy.",
     "author": "Jan",
@@ -2161,6 +2189,13 @@
     "description": "一加三段式侧边键与音量键增强，支持上拨、上复位、下拨、下复位、音量键单击/双击/长按、音量±同时按自定义动作，支持手电筒、打开应用、链接、微信/支付宝快捷入口和自定义 Shell",
     "author": "余生只有凄渺",
     "repoUrl": "https://github.com/liyw0205/sidekeyplus",
+    "visibility": 1
+  },
+  {
+    "name": "SideVeil Proxy",
+    "description": "ClashMeta (Mihomo) proxy plugin for SideVeil with safe TUN routing and automatic rollback.",
+    "author": "pochita",
+    "repoUrl": "https://github.com/5jona/sideveil-proxy",
     "visibility": 1
   },
   {

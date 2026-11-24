@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 1986,
-    "readme_entries": 1941,
+    "total_entries": 2005,
+    "readme_entries": 1960,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1876,
+    "unique_github_repositories": 1895,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 699,
+      "android_tool": 708,
       "lsposed": 194,
-      "lsposed_or_zygisk": 316,
+      "lsposed_or_zygisk": 318,
       "patched_apk": 45,
-      "root_module_candidate": 490,
-      "shizuku": 206
+      "root_module_candidate": 495,
+      "shizuku": 209
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 1923,
+      "github.com": 1942,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,14 +37,14 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1876,
-    "checked_repositories": 1876,
+    "repository_candidates": 1895,
+    "checked_repositories": 1895,
     "pending_repositories": 0,
-    "valid_module_repositories": 439,
-    "mmrl_modules": 893,
-    "kernelsu_next_modules": 402,
-    "catalog_mmrl_modules": 422,
-    "catalog_kernelsu_next_modules": 386,
+    "valid_module_repositories": 443,
+    "mmrl_modules": 898,
+    "kernelsu_next_modules": 407,
+    "catalog_mmrl_modules": 426,
+    "catalog_kernelsu_next_modules": 391,
     "federated_mmrl_sources": 48,
     "federated_ksu_sources": 2
   },
@@ -25985,6 +25985,367 @@
       "repository": "furkan-tsc/samsung-notihighlights-ai"
     },
     {
+      "id": "9ee19c90db87d6ab8f",
+      "name": "ai-background-screen",
+      "url": "https://github.com/jminn0/ai-background-screen",
+      "description": "Android virtual display for AI agents: run any app on a hidden second screen while you keep using your phone. No root, ADB only. MCP server + CLI.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jminn0/ai-background-screen"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "jminn0/ai-background-screen"
+    },
+    {
+      "id": "916a62a4dec5d4dbbf",
+      "name": "aionlink-open-x",
+      "url": "https://github.com/bunthoeurndim/aionlink-open-x",
+      "description": "Android Auto and your phone's screen in a GAC AION i60 with ICCOA CarLink — an independent, open-source Android client. No root, no manufacturer apps.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/bunthoeurndim/aionlink-open-x"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "bunthoeurndim/aionlink-open-x"
+    },
+    {
+      "id": "fc64e51689810496c1",
+      "name": "airytwist.github.io",
+      "url": "https://github.com/airytwist/airytwist.github.io",
+      "description": "Root site (Android app verification)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/airytwist/airytwist.github.io"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "airytwist/airytwist.github.io"
+    },
+    {
+      "id": "af3460cb59737a69f6",
+      "name": "AppNetBlocker",
+      "url": "https://github.com/cihat-aslan/appnetblocker",
+      "description": "Minimal open-source, no-root Android firewall that blocks internet access for selected apps using a local-only VpnService.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/cihat-aslan/appnetblocker"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "cihat-aslan/appnetblocker"
+    },
+    {
+      "id": "8c03231fa94e9cb84d",
+      "name": "chatbot",
+      "url": "https://github.com/nguyenthanhan12062001/chatbot",
+      "description": "Android AI chatbot app — Gemini/OpenAI/Anthropic/OpenRouter/Pollinations/Kilo providers, local AI, memory, Shizuku &amp; Termux integrations, Room database, Compose/View UI.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/nguyenthanhan12062001/chatbot"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "nguyenthanhan12062001/chatbot"
+    },
+    {
+      "id": "9d4be811f5064ae351",
+      "name": "cloak",
+      "url": "https://github.com/vexselene/cloak",
+      "description": "An open-source Android app that gives any phone a separate, independent, lockable space for apps, inspired by Samsung Secure Folder. It is built on Android's managed work profile, so it needs **no root, no app virtualization, and no vendor-specific framework**.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vexselene/cloak"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "vexselene/cloak"
+    },
+    {
+      "id": "6017b0457ebf522d73",
+      "name": "dreamydimka.github.io",
+      "url": "https://github.com/dreamydimka/dreamydimka.github.io",
+      "description": "Domain root for Blackout Protocol (app links for the Android app)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dreamydimka/dreamydimka.github.io"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "dreamydimka/dreamydimka.github.io"
+    },
+    {
+      "id": "360bff022ad1edce9e",
+      "name": "flutter_security_suite",
+      "url": "https://github.com/deepakpal25/flutter_security_suite",
+      "description": "Enterprise-grade Flutter security plugin — root/jailbreak detection, certificate pinning, app integrity verification, screenshot protection & encrypted secure storage. Built with Clean Architecture (Kotlin + Swift).",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deepakpal25/flutter_security_suite"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "deepakpal25/flutter_security_suite"
+    },
+    {
+      "id": "9358d28bed93d186f0",
+      "name": "galaxy-tab-s9-fe-plus-gsi-autobrightness",
+      "url": "https://github.com/fawpie/galaxy-tab-s9-fe-plus-gsi-autobrightness",
+      "description": "Magisk module for adaptive brightness on the Galaxy Tab S9 FE+ Wi-Fi (SM-X610) running an Android GSI.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/fawpie/galaxy-tab-s9-fe-plus-gsi-autobrightness"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "fawpie/galaxy-tab-s9-fe-plus-gsi-autobrightness"
+    },
+    {
+      "id": "9c774ae588ad413c6c",
+      "name": "icon-workshop",
+      "url": "https://github.com/diaoshabu-coder/icon-workshop",
+      "description": "Give any Android app a custom-icon launcher entry via Shizuku - no root, original app untouched.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/diaoshabu-coder/icon-workshop"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "diaoshabu-coder/icon-workshop"
+    },
+    {
+      "id": "caf7291bf2ecdb95ec",
+      "name": "lyra-hasremote-fix",
+      "url": "https://github.com/theoverthinkerdev/lyra-hasremote-fix",
+      "description": "KernelSU/Magisk module: fix com.android.phone NoSuchMethodError hasRemote() crash (SIM drops) on HyperOS 4 ports",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/theoverthinkerdev/lyra-hasremote-fix"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "theoverthinkerdev/lyra-hasremote-fix"
+    },
+    {
+      "id": "9722542bd396623d24",
+      "name": "miaocast-releases",
+      "url": "https://github.com/jasirvoriya/miaocast-releases",
+      "description": "妙投 (MiaoCast) — 非小米手机也能用的开源 MiPlay / 小米妙播纯局域网多音箱音频投送：单 App 隔离不串音、免 Root 无感采集、最多 63 台小爱音箱毫秒级同频 \\| Pure-LAN MiPlay multi-room audio casting (Android & iOS, Rust)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jasirvoriya/miaocast-releases"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "jasirvoriya/miaocast-releases"
+    },
+    {
+      "id": "3d2cb507af94a0a49f",
+      "name": "monomode",
+      "url": "https://github.com/sarat03/monomode",
+      "description": "One phone, one job: turn an old Android phone into a kiosk or an e-reader with its own book reader, remove unused apps, and check it is safe. On-device, no root, over Wireless debugging.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/sarat03/monomode"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "sarat03/monomode"
+    },
+    {
+      "id": "e44b1065d3981b7ed4",
+      "name": "morphe-autodetach",
+      "url": "https://github.com/aaronmurniadi/morphe-autodetach",
+      "description": "Magisk module that keeps Morphe root-mount apps detached from Google Play Store. Uses an installed zygisk-detach module when present, otherwise its bundled engine.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/aaronmurniadi/morphe-autodetach"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "aaronmurniadi/morphe-autodetach"
+    },
+    {
+      "id": "022f67f77b5db8a721",
+      "name": "NothingBlurIcons",
+      "url": "https://github.com/ak1o-t/nothingbluricons",
+      "description": "Dynamic frosted glass wallpaper blur for Nothing OS 5.0 app icons (LSPosed module)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ak1o-t/nothingbluricons"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "ak1o-t/nothingbluricons"
+    },
+    {
+      "id": "7616acb90bd82cd03e",
+      "name": "NothingPhone3-Display-120Hz-Unlocker",
+      "url": "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker",
+      "description": "Force 120Hz refresh rate across all apps (Twitch, Telegram, Chrome) on Nothing Phone (3) with native LTPO. KernelSU / Magisk / APatch module.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "ak1o-t/nothingphone3-display-120hz-unlocker"
+    },
+    {
+      "id": "bd94167dae5a0fdfdc",
+      "name": "sextant",
+      "url": "https://github.com/zzyyyds88/sextant",
+      "description": "Sextant — Android remote-control stack: KernelSU module, zero-root APK, PC CLI",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/zzyyyds88/sextant"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "zzyyyds88/sextant"
+    },
+    {
+      "id": "fb0a9601f21b784ef1",
+      "name": "sideveil-proxy",
+      "url": "https://github.com/5jona/sideveil-proxy",
+      "description": "ClashMeta (Mihomo) proxy plugin and KernelSU module for SideVeil with safe Android 16+ TUN routing, OpenClash-aware smart toggle, and automatic rollback",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/5jona/sideveil-proxy"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "5jona/sideveil-proxy"
+    },
+    {
+      "id": "2fc7a6ce1ad88c48d4",
+      "name": "vangogh-kernel-ksu",
+      "url": "https://github.com/vladivostok1017/vangogh-kernel-ksu",
+      "description": "KernelSU on a non-GKI 4.19 kernel for Xiaomi Mi 10 Lite Zoom (vangogh / M2002J9E) on MIUI 13: MIUI vendor drivers built into the kernel to dodge the vendor-module ABI wall. Wi-Fi + root work, audio is the remaining gap.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vladivostok1017/vangogh-kernel-ksu"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "vladivostok1017/vangogh-kernel-ksu"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -39114,5 +39475,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795426112
+  "updated": 1795512309
 }

@@ -1,19 +1,19 @@
 {
-  "updated": 1795426112,
+  "updated": 1795512309,
   "source": "krishna3163/best-root-apps-for-android",
-  "catalog_entries": 1986,
-  "catalog_readme_entries": 1941,
+  "catalog_entries": 2005,
+  "catalog_readme_entries": 1960,
   "morphe_apks": 45,
   "tracked_extras": 0,
-  "github_repositories": 1876,
-  "checked_repositories": 1876,
+  "github_repositories": 1895,
+  "checked_repositories": 1895,
   "pending_repositories": 0,
-  "checked_this_run": 1833,
-  "verified_module_repositories": 439,
-  "mmrl_modules": 893,
-  "kernelsu_next_modules": 402,
-  "catalog_mmrl_modules": 422,
-  "catalog_ksu_modules": 386,
+  "checked_this_run": 501,
+  "verified_module_repositories": 443,
+  "mmrl_modules": 898,
+  "kernelsu_next_modules": 407,
+  "catalog_mmrl_modules": 426,
+  "catalog_ksu_modules": 391,
   "federation": {
     "fetched": 46,
     "failed": 4,
@@ -21,14 +21,14 @@
     "failures": [
       {
         "kind": "mmrl",
-        "source": "https://leloubil.github.io/magisk-repo/",
-        "status": "excluded",
+        "source": "https://brz0x100.github.io/mmrl-repo/",
+        "status": "stale",
         "error": "HTTPError"
       },
       {
         "kind": "mmrl",
-        "source": "https://brz0x100.github.io/mmrl-repo/",
-        "status": "stale",
+        "source": "https://leloubil.github.io/magisk-repo/",
+        "status": "excluded",
         "error": "HTTPError"
       },
       {
@@ -47,13 +47,13 @@
     "total": 50,
     "mmrl_upstream_sources": 48,
     "ksu_upstream_sources": 2,
-    "base_mmrl_modules": 422,
-    "base_ksu_modules": 386,
-    "unified_mmrl_modules": 893,
-    "unified_ksu_modules": 402,
-    "mmrl_external_selected": 510,
+    "base_mmrl_modules": 426,
+    "base_ksu_modules": 391,
+    "unified_mmrl_modules": 898,
+    "unified_ksu_modules": 407,
+    "mmrl_external_selected": 511,
     "ksu_external_selected": 16,
-    "duplicate_ids_resolved": 288,
+    "duplicate_ids_resolved": 287,
     "directory_notes": [],
     "independent_discovery": {
       "github_queries": 8,
@@ -69,7 +69,7 @@
   },
   "exclusions_by_reason": {
     "ambiguous_multiple_module_ids": 16,
-    "no_latest_release": 485,
-    "no_valid_module_zip": 625
+    "no_latest_release": 489,
+    "no_valid_module_zip": 636
   }
 }
