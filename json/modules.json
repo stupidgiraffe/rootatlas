@@ -6,7 +6,7 @@
   "description": "RootAtlas unifies independent Android module repositories with transparent provenance and daily sync.",
   "metadata": {
     "version": 1,
-    "timestamp": 1795512309.0
+    "timestamp": 1795598707.0
   },
   "modules": [
     {
@@ -604,14 +604,22 @@
       "id": "AD_Killer_By_NFQUEUE",
       "name": "AD Killer (by NFQUEUE)",
       "author": "fengwenhua",
-      "version": "v1.2.15",
-      "versionCode": 13501,
+      "version": "v1.2.16",
+      "versionCode": 13601,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1794485636.0,
         "source": "https://github.com/fengwenhua/AD_Killer_By_NFQUEUE"
       },
       "versions": [
+        {
+          "versionCode": 13601,
+          "version": "v1.2.16",
+          "timestamp": 1795502067.0,
+          "zipUrl": "https://github.com/fengwenhua/AD_Killer_By_NFQUEUE/releases/download/v1.2.16/AD_Killer_By_NFQUEUE-v1.2.16.zip",
+          "size": 828331,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/AD_Killer_By_NFQUEUE/changelogs/v1.2.16.md"
+        },
         {
           "versionCode": 13501,
           "version": "v1.2.15",
@@ -640,8 +648,8 @@
         "privacy"
       ],
       "permissions": [],
-      "size": 817933,
-      "stars": 4
+      "size": 828331,
+      "stars": 5
     },
     {
       "id": "adawayadblocker",
@@ -955,7 +963,7 @@
         "magisk.permission.POST_FS_DATA"
       ],
       "size": 3829,
-      "stars": 428
+      "stars": 429
     },
     {
       "id": "GoogleDNS4Magisk",
@@ -2037,7 +2045,7 @@
         {
           "versionCode": 8,
           "version": "v1.3.4",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/releases/download/v1.3.4/abootloop.zip",
           "size": 5011,
           "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/changelog.md"
@@ -3536,7 +3544,7 @@
         {
           "versionCode": 199680,
           "version": "3.12",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/chenxiaolong/BCR/releases/download/v3.12/BCR-3.12-release.zip",
           "size": 2714803,
           "changelog": "https://github.com/chenxiaolong/BCR/raw/v3.12/app/magisk/updates/release/changelog.txt"
@@ -5026,25 +5034,25 @@
     {
       "id": "cliproxyapi",
       "name": "CLIProxyAPI",
-      "version": "v8.1.2",
-      "versionCode": 800100200,
+      "version": "v8.1.3",
+      "versionCode": 800100300,
       "author": "tsaQB",
       "description": "CLIProxyAPI boot service for Android.",
       "homepage": "https://github.com/as-tsaqib/cliproxyapi-module",
-      "size": 29321050,
+      "size": 29356818,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795476216.0,
+        "added": 1795589863.0,
         "source": "https://github.com/as-tsaqib/cliproxyapi-module"
       },
       "versions": [
         {
-          "version": "v8.1.2",
-          "versionCode": 800100200,
-          "zipUrl": "https://github.com/tsaQB/cliproxyapi-android/releases/download/v8.1.2/cliproxyapi-magisk.zip",
-          "timestamp": 1795476216.0,
-          "size": 29321050
+          "version": "v8.1.3",
+          "versionCode": 800100300,
+          "zipUrl": "https://github.com/tsaQB/cliproxyapi-android/releases/download/v8.1.3/cliproxyapi-magisk.zip",
+          "timestamp": 1795589863.0,
+          "size": 29356818
         }
       ]
     },
@@ -5313,31 +5321,6 @@
       ]
     },
     {
-      "id": "coloros_plugin_mod",
-      "name": "ColorOS Plugin Mod",
-      "version": "v4",
-      "versionCode": 4,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/ColorOS_Control_Center",
-      "size": 33958781,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1792385416.0,
-        "source": "https://github.com/Mods-Center/ColorOS_Control_Center"
-      },
-      "versions": [
-        {
-          "version": "v4",
-          "versionCode": 4,
-          "zipUrl": "https://github.com/Mods-Center/ColorOS_Control_Center/releases/download/V4/ColorOS_plugin_mod_V4%40kashis_cringey_stuffs.zip",
-          "timestamp": 1792385416.0,
-          "size": 33958781
-        }
-      ]
-    },
-    {
       "id": "coloros_wifi_sense",
       "name": "ColorOS WIFI感知",
       "author": "酷安@NVMEX夜莺",
@@ -5454,7 +5437,7 @@
       ],
       "permissions": [],
       "size": 153928,
-      "stars": 4
+      "stars": 5
     },
     {
       "id": "Logd_Disabler_ColorOS16",
@@ -5626,25 +5609,25 @@
     {
       "id": "COPG-VD",
       "name": "COPG-VD",
-      "version": "v6.17-vd",
-      "versionCode": 61700,
+      "version": "v6.18-vd",
+      "versionCode": 61800,
       "author": "fork by VD171",
       "description": "Spoof your device.",
       "homepage": "https://github.com/VD171/COPG-VD",
-      "size": 872194,
+      "size": 873287,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795281992.0,
+        "added": 1795547554.0,
         "source": "https://github.com/VD171/COPG-VD"
       },
       "versions": [
         {
-          "version": "v6.17-vd",
-          "versionCode": 61700,
-          "zipUrl": "https://github.com/VD171/COPG-VD/releases/download/v6.17-vd/COPG-VD-v6.17-vd.zip",
-          "timestamp": 1795281992.0,
-          "size": 872194
+          "version": "v6.18-vd",
+          "versionCode": 61800,
+          "zipUrl": "https://github.com/VD171/COPG-VD/releases/download/v6.18-vd/COPG-VD-v6.18-vd.zip",
+          "timestamp": 1795547554.0,
+          "size": 873287
         }
       ]
     },
@@ -6153,7 +6136,7 @@
         "magisk.permission.POST_FS_DATA"
       ],
       "size": 18191,
-      "stars": 97
+      "stars": 96
     },
     {
       "id": "custom-certificates",
@@ -6643,7 +6626,7 @@
       ],
       "permissions": [],
       "size": 928204,
-      "stars": 921
+      "stars": 923
     },
     {
       "id": "deviceidchanger",
@@ -6747,31 +6730,6 @@
           "zipUrl": "https://github.com/flipphoneguy/DirtySepolicy_Bypass/releases/download/v3.0.0/dirtysepbypass.zip",
           "timestamp": 1780191328.0,
           "size": 11133
-        }
-      ]
-    },
-    {
-      "id": "DisableApkVerification",
-      "name": "Disable apk signature vertification",
-      "version": "v4",
-      "versionCode": 7,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Disable the signature verification of apk for Android 13+. Join to our channel for more stuff: t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/mods-center/apk-signature-verification-patch",
-      "size": 12135164,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1794850833.0,
-        "source": "https://github.com/mods-center/apk-signature-verification-patch"
-      },
-      "versions": [
-        {
-          "version": "v4",
-          "versionCode": 7,
-          "zipUrl": "https://github.com/Mods-Center/Apk-Signature-Verification-Patch/releases/download/V4/DisableApkSignatureVerification%40kashis_cringey_stuffs.zip",
-          "timestamp": 1794850833.0,
-          "size": 12135164
         }
       ]
     },
@@ -7185,6 +7143,50 @@
       ]
     },
     {
+      "id": "docker",
+      "name": "Docker",
+      "author": "fortmea",
+      "version": "29.10.0-4",
+      "versionCode": 29100004,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1795381452.0,
+        "source": "https://github.com/fortmea/docker-rosemary"
+      },
+      "versions": [
+        {
+          "versionCode": 29100004,
+          "version": "29.10.0-4",
+          "timestamp": 1795389783.0,
+          "zipUrl": "https://github.com/fortmea/docker-rosemary/releases/download/v29.10.0-4/docker-magisk-29.10.0-4.zip",
+          "size": 82131180,
+          "changelog": "https://fortmea.github.io/docker-rosemary/changelog/29.10.0-4.md"
+        },
+        {
+          "versionCode": 29100003,
+          "version": "29.10.0-3",
+          "timestamp": 1795381452.0,
+          "zipUrl": "https://github.com/fortmea/docker-rosemary/releases/download/v29.10.0-3/docker-magisk-29.10.0-3.zip",
+          "size": 82130790,
+          "changelog": "https://fortmea.github.io/docker-rosemary/changelog/29.10.0-3.md"
+        }
+      ],
+      "verified": false,
+      "description": "Official Docker Engine + Compose running natively on rooted Android (tested on Xiaomi rosemary / LineageOS). Needs a kernel with the options in kernel/docker.config: see the homepage.",
+      "homepage": "https://fortmea.github.io/docker-rosemary/",
+      "support": "https://github.com/fortmea/docker-rosemary/issues",
+      "license": "MIT",
+      "readme": "https://raw.githubusercontent.com/fortmea/docker-rosemary/main/README.md",
+      "categories": [
+        "Tools",
+        "Containers"
+      ],
+      "arch": [
+        "arm64-v8a"
+      ],
+      "size": 82131180
+    },
+    {
       "id": "dockerd",
       "name": "Dockerd",
       "version": "28.2.1",
@@ -7589,7 +7591,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 84
+      "stars": 85
     },
     {
       "id": "duckmock",
@@ -8232,7 +8234,7 @@
       ],
       "permissions": [],
       "size": 965,
-      "stars": 4
+      "stars": 5
     },
     {
       "id": "extradim",
@@ -8416,25 +8418,25 @@
     {
       "id": "falcon_integrity_fix",
       "name": "FALCON INTEGRITY FIX",
-      "version": "v3.40",
-      "versionCode": 156,
+      "version": "v3.42",
+      "versionCode": 158,
       "author": "ABUFARID | Telegram:@falcon_kernel",
       "description": "Play Integrity fix for Magisk / KernelSU / KernelSU Next / APatch. TrickyStore OSS keystore engine, PlayIntegrityFork fingerprint spoofing, bundled private device-issued RKP keybox (validated against Google CRL), app hiding, keybox status notifications and the FALCON TRICKY Web UI. Android 10-17.",
       "homepage": "https://github.com/ahmed2111x/falcon_integrity_fix",
-      "size": 4936152,
+      "size": 4936211,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795500613.0,
+        "added": 1795540419.0,
         "source": "https://github.com/ahmed2111x/falcon_integrity_fix"
       },
       "versions": [
         {
-          "version": "v3.40",
-          "versionCode": 156,
-          "zipUrl": "https://github.com/AHMED2111X/falcon_integrity_fix/releases/download/v3.40.1/FALCONINTEGITY_FIX_V3.40.zip",
-          "timestamp": 1795500613.0,
-          "size": 4936152
+          "version": "v3.42",
+          "versionCode": 158,
+          "zipUrl": "https://github.com/AHMED2111X/falcon_integrity_fix/releases/download/v3.42/FALCONINTEGITY_FIX_V3.42.zip",
+          "timestamp": 1795540419.0,
+          "size": 4936211
         }
       ]
     },
@@ -8721,6 +8723,31 @@
       ],
       "verified": false,
       "description": "Magisk module to install Fira Sans font systemlessly"
+    },
+    {
+      "id": "fix_netflix_l1",
+      "name": "Fix Netflix L1",
+      "version": "v1.0.2",
+      "versionCode": 3,
+      "author": "xhamon1",
+      "description": "Fixes Netflix falling back to Widevine L3 by reporting systemId 30770 as 30771. Made for Poco X6 Pro (duchamp), may work on similar devices. Port of device_xiaomi_duchamp@094a6a3.",
+      "homepage": "https://github.com/xhamon1/fix-netflix-l1",
+      "size": 529550,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1795557858.0,
+        "source": "https://github.com/xhamon1/fix-netflix-l1"
+      },
+      "versions": [
+        {
+          "version": "v1.0.2",
+          "versionCode": 3,
+          "zipUrl": "https://github.com/xhamon1/Fix-Netflix-L1/releases/download/v1.0.2/fix_netflix_l1.zip",
+          "timestamp": 1795557858.0,
+          "size": 529550
+        }
+      ]
     },
     {
       "id": "font_collection_fjallaone",
@@ -9078,31 +9105,6 @@
           "zipUrl": "https://github.com/1ndevelopment/UniSoc_GSI_CallFix/releases/download/v1.0/FOXXD_A67L_CallFix_v1.0.zip",
           "timestamp": 1780673251.0,
           "size": 870940
-        }
-      ]
-    },
-    {
-      "id": "remove_fps_limits_69fps",
-      "name": "FPS Limitations Patcher",
-      "version": "v4.0",
-      "versionCode": 40,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Removes the FPS and performance limits set by PowerKeeper and Joyose on MIUI / HyperOS. Join to our channel for more stuff: t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/FPS-Limitation-Patcher",
-      "size": 3924157,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1794653062.0,
-        "source": "https://github.com/Mods-Center/FPS-Limitation-Patcher"
-      },
-      "versions": [
-        {
-          "version": "v4.0",
-          "versionCode": 40,
-          "zipUrl": "https://github.com/Mods-Center/FPS-Limitation-Patcher/releases/download/v4.0/v4.0FPS_Limitations_patcher%40kashis_cringey_stuffs.zip",
-          "timestamp": 1794653062.0,
-          "size": 3924157
         }
       ]
     },
@@ -9652,6 +9654,31 @@
           "zipUrl": "https://github.com/youtiaoll1745055735-afk/GameShield/releases/download/v1.0.0/gs_guard-v1.0.0.zip",
           "timestamp": 1791007277.0,
           "size": 21269
+        }
+      ]
+    },
+    {
+      "id": "gpm_dex",
+      "name": "Gamepad Mouse DeX Helper",
+      "version": "v1.68",
+      "versionCode": 70,
+      "author": "Dennis",
+      "description": "手机专用（无 DeX）：Starts the root helper (EVIOCGRAB gamepad + uinput mouse) on the socket of com.dennis.dexpad and boots the DeX gamepad mapping engine (foreground service).",
+      "homepage": "https://github.com/denniswung/gamepaddex",
+      "size": 365632,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1795540162.0,
+        "source": "https://github.com/denniswung/gamepaddex"
+      },
+      "versions": [
+        {
+          "version": "v1.68",
+          "versionCode": 70,
+          "zipUrl": "https://github.com/denniswung/GamePadDex/releases/download/v1.68/gpm_dex-v1.68.zip",
+          "timestamp": 1795540162.0,
+          "size": 365632
         }
       ]
     },
@@ -10454,25 +10481,25 @@
     {
       "id": "HDAudio",
       "name": "HD Audio",
-      "version": "v23.3",
-      "versionCode": 233,
+      "version": "v24.1",
+      "versionCode": 241,
       "author": "Michael C Swartout",
       "description": "SoundMod of goodies.",
       "homepage": "https://github.com/mikary29/hdaudio-magisk-module",
-      "size": 1735975,
+      "size": 1672374,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795045863.0,
+        "added": 1795557152.0,
         "source": "https://github.com/mikary29/hdaudio-magisk-module"
       },
       "versions": [
         {
-          "version": "v23.3",
-          "versionCode": 233,
-          "zipUrl": "https://github.com/Mikary29/HDAudio-Magisk-Module/releases/download/v4.0.0/HDAudio.zip",
-          "timestamp": 1795045863.0,
-          "size": 1735975
+          "version": "v24.1",
+          "versionCode": 241,
+          "zipUrl": "https://github.com/Mikary29/HDAudio-Magisk-Module/releases/download/v5.0.0/HDAudio.zip",
+          "timestamp": 1795557152.0,
+          "size": 1672374
         }
       ]
     },
@@ -11028,7 +11055,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 501
+      "stars": 503
     },
     {
       "id": "hybrid_mount",
@@ -11340,31 +11367,6 @@
       ]
     },
     {
-      "id": "hyperos_rust_launcher_mod",
-      "name": "HyperOS 4 Launcher Mod (Rust/Flutter)",
-      "version": "v1.4",
-      "versionCode": 5,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Patched HyperOS 4 launcher (native Dock, soft glass, search app, icons, widgets, recents) + HyperLauncherExt settings app. Telegram: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/mods-center/hyperos-rust-launcher-mod",
-      "size": 37189502,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1794717138.0,
-        "source": "https://github.com/mods-center/hyperos-rust-launcher-mod"
-      },
-      "versions": [
-        {
-          "version": "v1.4",
-          "versionCode": 5,
-          "zipUrl": "https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod/releases/download/v1.4/HyperOS4_RustLauncherMod_v1.4.zip",
-          "timestamp": 1794717138.0,
-          "size": 37189502
-        }
-      ]
-    },
-    {
       "id": "hyperos-accessibility-fix",
       "name": "HyperOS accessibility fix",
       "version": "1.0.6",
@@ -11386,56 +11388,6 @@
           "zipUrl": "https://github.com/chkndrp/hyperos-accessibility-fix/releases/download/1.0.6/hyperos-accessibility-fix-1.0.6.zip",
           "timestamp": 1795257435.0,
           "size": 23726
-        }
-      ]
-    },
-    {
-      "id": "miui_aod_mod",
-      "name": "HyperOS AOD Mod",
-      "version": "v4.0",
-      "versionCode": 41,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Modified HyperOS 4 AOD App by Mods Center. Join for more stuff: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/HyperOS-AOD",
-      "size": 57535160,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1794910750.0,
-        "source": "https://github.com/Mods-Center/HyperOS-AOD"
-      },
-      "versions": [
-        {
-          "version": "v4.0",
-          "versionCode": 41,
-          "zipUrl": "https://github.com/Mods-Center/HyperOS-AOD/releases/download/V4/HyperOS4_AOD_v4.0%40kashis_cringey_stuffs.zip",
-          "timestamp": 1794910750.0,
-          "size": 57535160
-        }
-      ]
-    },
-    {
-      "id": "app_vault_mod",
-      "name": "HyperOS App Vault Mod",
-      "version": "v5",
-      "versionCode": 5,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/HyperOS-App-Vault",
-      "size": 35156481,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1791091257.0,
-        "source": "https://github.com/Mods-Center/HyperOS-App-Vault"
-      },
-      "versions": [
-        {
-          "version": "v5",
-          "versionCode": 5,
-          "zipUrl": "https://github.com/Mods-Center/HyperOS-App-Vault/releases/download/V5/HyperOS_AppVaultV5%40kashis_cringey_stuffs.zip",
-          "timestamp": 1791091257.0,
-          "size": 35156481
         }
       ]
     },
@@ -12140,31 +12092,6 @@
       ]
     },
     {
-      "id": "ios_plugin_mod",
-      "name": "iOS27 Control Center Redesigned",
-      "version": "v1.1",
-      "versionCode": 4,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/mods-center/ios-control-center-hyperos",
-      "size": 34760877,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1794548449.0,
-        "source": "https://github.com/mods-center/ios-control-center-hyperos"
-      },
-      "versions": [
-        {
-          "version": "v1.1",
-          "versionCode": 4,
-          "zipUrl": "https://github.com/Mods-Center/iOS-Control-Center-HyperOS/releases/download/V1.1/iOS27_plugin_mod_v1.1%40kashis_cringey_stuffs.zip",
-          "timestamp": 1794548449.0,
-          "size": 34760877
-        }
-      ]
-    },
-    {
       "id": "ipset_arm64",
       "name": "ipset (arm64)",
       "version": "v7.24-r18",
@@ -12732,7 +12659,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 385
+      "stars": 387
     },
     {
       "id": "adrianmmiller.KSUdebloat",
@@ -12847,7 +12774,7 @@
       ],
       "permissions": [],
       "size": 73059236,
-      "stars": 19
+      "stars": 20
     },
     {
       "id": "ksu-webui-module-template",
@@ -13044,31 +12971,6 @@
           "zipUrl": "https://github.com/nikakvo/lan-cloak-arm64/releases/download/v1.0-r4/lan-cloak-arm64-v1.0-r4.zip",
           "timestamp": 1795331395.0,
           "size": 709304
-        }
-      ]
-    },
-    {
-      "id": "lawnchair_launcher_mod",
-      "name": "Lawnchair 12 Mod",
-      "version": "12.0.0 Dev (#690)",
-      "versionCode": 1,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Thanks to Lawnchair team,Teamfiles and various developers of themed icons whose apps are used in this mod.",
-      "homepage": "https://github.com/mods-center/lawnchair_mod",
-      "size": 82700839,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1675979638.0,
-        "source": "https://github.com/mods-center/lawnchair_mod"
-      },
-      "versions": [
-        {
-          "version": "12.0.0 Dev (#690)",
-          "versionCode": 1,
-          "zipUrl": "https://github.com/Mods-Center/Lawnchair_Mod/releases/download/version-12/Lawnchair_Mod%40kashis_cringey_stuffs.zip",
-          "timestamp": 1675979638.0,
-          "size": 82700839
         }
       ]
     },
@@ -13942,7 +13844,7 @@
       ],
       "permissions": [],
       "size": 5755243,
-      "stars": 630
+      "stars": 632
     },
     {
       "id": "magic_v2ray",
@@ -13980,7 +13882,7 @@
       ],
       "permissions": [],
       "size": 3291,
-      "stars": 68
+      "stars": 69
     },
     {
       "id": "magisk_overlayfs",
@@ -14445,25 +14347,25 @@
     {
       "id": "magisk-openlist",
       "name": "Magisk OpenList",
-      "version": "v4.2.9",
-      "versionCode": 1015,
+      "version": "v4.2.10",
+      "versionCode": 1016,
       "author": "zjw",
       "description": "Run OpenList server in background with Magisk",
       "homepage": "https://github.com/zhu-junwei/magisk-openlist",
-      "size": 41156601,
+      "size": 62195869,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1792988303.0,
+        "added": 1795516724.0,
         "source": "https://github.com/zhu-junwei/magisk-openlist"
       },
       "versions": [
         {
-          "version": "v4.2.9",
-          "versionCode": 1015,
-          "zipUrl": "https://github.com/Zhu-junwei/Magisk-OpenList/releases/download/v4.2.9/magisk-openlist-386-lite-v4.2.9.zip",
-          "timestamp": 1792988303.0,
-          "size": 41156601
+          "version": "v4.2.10",
+          "versionCode": 1016,
+          "zipUrl": "https://github.com/Zhu-junwei/Magisk-OpenList/releases/download/v4.2.10/magisk-openlist-386-lite-v4.2.10.zip",
+          "timestamp": 1795516724.0,
+          "size": 62195869
         }
       ]
     },
@@ -14566,8 +14468,8 @@
       "id": "magisk-frida",
       "name": "MagiskFrida",
       "author": "ViRb3 & enovella",
-      "version": "17.27.4-1",
-      "versionCode": 17270401,
+      "version": "17.27.5-1",
+      "versionCode": 17270501,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1775213261.0,
@@ -14575,11 +14477,11 @@
       },
       "versions": [
         {
-          "versionCode": 17270401,
-          "version": "17.27.4-1",
-          "timestamp": 1795454117.0,
-          "zipUrl": "https://github.com/ViRb3/magisk-frida/releases/download/17.27.4-1/MagiskFrida-17.27.4-1.zip",
-          "size": 146835744,
+          "versionCode": 17270501,
+          "version": "17.27.5-1",
+          "timestamp": 1795539269.0,
+          "zipUrl": "https://github.com/ViRb3/magisk-frida/releases/download/17.27.5-1/MagiskFrida-17.27.5-1.zip",
+          "size": 146852606,
           "changelog": "https://raw.githubusercontent.com/ViRb3/magisk-frida/master/CHANGELOG.md"
         }
       ],
@@ -14587,7 +14489,7 @@
       "description": "Run frida-server on boot: ✅ (active)",
       "support": "https://github.com/ViRb3/magisk-frida",
       "readme": "https://github.com/ViRb3/magisk-frida",
-      "size": 146835744
+      "size": 146852606
     },
     {
       "id": "magiskhide",
@@ -15258,7 +15160,7 @@
         "security"
       ],
       "permissions": [],
-      "stars": 232
+      "stars": 233
     },
     {
       "id": "microG-GApps",
@@ -15475,7 +15377,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 46
+      "stars": 47
     },
     {
       "id": "mi_thermal_tuner",
@@ -15524,31 +15426,6 @@
           "zipUrl": "https://github.com/bapirex/mitm-ca-system/releases/download/v1.0.0/mitm-ca-system-v1.0.0.zip",
           "timestamp": 1789791678.0,
           "size": 10839
-        }
-      ]
-    },
-    {
-      "id": "miui_plugin_mod",
-      "name": "MIUI Aosp Plugin by Mods Center",
-      "version": "v3.250623",
-      "versionCode": 40,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Credits: UserXP, alixan95r, naokoshoto.",
-      "homepage": "https://github.com/mods-center/miui_plugin",
-      "size": 9217017,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1687955365.0,
-        "source": "https://github.com/mods-center/miui_plugin"
-      },
-      "versions": [
-        {
-          "version": "v3.250623",
-          "versionCode": 40,
-          "zipUrl": "https://github.com/Mods-Center/Miui_Plugin/releases/download/version-14.2/v3Miui_AospPlugin_Mod%40kashis_cringey_stuffs.zip",
-          "timestamp": 1687955365.0,
-          "size": 9217017
         }
       ]
     },
@@ -15692,106 +15569,6 @@
       ],
       "size": 5405160,
       "stars": 90
-    },
-    {
-      "id": "miui_launcher_mod",
-      "name": "Modded HyperOS Launcher",
-      "version": "v7.5",
-      "versionCode": 7,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/HyperOS-Launcher",
-      "size": 29316196,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1791944151.0,
-        "source": "https://github.com/Mods-Center/HyperOS-Launcher"
-      },
-      "versions": [
-        {
-          "version": "v7.5",
-          "versionCode": 7,
-          "zipUrl": "https://github.com/Mods-Center/HyperOS-Launcher/releases/download/V7.5/HyperOS_LauncherV7.5F%40kashis_cringey_stuffs.zip",
-          "timestamp": 1791944151.0,
-          "size": 29316196
-        }
-      ]
-    },
-    {
-      "id": "security_app_mod",
-      "name": "Modded Security Center",
-      "version": "v8",
-      "versionCode": 8,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Modified Security Center by Mods Center. Join for more stuffs: t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/HyperOS-Security-Center",
-      "size": 88663203,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1794224527.0,
-        "source": "https://github.com/Mods-Center/HyperOS-Security-Center"
-      },
-      "versions": [
-        {
-          "version": "v8",
-          "versionCode": 8,
-          "zipUrl": "https://github.com/Mods-Center/HyperOS-Security-Center/releases/download/V8/HyperOS_SecurityV8%40kashis_cringey_stuffs.zip",
-          "timestamp": 1794224527.0,
-          "size": 88663203
-        }
-      ]
-    },
-    {
-      "id": "miui_theme_mod",
-      "name": "Modded Theme Manager",
-      "version": "v7",
-      "versionCode": 7,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Modified Theme Manager by Mods Center. Join channel for interesting stuffs: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/Mods-Center/HyperOS-Theme-Manager",
-      "size": 60123971,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1790422151.0,
-        "source": "https://github.com/Mods-Center/HyperOS-Theme-Manager"
-      },
-      "versions": [
-        {
-          "version": "v7",
-          "versionCode": 7,
-          "zipUrl": "https://github.com/Mods-Center/HyperOS-Theme-Manager/releases/download/V7/HyperOS_ThemeManagerV7%40kashis_cringey_stuffs.zip",
-          "timestamp": 1790422151.0,
-          "size": 60123971
-        }
-      ]
-    },
-    {
-      "id": "monet_color_picker",
-      "name": "Monet Picker V2",
-      "version": "v2",
-      "versionCode": 3,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Change monet color accent to the one that you want.Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-      "homepage": "https://github.com/mods-center/monet-picker",
-      "size": 41252749,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1762346851.0,
-        "source": "https://github.com/mods-center/monet-picker"
-      },
-      "versions": [
-        {
-          "version": "v2",
-          "versionCode": 3,
-          "zipUrl": "https://github.com/Mods-Center/Monet-Picker/releases/download/V2.1/MonetPickerV2.1%40kashis_cringey_stuffs.zip",
-          "timestamp": 1762346851.0,
-          "size": 41252749
-        }
-      ]
     },
     {
       "id": "Monet-All",
@@ -16362,7 +16139,7 @@
         "System"
       ],
       "size": 866802,
-      "stars": 203
+      "stars": 204
     },
     {
       "id": "font_collection_nanumgothic",
@@ -16464,7 +16241,7 @@
         {
           "versionCode": 54,
           "version": "v1.2",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/Rem01Gaming/net-switch/releases/download/1.2/net-switch-1.2-54-64b5764-release.zip",
           "size": 18560,
           "changelog": "https://raw.githubusercontent.com/Rem01Gaming/net-switch/main/changelog.md"
@@ -16479,68 +16256,27 @@
     {
       "id": "netproxy",
       "name": "NetProxy",
+      "version": "v8.7.3",
+      "versionCode": 1128,
       "author": "Fanju",
-      "version": "v8.7.2",
-      "versionCode": 1115,
+      "description": "基于 sing-box 内核的透明代理工具",
+      "homepage": "https://github.com/Fanju6/NetProxy-Magisk",
+      "size": 28062712,
+      "verified": false,
       "track": {
-        "type": "ONLINE_JSON",
-        "added": 1791728886.0,
-        "source": "https://github.com/Fanju6/NetProxy-Releases"
+        "type": "GIT",
+        "added": 1795591853.0,
+        "source": "https://github.com/Fanju6/NetProxy-Magisk"
       },
       "versions": [
         {
-          "versionCode": 1115,
-          "version": "v8.7.2",
-          "timestamp": 1795322457.0,
-          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.7.2/netproxy-1115-v8.7.2.zip",
-          "size": 27804816,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.7.2.md"
-        },
-        {
-          "versionCode": 1107,
-          "version": "v8.7.1",
-          "timestamp": 1795069312.0,
-          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.7.1/netproxy-1107-v8.7.1.zip",
-          "size": 27751684,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.7.1.md"
-        },
-        {
-          "versionCode": 1100,
-          "version": "v8.7.0",
-          "timestamp": 1794472868.0,
-          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.7.0/netproxy-1100-v8.7.0.zip",
-          "size": 27525137,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.7.0.md"
-        },
-        {
-          "versionCode": 1090,
-          "version": "v8.6.2",
-          "timestamp": 1792989596.0,
-          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.6.2/netproxy-1090-v8.6.2.zip",
-          "size": 27549353,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.6.2.md"
-        },
-        {
-          "versionCode": 1088,
-          "version": "v8.6.1",
-          "timestamp": 1792071801.0,
-          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.6.1/netproxy-1088-v8.6.1.zip",
-          "size": 27469893,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.6.1.md"
+          "version": "v8.7.3",
+          "versionCode": 1128,
+          "zipUrl": "https://github.com/Fanju6/NetProxy-Magisk/releases/download/v8.7.3/NetProxy_v8.7.3_1128.zip",
+          "timestamp": 1795591853.0,
+          "size": 28062712
         }
-      ],
-      "verified": false,
-      "description": "Android sing-box 透明代理模块，支持 eBPF、TUN、节点订阅和应用代理。",
-      "icon": "https://modules.kernelsu.org/assets/4bef947f9024d913.png",
-      "support": "https://github.com/Fanju6/NetProxy-Magisk/issues",
-      "readme": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/README.md",
-      "categories": [
-        "network",
-        "proxy"
-      ],
-      "permissions": [],
-      "size": 27804816,
-      "stars": 1469
+      ]
     },
     {
       "id": "netproxy_xray",
@@ -16564,31 +16300,6 @@
           "zipUrl": "https://github.com/LLP2333/NetProxy-XTLS-KernelSU/releases/download/V7.7.1/NetProxy_v7.7.1_610.zip",
           "timestamp": 1794813713.0,
           "size": 18946062
-        }
-      ]
-    },
-    {
-      "id": "newui_package_installer",
-      "name": "NewUI Package Installer V3 for Aosp/MIUI/HyperOS",
-      "version": "3.0",
-      "versionCode": 4,
-      "author": "🅺🅰🆂🅷🅸",
-      "description": "Join channel for more stuffs",
-      "homepage": "https://github.com/mods-center/package-installer",
-      "size": 5415158,
-      "verified": false,
-      "track": {
-        "type": "GIT",
-        "added": 1792812802.0,
-        "source": "https://github.com/mods-center/package-installer"
-      },
-      "versions": [
-        {
-          "version": "3.0",
-          "versionCode": 4,
-          "zipUrl": "https://github.com/Mods-Center/Package-Installer/releases/download/V3/New_UI_Package_InstallerV3%40kashis_cringey_stuffs.zip",
-          "timestamp": 1792812802.0,
-          "size": 5415158
         }
       ]
     },
@@ -16837,6 +16548,31 @@
           "zipUrl": "https://github.com/Bouteillepleine/NoMount-Suite/releases/download/v1.3.217/00_NoMount-Module-v1.3.217.zip",
           "timestamp": 1795331526.0,
           "size": 942598
+        }
+      ]
+    },
+    {
+      "id": "nomount_user_certs",
+      "name": "NoMount User Certs Sync",
+      "version": "v1.0.0",
+      "versionCode": 100,
+      "author": "CoderTCY",
+      "description": "Syncs Android user CA certificates to /system/etc/security/cacerts and /apex/com.android.conscrypt/cacerts via NoMount VFS redirection without tmpfs mounts.",
+      "homepage": "https://github.com/codertcy/nomount-user-certs",
+      "size": 13039,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1795525239.0,
+        "source": "https://github.com/codertcy/nomount-user-certs"
+      },
+      "versions": [
+        {
+          "version": "v1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://github.com/CoderTCY/nomount-user-certs/releases/download/v1.0.0/nomount-user-certs-v1.0.0.zip",
+          "timestamp": 1795525239.0,
+          "size": 13039
         }
       ]
     },
@@ -17895,25 +17631,25 @@
     {
       "id": "perfmtk",
       "name": "PerfMTK",
-      "version": "v17.1",
-      "versionCode": 171,
+      "version": "v17.3",
+      "versionCode": 173,
       "author": "JUANIMAN",
       "description": "Just type \"su -c perfmtk\" in terminal(Termux) or install PerfMTK Manager App",
       "homepage": "https://github.com/JUANIMAN/PerfMTK",
-      "size": 302435,
+      "size": 469504,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1791677394.0,
+        "added": 1795557175.0,
         "source": "https://github.com/JUANIMAN/PerfMTK"
       },
       "versions": [
         {
-          "version": "v17.1",
-          "versionCode": 171,
-          "zipUrl": "https://github.com/JUANIMAN/PerfMTK/releases/download/v17.1/PerfMTKv17.1.zip",
-          "timestamp": 1791677394.0,
-          "size": 302435
+          "version": "v17.3",
+          "versionCode": 173,
+          "zipUrl": "https://github.com/JUANIMAN/PerfMTK/releases/download/v17.3/PerfMTKv17.3.zip",
+          "timestamp": 1795557175.0,
+          "size": 469504
         }
       ]
     },
@@ -18723,7 +18459,7 @@
         "mmrl.permission.DEXS"
       ],
       "size": 347894,
-      "stars": 4718
+      "stars": 4722
     },
     {
       "id": "playintegrityfork",
@@ -19365,7 +19101,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 121
+      "stars": 122
     },
     {
       "id": "magisk_proc_monitor",
@@ -20132,7 +19868,7 @@
         "magisk.permission.SERVICE"
       ],
       "size": 18055,
-      "stars": 55
+      "stars": 56
     },
     {
       "id": "resonancefx",
@@ -20991,7 +20727,7 @@
         "magisk.permission.ZYGISK"
       ],
       "size": 4979675,
-      "stars": 25624
+      "stars": 25642
     },
     {
       "id": "font_collection_sharetech",
@@ -21221,25 +20957,25 @@
     {
       "id": "sideveil_proxy",
       "name": "SideVeil Proxy",
-      "version": "v0.1.0",
-      "versionCode": 1,
+      "version": "v0.2.0",
+      "versionCode": 200,
       "author": "pochita",
       "description": "ClashMeta (Mihomo) proxy plugin for SideVeil with safe TUN routing and automatic rollback.",
       "homepage": "https://github.com/5jona/sideveil-proxy",
-      "size": 23595276,
+      "size": 28841055,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795461725.0,
+        "added": 1795574764.0,
         "source": "https://github.com/5jona/sideveil-proxy"
       },
       "versions": [
         {
-          "version": "v0.1.0",
-          "versionCode": 1,
-          "zipUrl": "https://github.com/5jona/sideveil-proxy/releases/download/v0.1.0/sideveil-proxy-v0.1.0.zip",
-          "timestamp": 1795461725.0,
-          "size": 23595276
+          "version": "v0.2.0",
+          "versionCode": 200,
+          "zipUrl": "https://github.com/5jona/sideveil-proxy/releases/download/v0.2.0/sideveil-proxy-v0.2.0.zip",
+          "timestamp": 1795574764.0,
+          "size": 28841055
         }
       ]
     },
@@ -22220,25 +21956,25 @@
     {
       "id": "sub-store-runsv",
       "name": "Sub-Store (runsv)",
-      "version": "2.44.28-r3.8a7ba56b15a3",
-      "versionCode": 217673273,
+      "version": "2.44.30-r3.5ebc3c27897a",
+      "versionCode": 217754601,
       "author": "sorubedo(github)",
       "description": "Sub-Store frontend and backend in merged mode, with Android Node.js LTS. Requires runsvdir-magisk. No http-meta.",
       "homepage": "https://github.com/sorubedo/sub-store-magisk-runsv",
-      "size": 38048615,
+      "size": 38048634,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795510097.0,
+        "added": 1795591428.0,
         "source": "https://github.com/sorubedo/sub-store-magisk-runsv"
       },
       "versions": [
         {
-          "version": "2.44.28-r3.8a7ba56b15a3",
-          "versionCode": 217673273,
-          "zipUrl": "https://github.com/sorubedo/sub-store-magisk-runsv/releases/download/v2.44.28-r3.8a7ba56b15a3/sub-store-runsv-2.44.28-r3.8a7ba56b15a3-arm64-v8a.zip",
-          "timestamp": 1795510097.0,
-          "size": 38048615
+          "version": "2.44.30-r3.5ebc3c27897a",
+          "versionCode": 217754601,
+          "zipUrl": "https://github.com/sorubedo/sub-store-magisk-runsv/releases/download/v2.44.30-r3.5ebc3c27897a/sub-store-runsv-2.44.30-r3.5ebc3c27897a-arm64-v8a.zip",
+          "timestamp": 1795591428.0,
+          "size": 38048634
         }
       ]
     },
@@ -25254,14 +24990,22 @@
       "id": "vddropbear",
       "name": "VD Dropbear",
       "author": "VD171",
-      "version": "v1.11",
-      "versionCode": 10011,
+      "version": "v1.12",
+      "versionCode": 10012,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1794698472.0,
         "source": "https://github.com/VD171/VD-dropbear"
       },
       "versions": [
+        {
+          "versionCode": 10012,
+          "version": "v1.12",
+          "timestamp": 1795549747.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.12_10012.zip",
+          "size": 2693269,
+          "changelog": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.12_10012.md"
+        },
         {
           "versionCode": 10011,
           "version": "v1.11",
@@ -25277,14 +25021,6 @@
           "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.10_10010.zip",
           "size": 2692145,
           "changelog": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.10_10010.md"
-        },
-        {
-          "versionCode": 10009,
-          "version": "v1.09",
-          "timestamp": 1795021204.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.09_10009.zip",
-          "size": 2674103,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.09_10009.md"
         }
       ],
       "verified": false,
@@ -25294,21 +25030,29 @@
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
-      "size": 2692255,
-      "stars": 22
+      "size": 2693269,
+      "stars": 23
     },
     {
       "id": "vdgoogle",
       "name": "VD Google",
       "author": "VD171",
-      "version": "v1.15",
-      "versionCode": 18,
+      "version": "v1.16",
+      "versionCode": 19,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1794619623.0,
         "source": "https://github.com/VD171/VD-Google"
       },
       "versions": [
+        {
+          "versionCode": 19,
+          "version": "v1.16",
+          "timestamp": 1795556294.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdgoogle/v1.16_19.zip",
+          "size": 4812154,
+          "changelog": "https://vd171.github.io/VD-Modules/modules/vdgoogle/v1.16_19.md"
+        },
         {
           "versionCode": 18,
           "version": "v1.15",
@@ -25332,21 +25076,29 @@
         "kernelsu.permission.WEBUI",
         "mmrl.permission.WEBUI_CONFIG"
       ],
-      "size": 2378100,
-      "stars": 147
+      "size": 4812154,
+      "stars": 149
     },
     {
       "id": "vdbackup",
       "name": "VDBackup",
       "author": "VD171",
-      "version": "v1.14",
-      "versionCode": 11400,
+      "version": "v1.15",
+      "versionCode": 11500,
       "track": {
         "type": "ONLINE_JSON",
         "added": 0.0,
         "source": "https://github.com/VD171/VD-Backup"
       },
       "versions": [
+        {
+          "versionCode": 11500,
+          "version": "v1.15",
+          "timestamp": 1795550775.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.15_11500.zip",
+          "size": 26353271,
+          "changelog": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.15_11500.md"
+        },
         {
           "versionCode": 11400,
           "version": "v1.14",
@@ -25362,14 +25114,6 @@
           "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.13_11300.zip",
           "size": 26623384,
           "changelog": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.13_11300.md"
-        },
-        {
-          "versionCode": 11200,
-          "version": "v1.12",
-          "timestamp": 1795007107.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.12_11200.zip",
-          "size": 26623245,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.12_11200.md"
         }
       ],
       "verified": false,
@@ -25377,21 +25121,29 @@
       "permissions": [
         "magisk.permission.SERVICE"
       ],
-      "size": 26623384,
-      "stars": 94
+      "size": 26353271,
+      "stars": 95
     },
     {
       "id": "vdinstaller",
       "name": "VDInstaller",
       "author": "VD171",
-      "version": "v1.02",
-      "versionCode": 10200,
+      "version": "v1.03",
+      "versionCode": 10300,
       "track": {
         "type": "ONLINE_JSON",
         "added": 0.0,
         "source": "https://github.com/VD171/VD-Installer"
       },
       "versions": [
+        {
+          "versionCode": 10300,
+          "version": "v1.03",
+          "timestamp": 1795556551.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.03_10300.zip",
+          "size": 4004304,
+          "changelog": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.03_10300.md"
+        },
         {
           "versionCode": 10200,
           "version": "v1.02",
@@ -25416,7 +25168,7 @@
         "kernelsu.permission.WEBUI",
         "mmrl.permission.WEBUI_CONFIG"
       ],
-      "size": 4003289,
+      "size": 4004304,
       "stars": 22
     },
     {
@@ -25473,7 +25225,7 @@
         {
           "versionCode": 3080,
           "version": "v2.2",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/JingMatrix/Vector/releases/download/v2.2/Vector-v2.2-3080-Release.zip",
           "size": 9316843,
           "changelog": "https://raw.githubusercontent.com/JingMatrix/Vector/master/zygisk/changelog.md"
@@ -26058,7 +25810,7 @@
         "development"
       ],
       "permissions": [],
-      "stars": 856
+      "stars": 865
     },
     {
       "id": "webview_optimizer",
@@ -27099,7 +26851,7 @@
         {
           "versionCode": 165,
           "version": "v21.30.216 (patches 2.3.0.mpp)",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/NoName-exe/revanced-extended/releases/download/165/youtube-morphe-module-v21.30.216-all.zip",
           "size": 238558121,
           "changelog": "https://raw.githubusercontent.com/NoName-exe/revanced-extended/update/build.md"
@@ -27174,7 +26926,7 @@
         {
           "versionCode": 165,
           "version": "v9.30.53 (patches 2.3.0.mpp)",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/NoName-exe/revanced-extended/releases/download/165/youtube-music-morphe-module-v9.30.53-arm64-v8a.zip",
           "size": 70083136,
           "changelog": "https://raw.githubusercontent.com/NoName-exe/revanced-extended/update/build.md"
@@ -27190,14 +26942,22 @@
       "id": "yukizygisk",
       "name": "YukiZygisk",
       "author": "Rouyashiki Developers",
-      "version": "v0.5.0-10158",
-      "versionCode": 10158,
+      "version": "v0.5.0-10159",
+      "versionCode": 10159,
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1793856123.0,
+        "added": 1794000287.0,
         "source": "https://github.com/Rouyashiki/YukiZygisk"
       },
       "versions": [
+        {
+          "versionCode": 10159,
+          "version": "v0.5.0-10159",
+          "timestamp": 1795505068.0,
+          "zipUrl": "https://github.com/Rouyashiki/YukiZygisk/releases/download/ci-45347236241/YukiZygisk-v0.5.0-10159-all-kmi-arm64-v8a.zip",
+          "size": 3549917,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/yukizygisk/changelogs/v0.5.0-10159.md"
+        },
         {
           "versionCode": 10158,
           "version": "v0.5.0-10158",
@@ -27229,14 +26989,6 @@
           "zipUrl": "https://github.com/Rouyashiki/YukiZygisk/releases/download/ci-42598061682/YukiZygisk-v0.4.0-10148-all-kmi-arm64-v8a.zip",
           "size": 3411565,
           "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/yukizygisk/changelogs/v0.4.0-10148.md"
-        },
-        {
-          "versionCode": 10147,
-          "version": "v0.4.0-10147",
-          "timestamp": 1794163824.0,
-          "zipUrl": "https://github.com/Rouyashiki/YukiZygisk/releases/download/ci-42511647457/YukiZygisk-v0.4.0-10147-all-kmi-arm64-v8a.zip",
-          "size": 3410924,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/yukizygisk/changelogs/v0.4.0-10147.md"
         }
       ],
       "verified": false,
@@ -27250,7 +27002,7 @@
         "system"
       ],
       "permissions": [],
-      "size": 3576001,
+      "size": 3549917,
       "stars": 156
     },
     {
@@ -27301,7 +27053,7 @@
         {
           "versionCode": 310,
           "version": "3.1.0",
-          "timestamp": 1795454117.0,
+          "timestamp": 1795539269.0,
           "zipUrl": "https://github.com/Yurii0307/yurikey/releases/download/v3.1.0/Yurikey-v3.1.0.signed.zip",
           "changelog": "https://raw.githubusercontent.com/Yurii0307/yurikey/main/changelog.md"
         }
@@ -27499,25 +27251,25 @@
     {
       "id": "zygisknextsu",
       "name": "ZNNext",
-      "version": "v2.18.0.3 (432-ffcf6b8-release)",
-      "versionCode": 432,
+      "version": "v2.20.0 (442-c15b67b-release)",
+      "versionCode": 442,
       "author": "VeryBaaad",
       "description": "Standalone Zygisk Next module loader.",
       "homepage": "https://github.com/verybaaad/znnext",
-      "size": 6144330,
+      "size": 6214032,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795345100.0,
+        "added": 1795525760.0,
         "source": "https://github.com/verybaaad/znnext"
       },
       "versions": [
         {
-          "version": "v2.18.0.3 (432-ffcf6b8-release)",
-          "versionCode": 432,
-          "zipUrl": "https://github.com/VeryBaaad/ZNNext/releases/download/v2.18.0.3/ZNNext-v2.18.0.3-432-ffcf6b8-release.zip",
-          "timestamp": 1795345100.0,
-          "size": 6144330
+          "version": "v2.20.0 (442-c15b67b-release)",
+          "versionCode": 442,
+          "zipUrl": "https://github.com/VeryBaaad/ZNNext/releases/download/v2.20.0/ZNNext-v2.20.0-442-c15b67b-release.zip",
+          "timestamp": 1795525760.0,
+          "size": 6214032
         }
       ]
     },
@@ -27786,7 +27538,7 @@
       ],
       "permissions": [],
       "size": 7948826,
-      "stars": 34
+      "stars": 35
     },
     {
       "id": "zygisk_ifw_enhance",
@@ -28394,7 +28146,7 @@
         "kernelsu.permission.WEBUI"
       ],
       "size": 5810459,
-      "stars": 11143
+      "stars": 11154
     },
     {
       "id": "zygiskfrida",
@@ -28598,14 +28350,22 @@
       "id": "QSC_Battery",
       "name": "充电控制",
       "author": "top大佬, 许小墨",
-      "version": "2026.10.12",
-      "versionCode": 2026101201,
+      "version": "2026.11.24",
+      "versionCode": 2026112401,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1791776363.0,
         "source": "https://github.com/Eikeitsu/QSC-Battery"
       },
       "versions": [
+        {
+          "versionCode": 2026112401,
+          "version": "2026.11.24",
+          "timestamp": 1795511088.0,
+          "zipUrl": "https://github.com/Eikeitsu/QSC-Battery/releases/download/v2026.11.24/QSC-Battery_v2026.11.24-full.zip",
+          "size": 4630840,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/QSC_Battery/changelogs/2026.11.24.md"
+        },
         {
           "versionCode": 2026101201,
           "version": "2026.10.12",
@@ -28626,7 +28386,7 @@
         "tools"
       ],
       "permissions": [],
-      "size": 4604817,
+      "size": 4630840,
       "stars": 73
     },
     {
@@ -29075,7 +28835,7 @@
       ],
       "permissions": [],
       "size": 2306088,
-      "stars": 6
+      "stars": 7
     },
     {
       "id": "CertBridge",
@@ -29111,7 +28871,7 @@
       ],
       "permissions": [],
       "size": 5606814,
-      "stars": 66
+      "stars": 68
     },
     {
       "id": "Lowlife",

@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 2005,
-    "readme_entries": 1960,
+    "total_entries": 2025,
+    "readme_entries": 1980,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1895,
+    "unique_github_repositories": 1915,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 708,
+      "android_tool": 719,
       "lsposed": 194,
-      "lsposed_or_zygisk": 318,
+      "lsposed_or_zygisk": 325,
       "patched_apk": 45,
-      "root_module_candidate": 495,
-      "shizuku": 209
+      "root_module_candidate": 496,
+      "shizuku": 210
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 1942,
+      "github.com": 1962,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,15 +37,15 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1895,
-    "checked_repositories": 1895,
+    "repository_candidates": 1915,
+    "checked_repositories": 1915,
     "pending_repositories": 0,
-    "valid_module_repositories": 443,
-    "mmrl_modules": 898,
-    "kernelsu_next_modules": 407,
-    "catalog_mmrl_modules": 426,
-    "catalog_kernelsu_next_modules": 391,
-    "federated_mmrl_sources": 48,
+    "valid_module_repositories": 429,
+    "mmrl_modules": 888,
+    "kernelsu_next_modules": 394,
+    "catalog_mmrl_modules": 414,
+    "catalog_kernelsu_next_modules": 377,
+    "federated_mmrl_sources": 50,
     "federated_ksu_sources": 2
   },
   "entries": [
@@ -26346,6 +26346,386 @@
       "repository": "vladivostok1017/vangogh-kernel-ksu"
     },
     {
+      "id": "7fa3e6ecf4792b43cd",
+      "name": "android_packages_apps_PcInstaller",
+      "url": "https://github.com/mateusseiboth/android_packages_apps_pcinstaller",
+      "description": "Instalador do LineageOS para PCs (app + serviço root)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mateusseiboth/android_packages_apps_pcinstaller"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "mateusseiboth/android_packages_apps_pcinstaller"
+    },
+    {
+      "id": "35d22c260d427b85c5",
+      "name": "AndroidIDeditorV2",
+      "url": "https://github.com/sdex/androidideditorv2",
+      "description": "Change the Android ID (SSAID) of any app on a rooted device, with or without a reboot",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/sdex/androidideditorv2"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "sdex/androidideditorv2"
+    },
+    {
+      "id": "6acdf458d60d4f535b",
+      "name": "cozyting",
+      "url": "https://github.com/jasirvoriya/cozyting",
+      "description": "窝爱听 (CozyTing) — 非小米手机也能用的开源 MiPlay / 小米妙播纯局域网多音箱音频投送：单 App 隔离不串音、免 Root 无感采集、最多 63 台小爱音箱毫秒级同频 \\| Pure-LAN MiPlay multi-room audio casting (Android & iOS, Rust)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jasirvoriya/cozyting"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "jasirvoriya/cozyting"
+    },
+    {
+      "id": "20a9cd3190ef8cfc1e",
+      "name": "deskhub-a10",
+      "url": "https://github.com/martin-atanasov123/deskhub-a10",
+      "description": "Turn any old phone into a live dashboard for your Windows PC (Claude Code and Codex usage, stats, media, weather, printers). Browser only: no app, no cable, no root. Fork of zacharyinserra/deskhub.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/martin-atanasov123/deskhub-a10"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "martin-atanasov123/deskhub-a10"
+    },
+    {
+      "id": "347c3053f938f30905",
+      "name": "device-mask",
+      "url": "https://github.com/snzlabs/device-mask",
+      "description": "Per-app device identity & EID spoofer for LSPosed. 1068 models, 118 countries, and a strong, stable connection between the app and the module — mask hardware profiles safely while keeping your real device untouched.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/snzlabs/device-mask"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "snzlabs/device-mask"
+    },
+    {
+      "id": "5cebb39a29dad69dd4",
+      "name": "fastroot",
+      "url": "https://github.com/spizganed/fastroot",
+      "description": "fastroot: run a Linux root file system in an Android app with no ptrace (private)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/spizganed/fastroot"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "spizganed/fastroot"
+    },
+    {
+      "id": "1d3112470630ad525e",
+      "name": "Fix-Netflix-L1",
+      "url": "https://github.com/xhamon1/fix-netflix-l1",
+      "description": "KernelSU module to fix Netflix Widevine L3 fallback (system ID spoof)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xhamon1/fix-netflix-l1"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "xhamon1/fix-netflix-l1"
+    },
+    {
+      "id": "b8fbfb4216aca1cfc9",
+      "name": "GamePadDex",
+      "url": "https://github.com/denniswung/gamepaddex",
+      "description": "Xbox 手柄 → 鼠标/键盘映射（LSPosed + KernelSU root 助手），含独立测试台 App",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/denniswung/gamepaddex"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "denniswung/gamepaddex"
+    },
+    {
+      "id": "3f66b6e259a2d4bcb8",
+      "name": "jacwhylj004-sketch.github.io",
+      "url": "https://github.com/jacwhylj004-sketch/jacwhylj004-sketch.github.io",
+      "description": "Site root for Lab Book (Android app link)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jacwhylj004-sketch/jacwhylj004-sketch.github.io"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "jacwhylj004-sketch/jacwhylj004-sketch.github.io"
+    },
+    {
+      "id": "a018ecbb968401f4c6",
+      "name": "kihan-esp-legacy",
+      "url": "https://github.com/e2168708352-web/kihan-esp-legacy",
+      "description": "Naruto mobile (com.tencent.KiHan) ESP: KernelSU module + ZygiskFrida gadget + overlay APK. Unity/il2cpp in-process sampling, custom view-matrix projection, UDP frame protocol.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/e2168708352-web/kihan-esp-legacy"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "e2168708352-web/kihan-esp-legacy"
+    },
+    {
+      "id": "da11961796eb583ae1",
+      "name": "magicdesk",
+      "url": "https://github.com/mekhontsev/magicdesk",
+      "description": "Android workstation with native multi-window desktops, X11/Wayland, Termux and MCP automation. Run Linux with Shroot without root or Shizuku, including systemd, Docker and Podman. Package a distribution as an independent Android app (Linux Capsule). Android 14+; managed Desktop 15+.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mekhontsev/magicdesk"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "mekhontsev/magicdesk"
+    },
+    {
+      "id": "752b1a6421d988d75d",
+      "name": "mifareRill",
+      "url": "https://github.com/ikoctya/mifarerill",
+      "description": "Android NFC Key Wallet with no-root hardware UID emulation (Android 15/16 Raw NCI), Quick Settings 10s popup, and auto payment app restore",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ikoctya/mifarerill"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "ikoctya/mifarerill"
+    },
+    {
+      "id": "48ccce505b1c885a73",
+      "name": "netzsperre",
+      "url": "https://github.com/fishyorkcity67/netzsperre",
+      "description": "Android-App, die einzelnen Apps per lokalem VPN das Internet sperrt – ohne Root",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/fishyorkcity67/netzsperre"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "fishyorkcity67/netzsperre"
+    },
+    {
+      "id": "95445721200cdcafa7",
+      "name": "nomount-user-certs",
+      "url": "https://github.com/codertcy/nomount-user-certs",
+      "description": "KernelSU/NoMount module that syncs Android user CA certs to /system and /apex/com.android.conscrypt without tmpfs mounts",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/codertcy/nomount-user-certs"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "codertcy/nomount-user-certs"
+    },
+    {
+      "id": "610cb3943509c9ab04",
+      "name": "NothingBlurShortcuts",
+      "url": "https://github.com/ak1o-t/nothingblurshortcuts",
+      "description": "Authentic Nothing OS Frosted Glass Blur for Lockscreen Shortcuts & Notifications (LSPosed Module)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ak1o-t/nothingblurshortcuts"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "ak1o-t/nothingblurshortcuts"
+    },
+    {
+      "id": "4290c7ef59a64385de",
+      "name": "pixelmm-lsposed",
+      "url": "https://github.com/sabinaya-404/pixelmm-lsposed",
+      "description": "LSPosed module that adds a Pixel-style squiggly media progress bar to HyperOS SystemUI",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/sabinaya-404/pixelmm-lsposed"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "sabinaya-404/pixelmm-lsposed"
+    },
+    {
+      "id": "76ff46ca2ae29f5cf9",
+      "name": "subcast",
+      "url": "https://github.com/subcast/subcast",
+      "description": "Open your Android apps on display glasses, a monitor or a TV — full size, not a mirror. Your phone becomes the trackpad.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/subcast/subcast"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "subcast/subcast"
+    },
+    {
+      "id": "048f20e2e43e1edb47",
+      "name": "Tandem",
+      "url": "https://github.com/yorudev-ryland/tandem",
+      "description": "Self-hosted save, state and config sync for emulators on Android handhelds: a Docker server, a web UI and an Android app.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/yorudev-ryland/tandem"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "yorudev-ryland/tandem"
+    },
+    {
+      "id": "161a35c17514657ce8",
+      "name": "tgfastviewer",
+      "url": "https://github.com/dunxuan/tgfastviewer",
+      "description": "TG快点滑: Telegram Android gallery viewer accelerator - swipe any photo in ~0.3s (LSPosed module)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dunxuan/tgfastviewer"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "dunxuan/tgfastviewer"
+    },
+    {
+      "id": "65c43fee08519e113e",
+      "name": "zhiyou",
+      "url": "https://github.com/aarcnoa/zhiyou",
+      "description": "让 AI 帮你管理好友记忆、标签、总结群聊。微信增强模块（LSPosed）",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/aarcnoa/zhiyou"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "aarcnoa/zhiyou"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -39475,5 +39855,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795512309
+  "updated": 1795598707
 }

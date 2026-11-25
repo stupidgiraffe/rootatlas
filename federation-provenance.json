@@ -300,10 +300,6 @@
       "kind": "catalog",
       "url": "https://github.com/ajfiles/call-of-duty-mobile-120fps-magisk"
     },
-    "coloros_plugin_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/ColorOS_Control_Center"
-    },
     "Comodo_SecureDNS4Magisk": {
       "kind": "catalog",
       "url": "https://github.com/k3v1991/comodo-securedns4magisk"
@@ -371,10 +367,6 @@
     "dirtysepbypass": {
       "kind": "catalog",
       "url": "https://github.com/flipphoneguy/DirtySepolicy_Bypass"
-    },
-    "DisableApkVerification": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/apk-signature-verification-patch"
     },
     "disable_default_game_frame_rate": {
       "kind": "catalog",
@@ -468,6 +460,10 @@
       "kind": "mmrl",
       "url": "https://apt.izzysoft.de/magisk/"
     },
+    "fix_netflix_l1": {
+      "kind": "catalog",
+      "url": "https://github.com/xhamon1/fix-netflix-l1"
+    },
     "flagsecurepatcher": {
       "kind": "catalog",
       "url": "https://github.com/j-hc/FlagSecurePatcher"
@@ -511,10 +507,6 @@
     "FOXXD_A67L_CallFix": {
       "kind": "catalog",
       "url": "https://github.com/1ndevelopment/unisoc_gsi_callfix"
-    },
-    "remove_fps_limits_69fps": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/FPS-Limitation-Patcher"
     },
     "turnip-mesa": {
       "kind": "catalog",
@@ -563,6 +555,10 @@
     "gs_guard": {
       "kind": "catalog",
       "url": "https://github.com/youtiaoll1745055735-afk/gameshield"
+    },
+    "gpm_dex": {
+      "kind": "catalog",
+      "url": "https://github.com/denniswung/gamepaddex"
     },
     "gemini_default_assistant_keeper": {
       "kind": "catalog",
@@ -676,21 +672,9 @@
       "kind": "catalog",
       "url": "https://github.com/xe-ark/sbc-xq-hyperos"
     },
-    "hyperos_rust_launcher_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/hyperos-rust-launcher-mod"
-    },
     "hyperos-accessibility-fix": {
       "kind": "catalog",
       "url": "https://github.com/chickendrop89/hyperos-accessibility-fix"
-    },
-    "miui_aod_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/HyperOS-AOD"
-    },
-    "app_vault_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/HyperOS-App-Vault"
     },
     "HyperUnlocked": {
       "kind": "catalog",
@@ -727,10 +711,6 @@
     "iosfont": {
       "kind": "catalog",
       "url": "https://github.com/jevcje0-gif/arabic-and-english-ios-fonts-magisk-module"
-    },
-    "ios_plugin_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/ios-control-center-hyperos"
     },
     "ipset_arm64": {
       "kind": "catalog",
@@ -787,10 +767,6 @@
     "lan-cloak": {
       "kind": "catalog",
       "url": "https://github.com/nikakvo/lan-cloak-arm64"
-    },
-    "lawnchair_launcher_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/lawnchair_mod"
     },
     "lazarus_sepolicy": {
       "kind": "catalog",
@@ -924,29 +900,9 @@
       "kind": "catalog",
       "url": "https://github.com/bapirex/mitm-ca-system"
     },
-    "miui_plugin_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/miui_plugin"
-    },
     "MIUI_Font_Patch": {
       "kind": "catalog",
       "url": "https://github.com/nangongjing1/misans-module-for-magisk"
-    },
-    "miui_launcher_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/HyperOS-Launcher"
-    },
-    "security_app_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/HyperOS-Security-Center"
-    },
-    "miui_theme_mod": {
-      "kind": "catalog",
-      "url": "https://github.com/Mods-Center/HyperOS-Theme-Manager"
-    },
-    "monet_color_picker": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/monet-picker"
     },
     "morphe-autodetach": {
       "kind": "catalog",
@@ -955,10 +911,6 @@
     "moto_g15_raw": {
       "kind": "catalog",
       "url": "https://github.com/rchrdariza/moto-g15-raw"
-    },
-    "mountify": {
-      "kind": "mmrl",
-      "url": "https://mmrl.dev/repo/"
     },
     "MoveCertificate": {
       "kind": "mmrl",
@@ -981,16 +933,12 @@
       "url": "https://shamratrh-web.github.io/mmrl-repo/"
     },
     "netproxy": {
-      "kind": "mmrl",
-      "url": "https://mmrl.dev/repo/ksu/"
+      "kind": "catalog",
+      "url": "https://github.com/Fanju6/NetProxy-Magisk"
     },
     "netproxy_xray": {
       "kind": "catalog",
       "url": "https://github.com/llp2333/netproxy-xtls-kernelsu"
-    },
-    "newui_package_installer": {
-      "kind": "catalog",
-      "url": "https://github.com/mods-center/package-installer"
     },
     "NLSound": {
       "kind": "catalog",
@@ -1011,6 +959,10 @@
     "meta-nomount": {
       "kind": "catalog",
       "url": "https://github.com/bouteillepleine/nomount-suite"
+    },
+    "nomount_user_certs": {
+      "kind": "catalog",
+      "url": "https://github.com/codertcy/nomount-user-certs"
     },
     "nomount": {
       "kind": "catalog",
@@ -2992,6 +2944,10 @@
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/"
     },
+    "mountify": {
+      "kind": "mmrl",
+      "url": "https://mmrl.dev/repo/"
+    },
     "nextsusfs": {
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/"
@@ -3428,6 +3384,10 @@
       "kind": "mmrl",
       "url": "https://zguation-projects.github.io/ZG-R/"
     },
+    "docker": {
+      "kind": "mmrl",
+      "url": "https://fortmea.github.io/docker-rosemary/"
+    },
     "audio_fix": {
       "kind": "mmrl",
       "url": "https://raw.githubusercontent.com/RavenWolf1998/MMRL-Magisk-Module-Repo/main/"
@@ -3631,8 +3591,8 @@
     "zygisk-sui": 4,
     "zygisk_nohello": 1,
     "zygisk_vector": 5,
-    "bindhosts": 23,
-    "mmrl_wpd": 16,
+    "bindhosts": 24,
+    "mmrl_wpd": 17,
     "BetterKnownInstalled": 4,
     "Re-Malwack": 3,
     "TA_utl": 9,
@@ -3688,7 +3648,6 @@
     "AZenith": 3,
     "COPG": 6,
     "encore": 6,
-    "mountify": 7,
     "xhhttp": 3,
     "altdb": 1,
     "auriya": 1,
@@ -3716,6 +3675,7 @@
     "cache_cleaner": 2,
     "asoul_affinity_opt": 2,
     "busybox-ndk": 3,
+    "mountify": 6,
     "stevenblock": 2,
     "Malwack": 2,
     "MiXplorer": 2,
@@ -3953,7 +3913,6 @@
     "https://github.com/dr-essence/cmf-true-stereo": "catalog",
     "https://github.com/masitankitavim-ux/codex-android": "catalog",
     "https://github.com/ajfiles/call-of-duty-mobile-120fps-magisk": "catalog",
-    "https://github.com/mods-center/coloros_control_center": "catalog",
     "https://github.com/k3v1991/comodo-securedns4magisk": "catalog",
     "https://github.com/vd171/copg-vd": "catalog",
     "https://github.com/quantom2/realme-gt3-neo5-cpu-limiter": "catalog",
@@ -3969,7 +3928,6 @@
     "https://github.com/seyud/device_faker": "catalog",
     "https://github.com/sidex15/deviceidchanger": "catalog",
     "https://github.com/talgorhythmic/dirac-universal-magisk-module": "catalog",
-    "https://github.com/mods-center/apk-signature-verification-patch": "catalog",
     "https://github.com/justmlc4real/disable-default-game-frame-rate": "catalog",
     "https://github.com/danish3311/disable-fuse-bpf": "catalog",
     "https://github.com/magisk-modules-alt-repo/disable-low-ram": "catalog",
@@ -3993,6 +3951,7 @@
     "https://github.com/ahmed2111x/falcon_integrity_fix": "catalog",
     "https://github.com/sabbirafat96/fast-animation-stable-fps-": "catalog",
     "https://github.com/dev97633/fastcharge-next": "catalog",
+    "https://github.com/xhamon1/fix-netflix-l1": "catalog",
     "https://github.com/j-hc/flagsecurepatcher": "catalog",
     "https://github.com/fouc3-mirror/hyperos-flclash-vpn-fix": "catalog",
     "https://github.com/meetox80/zflip3": "catalog",
@@ -4003,7 +3962,6 @@
     "https://github.com/silvertax/force-skiavk": "catalog",
     "https://github.com/privshell/forge-git": "catalog",
     "https://github.com/1ndevelopment/unisoc_gsi_callfix": "catalog",
-    "https://github.com/mods-center/fps-limitation-patcher": "catalog",
     "https://github.com/ayusmannanda/fridamanager": "catalog",
     "https://github.com/drsexo/frosty": "catalog",
     "https://github.com/vip-svip/sy": "catalog",
@@ -4014,6 +3972,7 @@
     "https://github.com/bluescorpiovr/galaxyxr-modules": "catalog",
     "https://github.com/cameleonnbss/galaxyhz": "catalog",
     "https://github.com/youtiaoll1745055735-afk/gameshield": "catalog",
+    "https://github.com/denniswung/gamepaddex": "catalog",
     "https://github.com/arimacose/keep_default_assistant_as_gemini": "catalog",
     "https://github.com/kahramanedit/magisk-gifboot": "catalog",
     "https://github.com/privshell/gitmigrator-ksu": "catalog",
@@ -4041,9 +4000,6 @@
     "https://github.com/tatshsiow/hyperoptimize": "catalog",
     "https://github.com/yudharn/hypercool": "catalog",
     "https://github.com/xe-ark/sbc-xq-hyperos": "catalog",
-    "https://github.com/mods-center/hyperos-rust-launcher-mod": "catalog",
-    "https://github.com/mods-center/hyperos-aod": "catalog",
-    "https://github.com/mods-center/hyperos-app-vault": "catalog",
     "https://github.com/ukriu/hyperunlocked": "catalog",
     "https://github.com/leohearts/i-dont-want-to-catch-up": "catalog",
     "https://github.com/j-hc/ih8securelock": "catalog",
@@ -4053,7 +4009,6 @@
     "https://github.com/hiruko-puppetmaster/infinix-loading-bootanimation": "catalog",
     "https://github.com/keinta15/magisk-ios-emoji": "catalog",
     "https://github.com/jevcje0-gif/arabic-and-english-ios-fonts-magisk-module": "catalog",
-    "https://github.com/mods-center/ios-control-center-hyperos": "catalog",
     "https://github.com/nikakvo/ipset-arm64": "catalog",
     "https://github.com/i-taylo/iunlockergl": "catalog",
     "https://github.com/james34602/jamesdspmanager": "catalog",
@@ -4067,7 +4022,6 @@
     "https://github.com/tbc0309/kpa-modules": "catalog",
     "https://github.com/kernelsu-next/kpatch-next-module": "catalog",
     "https://github.com/nikakvo/lan-cloak-arm64": "catalog",
-    "https://github.com/mods-center/lawnchair_mod": "catalog",
     "https://github.com/albatrossmicrosystems/lazarus-xposed": "catalog",
     "https://github.com/k3v1991/level3dns4magisk": "catalog",
     "https://github.com/makuro-arisaka/android17-lhdc-a2dp-universal": "catalog",
@@ -4097,27 +4051,19 @@
     "https://github.com/petittux1/mirafix": "catalog",
     "https://github.com/colorxi/mithermaltuner": "catalog",
     "https://github.com/bapirex/mitm-ca-system": "catalog",
-    "https://github.com/mods-center/miui_plugin": "catalog",
     "https://github.com/nangongjing1/misans-module-for-magisk": "catalog",
-    "https://github.com/mods-center/hyperos-launcher": "catalog",
-    "https://github.com/mods-center/hyperos-launcher-mod-lite": "catalog",
-    "https://github.com/mods-center/miui_launcher_mod": "catalog",
-    "https://github.com/mods-center/hyperos-security-center": "catalog",
-    "https://github.com/mods-center/hyperos-theme-manager": "catalog",
-    "https://github.com/mods-center/monet-picker": "catalog",
     "https://github.com/aaronmurniadi/morphe-autodetach": "catalog",
     "https://github.com/rchrdariza/moto-g15-raw": "catalog",
-    "https://github.com/backslashxx/mountify": "catalog",
     "https://github.com/ys1231/movecertificate": "catalog",
     "https://github.com/insertx2k/multiuseruienabler": "catalog",
     "https://github.com/tbc0309/myuppy-font-crdroid12": "catalog",
     "https://github.com/magisk-modules-alt-repo/hidenavbar": "catalog",
     "https://github.com/rem01gaming/net-switch": "catalog",
     "https://github.com/fanju6/netproxy-magisk": "catalog",
-    "https://github.com/mods-center/package-installer": "catalog",
     "https://github.com/briclyaz/nlsound_module_qcom": "catalog",
     "https://github.com/chandr1000/nm-compat-scanner": "catalog",
     "https://github.com/ymuuuu/noemulator": "catalog",
+    "https://github.com/codertcy/nomount-user-certs": "catalog",
     "https://github.com/lzghzr/apatch_kpm": "catalog",
     "https://github.com/cheems-boop/nortc-leak": "catalog",
     "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker": "catalog",
@@ -4275,6 +4221,7 @@
     "https://github.com/zephyr7030/fakescreen-lite": "catalog",
     "https://github.com/enddream-zm/lowlife": "catalog",
     "https://github.com/hybrid-mount/meta-hybrid_mount": "KernelSU Next official metamodules",
+    "https://github.com/backslashxx/mountify": "KernelSU Next official metamodules",
     "https://github.com/tools-cx-app/meta-magic_mount-rs": "KernelSU Next official metamodules",
     "https://github.com/enginex0/zeromount": "KernelSU Next official metamodules",
     "https://github.com/maxsteeel/nomount": "KernelSU Next official metamodules",

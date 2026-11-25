@@ -500,13 +500,6 @@
     "visibility": 1
   },
   {
-    "name": "ColorOS Plugin Mod",
-    "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/ColorOS_Control_Center",
-    "visibility": 1
-  },
-  {
     "name": "ComodoSecureDNS4Magisk",
     "description": "Comodo Secure DNS systemless",
     "author": "K3V1991",
@@ -610,13 +603,6 @@
     "description": "Dirac audio for any device. Bundles the control service, my own custom DiracUI app, and a headphone filter database that combines multiple devices. Not affiliated with Dirac Research.",
     "author": "TAlgorhythmic",
     "repoUrl": "https://github.com/talgorhythmic/dirac-universal-magisk-module",
-    "visibility": 1
-  },
-  {
-    "name": "Disable apk signature vertification",
-    "description": "Disable the signature verification of apk for Android 13+. Join to our channel for more stuff: t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/apk-signature-verification-patch",
     "visibility": 1
   },
   {
@@ -783,6 +769,13 @@
     "visibility": 1
   },
   {
+    "name": "Fix Netflix L1",
+    "description": "Fixes Netflix falling back to Widevine L3 by reporting systemId 30770 as 30771. Made for Poco X6 Pro (duchamp), may work on similar devices. Port of device_xiaomi_duchamp@094a6a3.",
+    "author": "xhamon1",
+    "repoUrl": "https://github.com/xhamon1/fix-netflix-l1",
+    "visibility": 1
+  },
+  {
     "name": "FlagSecurePatcher",
     "description": "Prevent apps from blocking and listening to your screenshots",
     "author": "j-hc",
@@ -850,13 +843,6 @@
     "description": "Fixes incoming calls on FOXXD A67L (SC9863A) with GSI. AT&T requires VoLTE. Uses stock Unisoc IMS stack (com.spreadtrum.ims) instead of FLOSS IMS. Includes ims_bridged daemon, IImsRadio AIDL client, and VoLTE enablement.",
     "author": "1ndevelopment",
     "repoUrl": "https://github.com/1ndevelopment/unisoc_gsi_callfix",
-    "visibility": 1
-  },
-  {
-    "name": "FPS Limitations Patcher",
-    "description": "Removes the FPS and performance limits set by PowerKeeper and Joyose on MIUI / HyperOS. Join to our channel for more stuff: t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/FPS-Limitation-Patcher",
     "visibility": 1
   },
   {
@@ -935,6 +921,13 @@
     "description": "环境检测 / 游戏兼容模式(模块停用与恢复) / 诊断日志与报告。不绕过反作弊、不修改游戏、不隐藏进程。",
     "author": "GameShield",
     "repoUrl": "https://github.com/youtiaoll1745055735-afk/gameshield",
+    "visibility": 1
+  },
+  {
+    "name": "Gamepad Mouse DeX Helper",
+    "description": "手机专用（无 DeX）：Starts the root helper (EVIOCGRAB gamepad + uinput mouse) on the socket of com.dennis.dexpad and boots the DeX gamepad mapping engine (foreground service).",
+    "author": "Dennis",
+    "repoUrl": "https://github.com/denniswung/gamepaddex",
     "visibility": 1
   },
   {
@@ -1143,27 +1136,6 @@
     "visibility": 1
   },
   {
-    "name": "HyperOS 4 Launcher Mod (Rust/Flutter)",
-    "description": "Patched HyperOS 4 launcher (native Dock, soft glass, search app, icons, widgets, recents) + HyperLauncherExt settings app. Telegram: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/hyperos-rust-launcher-mod",
-    "visibility": 1
-  },
-  {
-    "name": "HyperOS AOD Mod",
-    "description": "Modified HyperOS 4 AOD App by Mods Center. Join for more stuff: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/HyperOS-AOD",
-    "visibility": 1
-  },
-  {
-    "name": "HyperOS App Vault Mod",
-    "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/HyperOS-App-Vault",
-    "visibility": 1
-  },
-  {
     "name": "HyperUnlocked",
     "description": "Unlock high-end Xiaomi features on all of your Xiaomi devices!",
     "author": "ukriu",
@@ -1226,13 +1198,6 @@
     "description": "System-wide Arabic and English IOS fonts for Android",
     "author": "Jevc",
     "repoUrl": "https://github.com/jevcje0-gif/arabic-and-english-ios-fonts-magisk-module",
-    "visibility": 1
-  },
-  {
-    "name": "iOS27 Control Center Redesigned",
-    "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/ios-control-center-hyperos",
     "visibility": 1
   },
   {
@@ -1334,13 +1299,6 @@
     "description": "Hides the phone on Wi-Fi networks: clean DHCP, no mDNS / SSDP / LLMNR announcements. Status: Init",
     "author": "Tears Burn",
     "repoUrl": "https://github.com/nikakvo/lan-cloak-arm64",
-    "visibility": 1
-  },
-  {
-    "name": "Lawnchair 12 Mod",
-    "description": "Thanks to Lawnchair team,Teamfiles and various developers of themed icons whose apps are used in this mod.",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/lawnchair_mod",
     "visibility": 1
   },
   {
@@ -1573,59 +1531,10 @@
     "visibility": 1
   },
   {
-    "name": "MIUI Aosp Plugin by Mods Center",
-    "description": "Credits: UserXP, alixan95r, naokoshoto.",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/miui_plugin",
-    "visibility": 1
-  },
-  {
     "name": "MIUI字体",
     "description": "①替换系统字体为MiSans ②支持MIUI系统级多重字重 ③加入Android 18 Emoji(2.057) 字体",
     "author": "南宫镜",
     "repoUrl": "https://github.com/nangongjing1/misans-module-for-magisk",
-    "visibility": 1
-  },
-  {
-    "name": "Modded HyperOS Launcher",
-    "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/HyperOS-Launcher",
-    "visibility": 1
-  },
-  {
-    "name": "Modded HyperOS Launcher Lite",
-    "description": "Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/hyperos-launcher-mod-lite",
-    "visibility": 1
-  },
-  {
-    "name": "Modded Miui Launcher",
-    "description": "Join to our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/miui_launcher_mod",
-    "visibility": 1
-  },
-  {
-    "name": "Modded Security Center",
-    "description": "Modified Security Center by Mods Center. Join for more stuffs: t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/HyperOS-Security-Center",
-    "visibility": 1
-  },
-  {
-    "name": "Modded Theme Manager",
-    "description": "Modified Theme Manager by Mods Center. Join channel for interesting stuffs: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/Mods-Center/HyperOS-Theme-Manager",
-    "visibility": 1
-  },
-  {
-    "name": "Monet Picker V2",
-    "description": "Change monet color accent to the one that you want.Join our telegram channel for more mods: https://t.me/kashis_cringey_stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/monet-picker",
     "visibility": 1
   },
   {
@@ -1643,7 +1552,7 @@
     "visibility": 1
   },
   {
-    "name": "mountify",
+    "name": "Mountify",
     "description": "Globally mounted modules via OverlayFS.",
     "author": "xx, KOWX712",
     "repoUrl": "https://github.com/backslashxx/mountify",
@@ -1701,13 +1610,6 @@
     "visibility": 1
   },
   {
-    "name": "NewUI Package Installer V3 for Aosp/MIUI/HyperOS",
-    "description": "Join channel for more stuffs",
-    "author": "🅺🅰🆂🅷🅸",
-    "repoUrl": "https://github.com/mods-center/package-installer",
-    "visibility": 1
-  },
-  {
     "name": "NLSound",
     "description": "This module globally improves audio quality when recording video/audio and listening to audio on your device. Support: @nlsound_support | Channel: @nlsound_updates",
     "author": "NLSound Team",
@@ -1735,6 +1637,13 @@
     "repoUrl": "https://github.com/maxsteeel/nomount",
     "visibility": 1,
     "license": "GPL-3.0"
+  },
+  {
+    "name": "NoMount User Certs Sync",
+    "description": "Syncs Android user CA certificates to /system/etc/security/cacerts and /apex/com.android.conscrypt/cacerts via NoMount VFS redirection without tmpfs mounts.",
+    "author": "CoderTCY",
+    "repoUrl": "https://github.com/codertcy/nomount-user-certs",
+    "visibility": 1
   },
   {
     "name": "NoMount-kpm",

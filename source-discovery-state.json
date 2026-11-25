@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": 1795512309,
+  "generated": 1795598707,
   "repositories": {
     "cabiamdos/my-mmrl-repository": {
       "kind": "mmrl",
@@ -1120,6 +1120,120 @@
       "repository": "yunyu614/modrepo",
       "last_error": "HTTPError",
       "checked": 1795339377
+    },
+    "leoshadow11/potential-system": {
+      "kind": "mmrl",
+      "url": "https://raw.githubusercontent.com/Leoshadow11/potential-system/master/json/modules.json",
+      "modules": 2,
+      "status": "found",
+      "repository": "Leoshadow11/potential-system",
+      "checked": 1795598707
+    },
+    "fortmea/docker-rosemary": {
+      "kind": "mmrl",
+      "url": "https://fortmea.github.io/docker-rosemary/json/modules.json",
+      "modules": 1,
+      "status": "found",
+      "repository": "fortmea/docker-rosemary",
+      "checked": 1795598707
+    },
+    "mytop-project/droidtop-plugin-mmrl": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "mytop-project/droidtop-plugin-mmrl",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "andrewchqng/mt8188-hardware-volume-booster": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "AndrewChqng/mt8188-hardware-volume-booster",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "diabellzee/yay": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "diabellzee/yay",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "ce11kjw/star-fluency": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "ce11kjw/Star-Fluency",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "andrewchqng/mt8188-ram-io-art-optimizer": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "AndrewChqng/mt8188-ram-io-art-optimizer",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "alfnnnnyy/ssh-ksu": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "Alfnnnnyy/ssh-KSU",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "okhsunrog/imsforge": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "okhsunrog/imsforge",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "pschmitt/declaroid": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "pschmitt/declaroid",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "samo1408/finasu": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "Samo1408/FinaSU",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "uhub/awesome-kotlin": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "uhub/awesome-kotlin",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "sandtomatowich-hubexe/hypertouch": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "sandtomatowich-hubexe/HyperTouch",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "sunlipo/zjsu-ci": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "sunlipo/ZJsu-CI",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "utalpt/wifi-sim-switch": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "utalpt/wifi-sim-switch",
+      "last_error": "HTTPError",
+      "checked": 1795598707
+    },
+    "zg089/zg089": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "ZG089/ZG089",
+      "last_error": "HTTPError",
+      "checked": 1795598707
     }
   }
 }
