@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 2025,
-    "readme_entries": 1980,
+    "total_entries": 2047,
+    "readme_entries": 2002,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1915,
+    "unique_github_repositories": 1937,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 719,
+      "android_tool": 729,
       "lsposed": 194,
-      "lsposed_or_zygisk": 325,
+      "lsposed_or_zygisk": 328,
       "patched_apk": 45,
-      "root_module_candidate": 496,
-      "shizuku": 210
+      "root_module_candidate": 503,
+      "shizuku": 212
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 1962,
+      "github.com": 1984,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,15 +37,15 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1915,
-    "checked_repositories": 1915,
+    "repository_candidates": 1937,
+    "checked_repositories": 1937,
     "pending_repositories": 0,
-    "valid_module_repositories": 429,
-    "mmrl_modules": 888,
+    "valid_module_repositories": 431,
+    "mmrl_modules": 889,
     "kernelsu_next_modules": 394,
-    "catalog_mmrl_modules": 414,
+    "catalog_mmrl_modules": 415,
     "catalog_kernelsu_next_modules": 377,
-    "federated_mmrl_sources": 50,
+    "federated_mmrl_sources": 51,
     "federated_ksu_sources": 2
   },
   "entries": [
@@ -26726,6 +26726,424 @@
       "repository": "aarcnoa/zhiyou"
     },
     {
+      "id": "1a84d5a9e0dde83d75",
+      "name": "Claude-Root-Module-Builder",
+      "url": "https://github.com/lionlaith7/claude-root-module-builder",
+      "description": "AI skill that builds Android root modules (Magisk, KernelSU, KernelSU-Next, FinaSU, APatch) for any idea — with mandatory debug logs, bootloop protection, Apple-style live WebUI and honest test statuses. Works with Claude Code, Codex, Cursor, Windsurf, Gemini and every skills-compatible agent.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/lionlaith7/claude-root-module-builder"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "lionlaith7/claude-root-module-builder"
+    },
+    {
+      "id": "802bdb473ea1afaba1",
+      "name": "Generic",
+      "url": "https://github.com/bokaroka/generic",
+      "description": "A personal but shareful collection of day2day stuff i use",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/bokaroka/generic"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "bokaroka/generic"
+    },
+    {
+      "id": "9a033889b5ebe932c4",
+      "name": "icelandic-keyboard-layout-android",
+      "url": "https://github.com/aegiraexx/icelandic-keyboard-layout-android",
+      "description": "Corrected Icelandic layout for physical keyboards on Android. The built-in layout types Đ/đ (D with stroke) instead of Ð/ð (eth). Install, pick the layout, done. No root, no keyboard app replacement, no permissions.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/aegiraexx/icelandic-keyboard-layout-android"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "aegiraexx/icelandic-keyboard-layout-android"
+    },
+    {
+      "id": "e3aa441d42261ce59a",
+      "name": "ksu-ssh",
+      "url": "https://github.com/chisewaguri/ksu-ssh",
+      "description": "OpenSSH for Android as mountless KernelSU module",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/chisewaguri/ksu-ssh"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "chisewaguri/ksu-ssh"
+    },
+    {
+      "id": "a627a5b016df85bd32",
+      "name": "magisk-usb-auto-control",
+      "url": "https://github.com/long36708/magisk-usb-auto-control",
+      "description": "A clean, deobfuscated Magisk module that auto-toggles ADB and MTP on USB plug/unplug events.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/long36708/magisk-usb-auto-control"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "long36708/magisk-usb-auto-control"
+    },
+    {
+      "id": "dcac353725385b8db6",
+      "name": "magisk-wifi-band-preference",
+      "url": "https://github.com/trprkkk/magisk-wifi-band-preference",
+      "description": "Magisk / KernelSU module to prefer or force 5GHz / 2.4GHz Wi-Fi bands on Android 13+",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/trprkkk/magisk-wifi-band-preference"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "trprkkk/magisk-wifi-band-preference"
+    },
+    {
+      "id": "b572fb1d4351b7d1f1",
+      "name": "magpie-android-magisk",
+      "url": "https://github.com/yqing004-boop/magpie-android-magisk",
+      "description": "Magpie AI Gateway — Magisk module (kernel) + companion UI app for Android. Root users only.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/yqing004-boop/magpie-android-magisk"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "yqing004-boop/magpie-android-magisk"
+    },
+    {
+      "id": "3c5bc328bbb8cd685f",
+      "name": "Module-Magisk",
+      "url": "https://github.com/lowji194/module-magisk",
+      "description": "Magisk modules for rooted Android devices: AutoTCP (ADB over TCP 5555) and Auto ADB Enable on boot.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/lowji194/module-magisk"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "lowji194/module-magisk"
+    },
+    {
+      "id": "13fd282952b2ae532f",
+      "name": "mt6755-m5note",
+      "url": "https://github.com/chentianxiong123/mt6755-m5note",
+      "description": "Two Magisk modules that mount a Debian chroot at boot and bootstrap supervisord (optional adb TCP)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/chentianxiong123/mt6755-m5note"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "chentianxiong123/mt6755-m5note"
+    },
+    {
+      "id": "2ccde5788e25062cd2",
+      "name": "n00bin.github.io",
+      "url": "https://github.com/n00bin/n00bin.github.io",
+      "description": "Root of n00bin.github.io: Android app verification for Wordami",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/n00bin/n00bin.github.io"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "n00bin/n00bin.github.io"
+    },
+    {
+      "id": "165a04cf9577f5ff86",
+      "name": "NetGate",
+      "url": "https://github.com/ranagzzz/netgate",
+      "description": "Root-free Android firewall: per-app Wi-Fi & mobile-data rules, system-wide ad/tracker blocking, DNS filtering with SafeSearch, no-root DPI bypass, hotspot filtering and live network monitoring — all on-device, no remote VPN server.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ranagzzz/netgate"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "ranagzzz/netgate"
+    },
+    {
+      "id": "1818388711b23ba732",
+      "name": "NotreMock",
+      "url": "https://github.com/alireza65abdollahi-crypto/notremock",
+      "description": "Privacy-first, lightweight Android Mock Location app with offline world capitals DB, VPN compatibility, Smart App Bypass, Kill Switch & optional Shizuku/LSPosed support.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/alireza65abdollahi-crypto/notremock"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "alireza65abdollahi-crypto/notremock"
+    },
+    {
+      "id": "c85441bcbf71764507",
+      "name": "PerAppVolume",
+      "url": "https://github.com/thurscvc/perappvolume",
+      "description": "PerAppVolume – a Miuix-based LSPosed module for per-app media volume",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/thurscvc/perappvolume"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "thurscvc/perappvolume"
+    },
+    {
+      "id": "70087ca4e06b5afa13",
+      "name": "phonevault",
+      "url": "https://github.com/zed-dz/phonevault",
+      "description": "Keep your phone's photos, apps and messages safe on your own PC. No root, no cloud, with undo.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/zed-dz/phonevault"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "zed-dz/phonevault"
+    },
+    {
+      "id": "c914021357f1807dfe",
+      "name": "PlaySwitch",
+      "url": "https://github.com/ziadzero0/playswitch",
+      "description": "Switch your phone's main Google account and change which Google account each Play Store app uses (root required).",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ziadzero0/playswitch"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "ziadzero0/playswitch"
+    },
+    {
+      "id": "98c973085685d12d96",
+      "name": "ROMFlow",
+      "url": "https://github.com/paradaseimportsoficial-ops/romflow",
+      "description": "App Android para consultar e baixar ROMs Motorola e realizar operações USB/OTG compatíveis: firmware original, custom ROMs, imagens e recovery. Por Técnico Root.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/paradaseimportsoficial-ops/romflow"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "paradaseimportsoficial-ops/romflow"
+    },
+    {
+      "id": "2447b2eb839690d281",
+      "name": "SBrowserFix",
+      "url": "https://github.com/longnguyen5512/sbrowserfix",
+      "description": "LSPosed module fixing Samsung Internet Settings RenderThread crash on Android 17",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/longnguyen5512/sbrowserfix"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "longnguyen5512/sbrowserfix"
+    },
+    {
+      "id": "7bb3569db2ffd65a41",
+      "name": "sendwithmirlo-for-x-twitter",
+      "url": "https://github.com/d4vram369/sendwithmirlo-for-x-twitter",
+      "description": "Save X (Twitter) posts from Android to Mirlo-desktop with one tap: LSPatch/LSPosed module adding a Mirlo button to X's Share sheet, synced via Syncthing. · Guarda posts de X desde Android en Mirlo-desktop con un toque.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/d4vram369/sendwithmirlo-for-x-twitter"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "d4vram369/sendwithmirlo-for-x-twitter"
+    },
+    {
+      "id": "ec142ad5115eee4394",
+      "name": "tahoe-tv",
+      "url": "https://github.com/fk0u/tahoe-tv",
+      "description": "📺 tvOS-style (Liquid Glass) launcher for Android TV + 900+ free Indonesian live TV channels with EPG. Apps for TV, Android phone, macOS & Windows. Ringan untuk Mi TV Stick 1 GB, tanpa root.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/fk0u/tahoe-tv"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "fk0u/tahoe-tv"
+    },
+    {
+      "id": "9a6866f1f68eb45b80",
+      "name": "technicalteam774.github.io",
+      "url": "https://github.com/technicalteam774/technicalteam774.github.io",
+      "description": "Root site for TechnicalTeam774 apps - hosts /.well-kown/assetlinks.json for the Android apps",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/technicalteam774/technicalteam774.github.io"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "technicalteam774/technicalteam774.github.io"
+    },
+    {
+      "id": "334b1dad9ffe2a7b25",
+      "name": "tele-limpia",
+      "url": "https://github.com/doming0gomes/tele-limpia",
+      "description": "Desactiva por wifi las apps que no usas de tu tele Android TV / Google TV, sin root y sin borrar nada.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/doming0gomes/tele-limpia"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "doming0gomes/tele-limpia"
+    },
+    {
+      "id": "cfe95ca8011e78306b",
+      "name": "zhiwei-security",
+      "url": "https://github.com/mingxiozsg-star/zhiwei-security",
+      "description": "知微安全 · 纯安全向 Android 应用：本地病毒库查杀、云端复核、Shizuku 提权源码级内置，开箱即用。｜Zhiwei Security · an Android app focused purely on security: local signature scanning, cloud verification and built-in Shizuku, ready out of the box.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mingxiozsg-star/zhiwei-security"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "mingxiozsg-star/zhiwei-security"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -39855,5 +40273,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795598707
+  "updated": 1795685091
 }

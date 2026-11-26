@@ -933,8 +933,8 @@
       "url": "https://shamratrh-web.github.io/mmrl-repo/"
     },
     "netproxy": {
-      "kind": "catalog",
-      "url": "https://github.com/Fanju6/NetProxy-Magisk"
+      "kind": "mmrl",
+      "url": "https://mmrl.dev/repo/ksu/"
     },
     "netproxy_xray": {
       "kind": "catalog",
@@ -1015,10 +1015,6 @@
     "oneplus-8series-9r-camera-unlocker": {
       "kind": "catalog",
       "url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker"
-    },
-    "oplus_camera_los": {
-      "kind": "catalog",
-      "url": "https://github.com/nikolastama/oplus-camera-los"
     },
     "oneplus_global_wifi_beast": {
       "kind": "catalog",
@@ -1150,7 +1146,7 @@
     },
     "proteus": {
       "kind": "catalog",
-      "url": "https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid"
+      "url": "https://github.com/xposed-modules-repo/net.wowsoftware.hidemyemulator"
     },
     "py2droid": {
       "kind": "catalog",
@@ -1187,6 +1183,10 @@
     "ReSuSFS": {
       "kind": "catalog",
       "url": "https://github.com/ahmed-alnassif/resusfs"
+    },
+    "revancex-tools": {
+      "kind": "catalog",
+      "url": "https://github.com/thunderkex/revancex"
     },
     "rezygisk": {
       "kind": "mmrl",
@@ -1511,6 +1511,10 @@
     "wg-user": {
       "kind": "catalog",
       "url": "https://github.com/loficore/wg-user"
+    },
+    "wifi_band_preference": {
+      "kind": "catalog",
+      "url": "https://github.com/trprkkk/magisk-wifi-band-preference"
     },
     "wifienhan": {
       "kind": "catalog",
@@ -3591,8 +3595,8 @@
     "zygisk-sui": 4,
     "zygisk_nohello": 1,
     "zygisk_vector": 5,
-    "bindhosts": 24,
-    "mmrl_wpd": 17,
+    "bindhosts": 25,
+    "mmrl_wpd": 18,
     "BetterKnownInstalled": 4,
     "Re-Malwack": 3,
     "TA_utl": 9,
@@ -3854,6 +3858,7 @@
     "https://github.com/evdenis/adb_root": "catalog",
     "https://github.com/k3v1991/adguarddns4magisk-family": "catalog",
     "https://github.com/snowzlmbot/adguardhome-android-module": "catalog",
+    "https://github.com/bokaroka/generic": "catalog",
     "https://github.com/zafxyra/zafxyragent": "catalog",
     "https://github.com/iodn/android-kernel-tweaker": "catalog",
     "https://github.com/hrishi2861/alioth-loud": "catalog",
@@ -4075,12 +4080,10 @@
     "https://github.com/suspectworkers/omk-pif-suite": "catalog",
     "https://github.com/christuo-dev/oneplus15-beidou-gnss-guard": "catalog",
     "https://github.com/magisk-modules-alt-repo/oneplus-8series-9r-camera-unlocker": "catalog",
-    "https://github.com/nikolastama/oplus-camera-los": "catalog",
     "https://github.com/aloozchips/oneuiemojipack": "catalog",
     "https://github.com/kernelsu-modules-repo/meta-overlayfs": "catalog",
     "https://github.com/epicmann24/oosgms-optimiser": "catalog",
     "https://github.com/rhythmcache/partition-backup": "catalog",
-    "https://github.com/incognito-coder/passwall-android": "catalog",
     "https://github.com/lanrhyme/patch-inline-trackmotion": "catalog",
     "https://github.com/adivenxnataly/perfgame": "catalog",
     "https://github.com/juaniman/perfmtk": "catalog",
@@ -4188,6 +4191,7 @@
     "https://github.com/lusmaysh/webview-optimizer": "catalog",
     "https://github.com/nikakvo/wg-shield-arm64": "catalog",
     "https://github.com/loficore/wg-user": "catalog",
+    "https://github.com/trprkkk/magisk-wifi-band-preference": "catalog",
     "https://github.com/mishkarala/wifi-4g-enhanced-mostly-poco-f3": "catalog",
     "https://github.com/hyperramzey/wcg_f946b": "catalog",
     "https://github.com/e3n-glotm/wifi7-lab-safe": "catalog",

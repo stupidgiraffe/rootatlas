@@ -1,21 +1,21 @@
 {
-  "updated": 1795598707,
+  "updated": 1795685091,
   "source": "krishna3163/best-root-apps-for-android",
-  "catalog_entries": 2025,
-  "catalog_readme_entries": 1980,
+  "catalog_entries": 2047,
+  "catalog_readme_entries": 2002,
   "morphe_apks": 45,
   "tracked_extras": 0,
-  "github_repositories": 1915,
-  "checked_repositories": 1915,
+  "github_repositories": 1937,
+  "checked_repositories": 1937,
   "pending_repositories": 0,
-  "checked_this_run": 463,
-  "verified_module_repositories": 429,
-  "mmrl_modules": 888,
+  "checked_this_run": 1845,
+  "verified_module_repositories": 431,
+  "mmrl_modules": 889,
   "kernelsu_next_modules": 394,
-  "catalog_mmrl_modules": 414,
+  "catalog_mmrl_modules": 415,
   "catalog_ksu_modules": 377,
   "federation": {
-    "fetched": 48,
+    "fetched": 49,
     "failed": 4,
     "malformed_modules": 1,
     "failures": [
@@ -44,32 +44,32 @@
         "error": "HTTPError"
       }
     ],
-    "total": 52,
-    "mmrl_upstream_sources": 50,
+    "total": 53,
+    "mmrl_upstream_sources": 51,
     "ksu_upstream_sources": 2,
-    "base_mmrl_modules": 414,
+    "base_mmrl_modules": 415,
     "base_ksu_modules": 377,
-    "unified_mmrl_modules": 888,
+    "unified_mmrl_modules": 889,
     "unified_ksu_modules": 394,
-    "mmrl_external_selected": 511,
+    "mmrl_external_selected": 512,
     "ksu_external_selected": 17,
     "duplicate_ids_resolved": 287,
     "directory_notes": [],
     "independent_discovery": {
       "github_queries": 8,
       "github_search_errors": [],
-      "github_search_candidates_this_run": 114,
-      "new_candidates_inspected": 16,
+      "github_search_candidates_this_run": 112,
+      "new_candidates_inspected": 5,
       "remaining_unchecked_candidates": 0,
-      "candidates_ever_checked": 172,
-      "discovered_feeds": 29,
-      "discovered_mmrl_feeds": 29,
+      "candidates_ever_checked": 177,
+      "discovered_feeds": 30,
+      "discovered_mmrl_feeds": 30,
       "discovered_ksu_feeds": 0
     }
   },
   "exclusions_by_reason": {
-    "ambiguous_multiple_module_ids": 16,
-    "no_latest_release": 511,
-    "no_valid_module_zip": 648
+    "ambiguous_multiple_module_ids": 15,
+    "no_latest_release": 523,
+    "no_valid_module_zip": 667
   }
 }

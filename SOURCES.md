@@ -1,14 +1,14 @@
 # RootAtlas — all tracked source repositories
 
 Automatically generated from the actual source configuration and discovery state.
-Last successful feed update: **2026-11-25 09:25 UTC**.
+Last successful feed update: **2026-11-26 09:24 UTC**.
 
 ## Live coverage
 
-- Best Root Apps catalog: **2025** discovery entries, 1915 GitHub project candidates.
-- MMRL modules after deduplication: **888**.
+- Best Root Apps catalog: **2047** discovery entries, 1937 GitHub project candidates.
+- MMRL modules after deduplication: **889**.
 - KernelSU Next entries after deduplication: **394**.
-- External feeds fetched: **48 / 52** (some failed sources may retain cached entries).
+- External feeds fetched: **49 / 53** (some failed sources may retain cached entries).
 
 ## Original discovery catalog (1)
 
@@ -52,7 +52,7 @@ The [MMRL official discovery directory](https://github.com/MMRLApp/Discovery/blo
 | [KernelSU Next official metamodules](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/meta_modules.json) | [Open JSON](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/meta_modules.json) | Enabled |
 | [KernelSU Next non-free (opt-in)](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/non_free_modules.json) | [Open JSON](https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next-Modules-Repo/main/non_free_modules.json) | Not included (opt-in) |
 
-## Independently discovered GitHub feeds (29)
+## Independently discovered GitHub feeds (30)
 
 Repository names below come directly from the GitHub discovery state. Some are alternate URLs or mirrors of curated sources; do not add these counts to the curated total as if they were all unique.
 
@@ -87,6 +87,7 @@ Repository names below come directly from the GitHub discovery state. Some are a
 | [vitahaforgame-oss/Mmrlapp](https://github.com/vitahaforgame-oss/Mmrlapp) | MMRL | [Open JSON](https://raw.githubusercontent.com/vitahaforgame-oss/Mmrlapp/master/json/modules.json) |
 | [Yukari0201/mmrl-repo](https://github.com/Yukari0201/mmrl-repo) | MMRL | [Open JSON](https://raw.githubusercontent.com/Yukari0201/mmrl-repo/master/json/modules.json) |
 | [zelect0r/zamr](https://github.com/zelect0r/zamr) | MMRL | [Open JSON](https://raw.githubusercontent.com/zelect0r/zamr/main/json/modules.json) |
+| [Zograr/my-ksu-repo](https://github.com/Zograr/my-ksu-repo) | MMRL | [Open JSON](https://raw.githubusercontent.com/Zograr/my-ksu-repo/master/json/modules.json) |
 
 ## Verification and limitations
 

@@ -78,6 +78,13 @@
     "visibility": 1
   },
   {
+    "name": "AdGuardHome for Magisk",
+    "description": "Run's AdguardHome DNS Server on Android (rooted Magisk)",
+    "author": "BokaRoka",
+    "repoUrl": "https://github.com/bokaroka/generic",
+    "visibility": 1
+  },
+  {
     "name": "AI Agent (Notif)",
     "description": "Local AI agent for Android. Multi-provider (Gemini / OpenRouter-OpenAI-compatible) with phone-control tools (open_app, open_path, open_url, web_search, run_shell, file ops) and automatic model fallback. Live chat UI with real-time progress and tappable suggestion chips (SSE). Tap the 'AI Agent' notification to open the chat. Set provider/API key in",
     "author": "ZahrulObey",
@@ -1731,13 +1738,6 @@
     "visibility": 1
   },
   {
-    "name": "OnePlus Camera for LineageOS (OnePlus 15)",
-    "description": "Stock OnePlus 15 camera on LineageOS 24 for infiniti. Removing the module removes the app, its data, its props and its policy.",
-    "author": "Nikola",
-    "repoUrl": "https://github.com/nikolastama/oplus-camera-los",
-    "visibility": 1
-  },
-  {
     "name": "OneUI 7 Emoji Pack",
     "description": "**Default emojis may restore after reinstalling/updating apps or clearing app data. Tap the Action button to apply OneUI emojis. If the issue persists, reboot your device.**",
     "author": "𝙰𝚛𝚊𝚗𝚢𝚊🧃 || t.me/aloozchips",
@@ -1764,13 +1764,6 @@
     "description": "Utility to backup or save Android device partitions.",
     "author": "rhythmcache.t.me",
     "repoUrl": "https://github.com/rhythmcache/partition-backup",
-    "visibility": 1
-  },
-  {
-    "name": "Passwall Transparent Proxy (Xray)",
-    "description": "OpenWrt Passwall-style transparent proxy for wlan, hotspot & NAT with Web UI (Android 6-16, ARMv7/ARM64).",
-    "author": "Incognito-Coder",
-    "repoUrl": "https://github.com/incognito-coder/passwall-android",
     "visibility": 1
   },
   {
@@ -1966,7 +1959,7 @@
   },
   {
     "name": "Py2Droid",
-    "description": "CPython 3.14.8 for Android",
+    "description": "CPython 3.14.10 for Android",
     "author": "Mrakorez",
     "repoUrl": "https://github.com/Mrakorez/py2droid",
     "visibility": 1
@@ -2551,6 +2544,13 @@
     "description": "Auto-starts a userspace WireGuard client and exposes it as a SOCKS5/HTTP proxy on 127.0.0.1. No TUN device. Multi-arch, multi-root (KSU/Magisk/APatch). Optional wstunnel obfuscation for mobile. WebUI included.",
     "author": "wg-user contributors",
     "repoUrl": "https://github.com/loficore/wg-user",
+    "visibility": 1
+  },
+  {
+    "name": "Wi-Fi Band Preference (5GHz / 2.4GHz)",
+    "description": "Applies WifiNetworkSelectionConfig after boot to prefer or force the 5GHz / 2.4GHz band. Useful when the same SSID is broadcast by several APs (hotels). Android 13+.",
+    "author": "trprkkk",
+    "repoUrl": "https://github.com/trprkkk/magisk-wifi-band-preference",
     "visibility": 1
   },
   {

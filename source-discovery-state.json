@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": 1795598707,
+  "generated": 1795685091,
   "repositories": {
     "cabiamdos/my-mmrl-repository": {
       "kind": "mmrl",
@@ -1234,6 +1234,42 @@
       "repository": "ZG089/ZG089",
       "last_error": "HTTPError",
       "checked": 1795598707
+    },
+    "zograr/my-ksu-repo": {
+      "kind": "mmrl",
+      "url": "https://raw.githubusercontent.com/Zograr/my-ksu-repo/master/json/modules.json",
+      "modules": 2,
+      "status": "found",
+      "repository": "Zograr/my-ksu-repo",
+      "checked": 1795685091
+    },
+    "ifoknr/fastbootstudio-companion": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "ifoknr/FastbootStudio-Companion",
+      "last_error": "HTTPError",
+      "checked": 1795685091
+    },
+    "vd171/vd-installer": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "VD171/VD-Installer",
+      "last_error": "HTTPError",
+      "checked": 1795685091
+    },
+    "corruptnova/unbound-dns-module": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "corruptnova/Unbound-DNS-Module",
+      "last_error": "HTTPError",
+      "checked": 1795685091
+    },
+    "vd171/vd-backup": {
+      "kind": "none",
+      "status": "unmatched",
+      "repository": "VD171/VD-Backup",
+      "last_error": "HTTPError",
+      "checked": 1795685091
     }
   }
 }
