@@ -360,6 +360,10 @@
       "kind": "catalog",
       "url": "https://github.com/sidex15/deviceidchanger"
     },
+    "fold-display": {
+      "kind": "catalog",
+      "url": "https://github.com/ilkygul/dex-display-control"
+    },
     "dirac_universal": {
       "kind": "catalog",
       "url": "https://github.com/talgorhythmic/dirac-universal-magisk-module"
@@ -1172,6 +1176,10 @@
       "kind": "catalog",
       "url": "https://github.com/moloo4ni/statusbar-fix-obsidian"
     },
+    "remotesh": {
+      "kind": "catalog",
+      "url": "https://github.com/alfnnnnyy/ssh-ksu"
+    },
     "render_switcher": {
       "kind": "catalog",
       "url": "https://github.com/exloud/render-switcher"
@@ -1299,6 +1307,10 @@
     "stevenblock": {
       "kind": "catalog",
       "url": "https://github.com/mikropsoft/StevenBlock"
+    },
+    "strongbox_oplimit_unlock": {
+      "kind": "catalog",
+      "url": "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker"
     },
     "stylusctrl": {
       "kind": "catalog",
@@ -1455,6 +1467,10 @@
     "vbmeta-fixer": {
       "kind": "catalog",
       "url": "https://github.com/reveny/Android-VBMeta-Fixer"
+    },
+    "vdbackup": {
+      "kind": "catalog",
+      "url": "https://github.com/vd171/vd-backup"
     },
     "zygisk_vector": {
       "kind": "mmrl",
@@ -3340,6 +3356,10 @@
       "kind": "mmrl",
       "url": "https://zelect0r.github.io/zamr/"
     },
+    "opcamera_derp17_allinone": {
+      "kind": "mmrl",
+      "url": "https://zelect0r.github.io/zamr/"
+    },
     "BCR": {
       "kind": "mmrl",
       "url": "https://zguation-projects.github.io/ZG-R/"
@@ -3403,10 +3423,6 @@
     "systemless_hosts": {
       "kind": "mmrl",
       "url": "https://raw.githubusercontent.com/RavenWolf1998/MMRL-Magisk-Module-Repo/main/"
-    },
-    "vdbackup": {
-      "kind": "mmrl",
-      "url": "https://raw.githubusercontent.com/VD171/VD-Modules/master/"
     },
     "vddropbear": {
       "kind": "mmrl",
@@ -3784,6 +3800,7 @@
     "bypasser": 1,
     "aa4mg": 1,
     "COPG-VD": 1,
+    "vdbackup": 1,
     "fas_rs": 1,
     "hostsredirect": 1,
     "magisk_custompinyindictionary_fcitx": 1,
@@ -3844,7 +3861,8 @@
     "alwaysstrong": 1,
     "alwaysstrong-inject": 1,
     "alwaysstrong-nopif": 1,
-    "ashlooper": 1
+    "ashlooper": 1,
+    "opcamera_derp17_allinone": 1
   },
   "ksu_origins": {
     "https://github.com/rrr333nnn333/brene": "catalog",
@@ -3932,6 +3950,7 @@
     "https://github.com/aurora-nasa-1/deepsuppressor": "catalog",
     "https://github.com/seyud/device_faker": "catalog",
     "https://github.com/sidex15/deviceidchanger": "catalog",
+    "https://github.com/ilkygul/dex-display-control": "catalog",
     "https://github.com/talgorhythmic/dirac-universal-magisk-module": "catalog",
     "https://github.com/justmlc4real/disable-default-game-frame-rate": "catalog",
     "https://github.com/danish3311/disable-fuse-bpf": "catalog",
@@ -4116,6 +4135,7 @@
     "https://github.com/literallyaxo/quest2-touch-on-quest3": "catalog",
     "https://github.com/zg089/re-malwack": "catalog",
     "https://github.com/moloo4ni/statusbar-fix-obsidian": "catalog",
+    "https://github.com/alfnnnnyy/ssh-ksu": "catalog",
     "https://github.com/exloud/render-switcher": "catalog",
     "https://github.com/xeloria/resonancefx": "catalog",
     "https://github.com/ahmed-alnassif/resusfs": "catalog",
@@ -4146,6 +4166,7 @@
     "https://github.com/nadelacruz-00/status-bar-guard": "catalog",
     "https://github.com/kanaodnd/stellar-tweaks": "catalog",
     "https://github.com/mikropsoft/stevenblock": "catalog",
+    "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker": "catalog",
     "https://github.com/ymuuuu/susfs4ksu-lkm-x64": "catalog",
     "https://github.com/sidex15/susfs4ksu-module": "catalog",
     "https://github.com/rompelhd/swap-disabler": "catalog",

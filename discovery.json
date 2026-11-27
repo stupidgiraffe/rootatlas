@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 2047,
-    "readme_entries": 2002,
+    "total_entries": 2064,
+    "readme_entries": 2019,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1937,
+    "unique_github_repositories": 1954,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 729,
+      "android_tool": 735,
       "lsposed": 194,
-      "lsposed_or_zygisk": 328,
+      "lsposed_or_zygisk": 334,
       "patched_apk": 45,
-      "root_module_candidate": 503,
-      "shizuku": 212
+      "root_module_candidate": 506,
+      "shizuku": 214
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 1984,
+      "github.com": 2001,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,14 +37,14 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1937,
-    "checked_repositories": 1937,
+    "repository_candidates": 1954,
+    "checked_repositories": 1954,
     "pending_repositories": 0,
-    "valid_module_repositories": 431,
-    "mmrl_modules": 889,
-    "kernelsu_next_modules": 394,
-    "catalog_mmrl_modules": 415,
-    "catalog_kernelsu_next_modules": 377,
+    "valid_module_repositories": 435,
+    "mmrl_modules": 893,
+    "kernelsu_next_modules": 397,
+    "catalog_mmrl_modules": 419,
+    "catalog_kernelsu_next_modules": 380,
     "federated_mmrl_sources": 51,
     "federated_ksu_sources": 2
   },
@@ -27144,6 +27144,329 @@
       "repository": "mingxiozsg-star/zhiwei-security"
     },
     {
+      "id": "138b20c83c965f131f",
+      "name": "apple-music-fix",
+      "url": "https://github.com/narish611/apple-music-fix",
+      "description": "An LSPosed module that fixes wired-headset triple-click (previous track) in Apple Music for Android.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/narish611/apple-music-fix"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "narish611/apple-music-fix"
+    },
+    {
+      "id": "e5b3e4aa3d763c661f",
+      "name": "AuroraApp",
+      "url": "https://github.com/lonlsme/auroraapp",
+      "description": "Root 用户的 Android 设备工具箱：刷机、9008 深刷、分区与模块管理、SELinux 控制、性能悬浮窗、主题定制。单应用、无账号、无云同步。",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/lonlsme/auroraapp"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "lonlsme/auroraapp"
+    },
+    {
+      "id": "21d6330dbf13cd8959",
+      "name": "clash-Trackers",
+      "url": "https://github.com/killersparrow1/clash-trackers",
+      "description": "Android app and home-screen widget for Clash of Clans that tracks your Home Village and Builder Base upgrade timers, potions, and events, with multiple account support.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/killersparrow1/clash-trackers"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "killersparrow1/clash-trackers"
+    },
+    {
+      "id": "7131e4bb11f293a253",
+      "name": "dex-display-control",
+      "url": "https://github.com/ilkygul/dex-display-control",
+      "description": "KernelSU module for Samsung DeX on USB-C monitors: per-monitor resolution & refresh rate, experimental DSC and extra rates (5120x2160 at 110 Hz), live power and colour depth, keep phone screen off. Tested on Galaxy Z Fold8 (SM8850, One UI 9).",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ilkygul/dex-display-control"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "ilkygul/dex-display-control"
+    },
+    {
+      "id": "aee5d694d70d1429bd",
+      "name": "io.github.dszsu.smapix",
+      "url": "https://github.com/xposed-modules-repo/io.github.dszsu.smapix",
+      "description": "An LSPosed module to load SMAPI for Stardew Valley on Android without repacking. \\| 基于 LSPosed 的安卓星露谷物语免改包 SMAPI 加载器。",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xposed-modules-repo/io.github.dszsu.smapix"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "xposed-modules-repo/io.github.dszsu.smapix"
+    },
+    {
+      "id": "3f2dda00b365950d6e",
+      "name": "KdeAutoClip",
+      "url": "https://github.com/liam-hyl/kdeautoclip",
+      "description": "KdeAutoClip is an LSPosed module that allows the official [KDE Connect](https://kdeconnect.kde.org/) Android app to synchronize the phone clipboard to the computer while the app remains in the background.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/liam-hyl/kdeautoclip"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "liam-hyl/kdeautoclip"
+    },
+    {
+      "id": "2d72760bfb65998530",
+      "name": "Open-Vcam",
+      "url": "https://github.com/berkwe/open-vcam",
+      "description": "Open-source Android virtual camera and LSPosed module for local images and MP4",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/berkwe/open-vcam"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "berkwe/open-vcam"
+    },
+    {
+      "id": "133cdfa7d9e8025f8f",
+      "name": "PerfOverlay",
+      "url": "https://github.com/matthew777777/perfoverlay",
+      "description": "PerfOverlay Floating system profiler for Android: a transparent overlay drawn over other apps while you profile them. No root required.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/matthew777777/perfoverlay"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "matthew777777/perfoverlay"
+    },
+    {
+      "id": "8de946799f85454ea7",
+      "name": "Pro-Logcat",
+      "url": "https://github.com/aman-khan-786/pro-logcat",
+      "description": "Pro Logcat — Offline Native Crash Logger for Android. Live system-wide logs with Shizuku deep logs, target-app mode and a floating window. 100% offline.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/aman-khan-786/pro-logcat"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "aman-khan-786/pro-logcat"
+    },
+    {
+      "id": "d6afb16c5293aa502b",
+      "name": "Samsung-MultiUser-Enablement",
+      "url": "https://github.com/yusrkalaj-create/samsung-multiuser-enablement",
+      "description": "KernelSU module to enable Android multi-user support on Samsung devices.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/yusrkalaj-create/samsung-multiuser-enablement"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "yusrkalaj-create/samsung-multiuser-enablement"
+    },
+    {
+      "id": "f6f7b337d1b5e5790c",
+      "name": "SMAPIX",
+      "url": "https://github.com/dszsu/smapix",
+      "description": "An LSPosed module to load SMAPI for Stardew Valley on Android without repacking \\| 基于 LSPosed 的安卓星露谷物语免改包 SMAPI 加载器",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dszsu/smapix"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "dszsu/smapix"
+    },
+    {
+      "id": "ec13ceb444751f282a",
+      "name": "ssh-KSU",
+      "url": "https://github.com/alfnnnnyy/ssh-ksu",
+      "description": "Mount-free Android KernelSU/APatch/Magisk root SSH module (Dropbear PBKDF2 + playit.gg + Rust rmshctl + Svelte 5 WebUI + SuSFS auto-hide)",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/alfnnnnyy/ssh-ksu"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "alfnnnnyy/ssh-ksu"
+    },
+    {
+      "id": "1436c0c4d800cec755",
+      "name": "StrongBox-OpLimit-Unlocker",
+      "url": "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker",
+      "description": "KernelSU/Magisk module that lifts the StrongBox concurrent-operation limit in TEESimulator-RS (tricky_store), fixing TOO_MANY_OPERATIONS app-launch crashes.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "jas0n1ee0315/strongbox-oplimit-unlocker"
+    },
+    {
+      "id": "850f87e5b9c256e4b5",
+      "name": "Veristaller",
+      "url": "https://github.com/ravihalajole/veristaller",
+      "description": "Android app that requires root",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ravihalajole/veristaller"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "ravihalajole/veristaller"
+    },
+    {
+      "id": "80e80a2f5c8fc5ad07",
+      "name": "vigil",
+      "url": "https://github.com/maixuanfeng1/vigil",
+      "description": "Vigil — Read-only HyperOS app keep-alive (Autostart, battery list, Recents lock) & FCM push diagnostics",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/maixuanfeng1/vigil"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "maixuanfeng1/vigil"
+    },
+    {
+      "id": "29f03b532096d99039",
+      "name": "virtual-external-display",
+      "url": "https://github.com/kerenpandi71-collab/virtual-external-display",
+      "description": "Virtual External Display for Android - create virtual displays and run apps on external screens using Shizuku/ADB",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/kerenpandi71-collab/virtual-external-display"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "kerenpandi71-collab/virtual-external-display"
+    },
+    {
+      "id": "334b508faaf259350d",
+      "name": "VpnTether",
+      "url": "https://github.com/ykl03/vpntether",
+      "description": "Share your phone VPN with hotspot clients on OriginOS (iQOO Neo11 / Android 17). LSPosed module + quick settings tile.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ykl03/vpntether"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "ykl03/vpntether"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -40273,5 +40596,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795685091
+  "updated": 1795771477
 }

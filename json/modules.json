@@ -6,7 +6,7 @@
   "description": "RootAtlas unifies independent Android module repositories with transparent provenance and daily sync.",
   "metadata": {
     "version": 1,
-    "timestamp": 1795685091.0
+    "timestamp": 1795771477.0
   },
   "modules": [
     {
@@ -523,7 +523,7 @@
       "readme": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/A-STEPS/README.md",
       "permissions": [],
       "size": 61224,
-      "stars": 17
+      "stars": 18
     },
     {
       "id": "Hc_memory",
@@ -740,20 +740,28 @@
         "System"
       ],
       "size": 5300707,
-      "stars": 673
+      "stars": 674
     },
     {
       "id": "adbdisabler",
       "name": "ADB Disabler",
       "author": "Shuoh118",
-      "version": "1.0.4",
-      "versionCode": 10004,
+      "version": "1.1.0",
+      "versionCode": 10100,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1794060061.0,
         "source": "https://github.com/Shuoh118/ADB-Disabler"
       },
       "versions": [
+        {
+          "versionCode": 10100,
+          "version": "1.1.0",
+          "timestamp": 1795703282.0,
+          "zipUrl": "https://github.com/Shuoh118/ADB-Disabler/releases/download/1.1.0/ADB-Disabler-1.1.0.zip",
+          "size": 171514,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/adbdisabler/changelogs/1.1.0.md"
+        },
         {
           "versionCode": 10004,
           "version": "1.0.4",
@@ -785,14 +793,6 @@
           "zipUrl": "https://github.com/Shuoh118/ADB-Disabler/releases/download/1.0.1/ADB-Disabler-1.0.1.zip",
           "size": 2009,
           "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/adbdisabler/changelogs/1.0.1.md"
-        },
-        {
-          "versionCode": 10000,
-          "version": "1.0.0",
-          "timestamp": 1794060061.0,
-          "zipUrl": "https://github.com/Shuoh118/ADB-Disabler/releases/download/1.0.0/ADB-Disabler-1.0.0.zip",
-          "size": 22662,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/adbdisabler/changelogs/1.0.0.md"
         }
       ],
       "verified": false,
@@ -802,7 +802,7 @@
       "license": "GPL-3.0-or-later",
       "readme": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/adbdisabler/README.md",
       "permissions": [],
-      "size": 10083,
+      "size": 171514,
       "stars": 2
     },
     {
@@ -2053,7 +2053,7 @@
         {
           "versionCode": 8,
           "version": "v1.3.4",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/releases/download/v1.3.4/abootloop.zip",
           "size": 5011,
           "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/changelog.md"
@@ -2836,7 +2836,7 @@
         "magisk.permission.RESETPROP"
       ],
       "size": 26321,
-      "stars": 350
+      "stars": 351
     },
     {
       "id": "aml",
@@ -3050,7 +3050,7 @@
       ],
       "permissions": [],
       "size": 4027697,
-      "stars": 41
+      "stars": 42
     },
     {
       "id": "Aurora",
@@ -3552,7 +3552,7 @@
         {
           "versionCode": 199680,
           "version": "3.12",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/chenxiaolong/BCR/releases/download/v3.12/BCR-3.12-release.zip",
           "size": 2714803,
           "changelog": "https://github.com/chenxiaolong/BCR/raw/v3.12/app/magisk/updates/release/changelog.txt"
@@ -4170,7 +4170,7 @@
         "Tools"
       ],
       "size": 9918926,
-      "stars": 1179
+      "stars": 1178
     },
     {
       "id": "Bye-Blur",
@@ -5042,25 +5042,25 @@
     {
       "id": "cliproxyapi",
       "name": "CLIProxyAPI",
-      "version": "v8.1.4",
-      "versionCode": 800100400,
+      "version": "v8.1.7",
+      "versionCode": 800100700,
       "author": "tsaQB",
       "description": "CLIProxyAPI boot service for Android.",
       "homepage": "https://github.com/as-tsaqib/cliproxyapi-module",
-      "size": 29401982,
+      "size": 29516085,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795640580.0,
+        "added": 1795726558.0,
         "source": "https://github.com/as-tsaqib/cliproxyapi-module"
       },
       "versions": [
         {
-          "version": "v8.1.4",
-          "versionCode": 800100400,
-          "zipUrl": "https://github.com/tsaQB/cliproxyapi-android/releases/download/v8.1.4/cliproxyapi-magisk.zip",
-          "timestamp": 1795640580.0,
-          "size": 29401982
+          "version": "v8.1.7",
+          "versionCode": 800100700,
+          "zipUrl": "https://github.com/tsaQB/cliproxyapi-android/releases/download/v8.1.7/cliproxyapi-magisk.zip",
+          "timestamp": 1795726558.0,
+          "size": 29516085
         }
       ]
     },
@@ -5453,7 +5453,7 @@
       ],
       "permissions": [],
       "size": 168486,
-      "stars": 5
+      "stars": 6
     },
     {
       "id": "Logd_Disabler_ColorOS16",
@@ -5625,25 +5625,25 @@
     {
       "id": "COPG-VD",
       "name": "COPG-VD",
-      "version": "v6.18-vd",
-      "versionCode": 61800,
+      "version": "v6.19-vd",
+      "versionCode": 61900,
       "author": "fork by VD171",
       "description": "Spoof your device.",
       "homepage": "https://github.com/VD171/COPG-VD",
-      "size": 873287,
+      "size": 892267,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795547554.0,
+        "added": 1795713102.0,
         "source": "https://github.com/VD171/COPG-VD"
       },
       "versions": [
         {
-          "version": "v6.18-vd",
-          "versionCode": 61800,
-          "zipUrl": "https://github.com/VD171/COPG-VD/releases/download/v6.18-vd/COPG-VD-v6.18-vd.zip",
-          "timestamp": 1795547554.0,
-          "size": 873287
+          "version": "v6.19-vd",
+          "versionCode": 61900,
+          "zipUrl": "https://github.com/VD171/COPG-VD/releases/download/v6.19-vd/COPG-VD-v6.19-vd.zip",
+          "timestamp": 1795713102.0,
+          "size": 892267
         }
       ]
     },
@@ -5797,14 +5797,22 @@
       "id": "CRecordEvolution",
       "name": "CRecord Evolution",
       "author": "f1owkang, hcnk3HrzQe",
-      "version": "1.3.10",
-      "versionCode": 39,
+      "version": "1.4.0",
+      "versionCode": 40,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1792338984.0,
         "source": "https://github.com/f1owkang/CRecordEvolution"
       },
       "versions": [
+        {
+          "versionCode": 40,
+          "version": "1.4.0",
+          "timestamp": 1795706503.0,
+          "zipUrl": "https://github.com/f1owkang/CRecordEvolution/releases/download/v1.4.0/CRecordEvolution-40-1.4.0.zip",
+          "size": 3174952,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/CRecordEvolution/changelogs/1.4.0.md"
+        },
         {
           "versionCode": 39,
           "version": "1.3.10",
@@ -5836,14 +5844,6 @@
           "zipUrl": "https://github.com/f1owkang/CRecordEvolution/releases/download/v1.3.6/CRecordEvolution-35-1.3.6.zip",
           "size": 3076988,
           "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/CRecordEvolution/changelogs/1.3.6.md"
-        },
-        {
-          "versionCode": 29,
-          "version": "1.3.5",
-          "timestamp": 1792338984.0,
-          "zipUrl": "https://github.com/f1owkang/CRecordEvolution/releases/download/v1.3.5/CRecordEvolution-29-1.3.5.zip",
-          "size": 3033358,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/CRecordEvolution/changelogs/1.3.5.md"
         }
       ],
       "verified": false,
@@ -5860,7 +5860,7 @@
         "kernelsu"
       ],
       "permissions": [],
-      "size": 3149975,
+      "size": 3174952,
       "stars": 32
     },
     {
@@ -6642,7 +6642,7 @@
       ],
       "permissions": [],
       "size": 928204,
-      "stars": 926
+      "stars": 929
     },
     {
       "id": "deviceidchanger",
@@ -6666,6 +6666,31 @@
           "zipUrl": "https://github.com/sidex15/deviceidchanger/releases/download/v1.2.1/DeviceID-Changer.zip",
           "timestamp": 1764517502.0,
           "size": 5074556
+        }
+      ]
+    },
+    {
+      "id": "fold-display",
+      "name": "DeX Display Control",
+      "version": "v2.12.0",
+      "versionCode": 2120,
+      "author": "Ilkygul",
+      "description": "Resolution and refresh rate for USB-C monitors on Samsung DeX, remembered per monitor, with DeX and apps kept at the monitor's rate. Optional: keep the phone screen off while connected, a lower phone screen refresh rate during DeX, and experimental compression (DSC) and extra refresh rates (for example 5120x2160 at 110 Hz). Open the page from KernelSU Manager. Root required.",
+      "homepage": "https://github.com/ilkygul/dex-display-control",
+      "size": 45533,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1794957575.0,
+        "source": "https://github.com/ilkygul/dex-display-control"
+      },
+      "versions": [
+        {
+          "version": "v2.12.0",
+          "versionCode": 2120,
+          "zipUrl": "https://github.com/Ilkygul/dex-display-control/releases/download/v2.12.0/dex-display-control-v2.12.0.zip",
+          "timestamp": 1794957575.0,
+          "size": 45533
         }
       ]
     },
@@ -7607,7 +7632,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 87
+      "stars": 91
     },
     {
       "id": "duckmock",
@@ -9207,7 +9232,7 @@
       ],
       "permissions": [],
       "size": 213346,
-      "stars": 321
+      "stars": 323
     },
     {
       "id": "fresh-emoji",
@@ -9257,25 +9282,25 @@
     {
       "id": "frida_magisk",
       "name": "Frida Magisk",
-      "version": "17.27.6",
-      "versionCode": 172706,
+      "version": "17.28.0",
+      "versionCode": 172800,
       "author": "xjoker",
       "description": "Run bundled frida-server at boot with watchdog restart and Action status/control entry.",
       "homepage": "https://github.com/xjoker/frida-magisk",
-      "size": 49645807,
+      "size": 49644614,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795676406.0,
+        "added": 1795762430.0,
         "source": "https://github.com/xjoker/frida-magisk"
       },
       "versions": [
         {
-          "version": "17.27.6",
-          "versionCode": 172706,
-          "zipUrl": "https://github.com/xjoker/frida-magisk/releases/download/v17.27.6/frida-magisk-17.27.6-arm64-v8a.zip",
-          "timestamp": 1795676406.0,
-          "size": 49645807
+          "version": "17.28.0",
+          "versionCode": 172800,
+          "zipUrl": "https://github.com/xjoker/frida-magisk/releases/download/v17.28.0/frida-magisk-17.28.0-arm64-v8a.zip",
+          "timestamp": 1795762430.0,
+          "size": 49644614
         }
       ]
     },
@@ -9676,25 +9701,25 @@
     {
       "id": "gpm_dex",
       "name": "Gamepad Mouse DeX Helper",
-      "version": "v1.68",
-      "versionCode": 70,
+      "version": "v1.70",
+      "versionCode": 72,
       "author": "Dennis",
       "description": "手机专用（无 DeX）：Starts the root helper (EVIOCGRAB gamepad + uinput mouse) on the socket of com.dennis.dexpad and boots the DeX gamepad mapping engine (foreground service).",
       "homepage": "https://github.com/denniswung/gamepaddex",
-      "size": 365632,
+      "size": 368446,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795540162.0,
+        "added": 1795761152.0,
         "source": "https://github.com/denniswung/gamepaddex"
       },
       "versions": [
         {
-          "version": "v1.68",
-          "versionCode": 70,
-          "zipUrl": "https://github.com/denniswung/GamePadDex/releases/download/v1.68/gpm_dex-v1.68.zip",
-          "timestamp": 1795540162.0,
-          "size": 365632
+          "version": "v1.70",
+          "versionCode": 72,
+          "zipUrl": "https://github.com/denniswung/GamePadDex/releases/download/v1.70/gpm_dex-v1.70.zip",
+          "timestamp": 1795761152.0,
+          "size": 368446
         }
       ]
     },
@@ -11335,25 +11360,25 @@
     {
       "id": "hypercool",
       "name": "HyperCool - Heat & Battery Fix",
-      "version": "v2.4.0",
-      "versionCode": 240,
+      "version": "v2.4.1",
+      "versionCode": 241,
       "author": "Yudharn",
       "description": "Heat and battery fix for Android - Device: Qualcomm | MediaTek (one-shot at boot, only tiny opt-in keepers). Configure in WebUI, then reboot. Telegram Channel: @ModuleArchives.",
       "homepage": "https://github.com/yudharn/hypercool",
-      "size": 413096,
+      "size": 423927,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795379110.0,
+        "added": 1795750170.0,
         "source": "https://github.com/yudharn/hypercool"
       },
       "versions": [
         {
-          "version": "v2.4.0",
-          "versionCode": 240,
-          "zipUrl": "https://github.com/yudharn/HyperCool/releases/download/v2.4.0/HyperCool_v2.4.0.zip",
-          "timestamp": 1795379110.0,
-          "size": 413096
+          "version": "v2.4.1",
+          "versionCode": 241,
+          "zipUrl": "https://github.com/yudharn/HyperCool/releases/download/v2.4.1/HyperCool_v2.4.1.zip",
+          "timestamp": 1795750170.0,
+          "size": 423927
         }
       ]
     },
@@ -12675,7 +12700,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 387
+      "stars": 393
     },
     {
       "id": "adrianmmiller.KSUdebloat",
@@ -13860,7 +13885,7 @@
       ],
       "permissions": [],
       "size": 5755243,
-      "stars": 635
+      "stars": 638
     },
     {
       "id": "magic_v2ray",
@@ -13906,7 +13931,7 @@
       ],
       "permissions": [],
       "size": 3292,
-      "stars": 70
+      "stars": 71
     },
     {
       "id": "magisk_overlayfs",
@@ -13945,7 +13970,7 @@
         "magisk.permission.POST_FS_DATA"
       ],
       "size": 6964577,
-      "stars": 171
+      "stars": 172
     },
     {
       "id": "MagicalProtection",
@@ -14053,7 +14078,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 237
+      "stars": 240
     },
     {
       "id": "magisk-alist",
@@ -14492,8 +14517,8 @@
       "id": "magisk-frida",
       "name": "MagiskFrida",
       "author": "ViRb3 & enovella",
-      "version": "17.27.5-1",
-      "versionCode": 17270501,
+      "version": "17.27.6-1",
+      "versionCode": 17270601,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1775213261.0,
@@ -14501,11 +14526,11 @@
       },
       "versions": [
         {
-          "versionCode": 17270501,
-          "version": "17.27.5-1",
-          "timestamp": 1795625003.0,
-          "zipUrl": "https://github.com/ViRb3/magisk-frida/releases/download/17.27.5-1/MagiskFrida-17.27.5-1.zip",
-          "size": 146852606,
+          "versionCode": 17270601,
+          "version": "17.27.6-1",
+          "timestamp": 1795709851.0,
+          "zipUrl": "https://github.com/ViRb3/magisk-frida/releases/download/17.27.6-1/MagiskFrida-17.27.6-1.zip",
+          "size": 146872810,
           "changelog": "https://raw.githubusercontent.com/ViRb3/magisk-frida/master/CHANGELOG.md"
         }
       ],
@@ -14513,7 +14538,7 @@
       "description": "Run frida-server on boot: ✅ (active)",
       "support": "https://github.com/ViRb3/magisk-frida",
       "readme": "https://github.com/ViRb3/magisk-frida",
-      "size": 146852606
+      "size": 146872810
     },
     {
       "id": "magiskhide",
@@ -15184,7 +15209,7 @@
         "security"
       ],
       "permissions": [],
-      "stars": 235
+      "stars": 237
     },
     {
       "id": "microG-GApps",
@@ -15401,7 +15426,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 47
+      "stars": 49
     },
     {
       "id": "mi_thermal_tuner",
@@ -15751,7 +15776,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 129
+      "stars": 130
     },
     {
       "id": "MountX",
@@ -15999,8 +16024,8 @@
       "id": "music-morphe",
       "name": "Music Morphe",
       "author": "j-hc",
-      "version": "v21.30.216 (patches 2.3.0.mpp)",
-      "versionCode": 20221129,
+      "version": "v21.30.216 (patches 2.4.0.mpp)",
+      "versionCode": 20221130,
       "track": {
         "type": "GIT",
         "added": 1786750000.0,
@@ -16008,11 +16033,11 @@
       },
       "versions": [
         {
-          "versionCode": 20221129,
-          "version": "v21.30.216 (patches 2.3.0.mpp)",
-          "timestamp": 1794845420.0,
-          "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221129/music-morphe-module-v9.30.53-arm64-v8a.zip",
-          "size": 70047581,
+          "versionCode": 20221130,
+          "version": "v21.30.216 (patches 2.4.0.mpp)",
+          "timestamp": 1795710091.0,
+          "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221130/music-morphe-module-v9.30.53-arm64-v8a.zip",
+          "size": 71411155,
           "changelog": ""
         }
       ],
@@ -16029,7 +16054,7 @@
         "mmrl.permission.APKS"
       ],
       "maxApi": 36,
-      "size": 70047581
+      "size": 71411155
     },
     {
       "id": "MyDNS",
@@ -16265,7 +16290,7 @@
         {
           "versionCode": 54,
           "version": "v1.2",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/Rem01Gaming/net-switch/releases/download/1.2/net-switch-1.2-54-64b5764-release.zip",
           "size": 18560,
           "changelog": "https://raw.githubusercontent.com/Rem01Gaming/net-switch/main/changelog.md"
@@ -16281,14 +16306,22 @@
       "id": "netproxy",
       "name": "NetProxy",
       "author": "Fanju",
-      "version": "v8.7.3",
-      "versionCode": 1128,
+      "version": "v8.7.4",
+      "versionCode": 1134,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1791728886.0,
         "source": "https://github.com/Fanju6/NetProxy-Releases"
       },
       "versions": [
+        {
+          "versionCode": 1134,
+          "version": "v8.7.4",
+          "timestamp": 1795738554.0,
+          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.7.4/netproxy-1134-v8.7.4.zip",
+          "size": 28085826,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.7.4.md"
+        },
         {
           "versionCode": 1128,
           "version": "v8.7.3",
@@ -16320,14 +16353,6 @@
           "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.7.0/netproxy-1100-v8.7.0.zip",
           "size": 27525137,
           "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.7.0.md"
-        },
-        {
-          "versionCode": 1090,
-          "version": "v8.6.2",
-          "timestamp": 1792989596.0,
-          "zipUrl": "https://github.com/Fanju6/NetProxy-Releases/releases/download/v8.6.2/netproxy-1090-v8.6.2.zip",
-          "size": 27549353,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/netproxy/changelogs/v8.6.2.md"
         }
       ],
       "verified": false,
@@ -16340,8 +16365,8 @@
         "proxy"
       ],
       "permissions": [],
-      "size": 28062712,
-      "stars": 1477
+      "size": 28085826,
+      "stars": 1483
     },
     {
       "id": "netproxy_xray",
@@ -16594,25 +16619,25 @@
     {
       "id": "meta-nomount",
       "name": "NoMount Suite",
-      "version": "v1.3.217",
-      "versionCode": 103217,
+      "version": "v1.3.218",
+      "versionCode": 103218,
       "author": "XxxY",
       "description": "Mountless module loading - hookless VFS + RRO, no overlayfs or tmpfs. 🫥",
       "homepage": "https://github.com/bouteillepleine/nomount-suite",
-      "size": 942598,
+      "size": 967787,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795331526.0,
+        "added": 1795720235.0,
         "source": "https://github.com/bouteillepleine/nomount-suite"
       },
       "versions": [
         {
-          "version": "v1.3.217",
-          "versionCode": 103217,
-          "zipUrl": "https://github.com/Bouteillepleine/NoMount-Suite/releases/download/v1.3.217/00_NoMount-Module-v1.3.217.zip",
-          "timestamp": 1795331526.0,
-          "size": 942598
+          "version": "v1.3.218",
+          "versionCode": 103218,
+          "zipUrl": "https://github.com/Bouteillepleine/NoMount-Suite/releases/download/v1.3.218/00_NoMount-Module-v1.3.218.zip",
+          "timestamp": 1795720235.0,
+          "size": 967787
         }
       ]
     },
@@ -17343,6 +17368,46 @@
       ]
     },
     {
+      "id": "opcamera_derp17_allinone",
+      "name": "OPCamera for OnePlus 8T / 9R",
+      "author": "OnePlus / DerpFest contributors / Local Port",
+      "version": "1.0",
+      "versionCode": 102,
+      "track": {
+        "type": "UNKNOWN",
+        "added": 1795747698.0,
+        "source": "https://github.com/zelect0r/zamr/releases/tag/opcamera-v1.0"
+      },
+      "versions": [
+        {
+          "versionCode": 102,
+          "version": "1.0",
+          "timestamp": 1795747379.0,
+          "zipUrl": "https://github.com/zelect0r/zamr/releases/download/opcamera-v1.0/OPCamera-v1.0-kebab-lemonades.zip",
+          "size": 207265262,
+          "changelog": ""
+        }
+      ],
+      "verified": false,
+      "description": "OxygenOS Camera 5.9.84 for Android 17 (kebab, lemonades). Magisk / KernelSU / APatch. 48MP, DSP, Portrait, PDC and Night Vision Buffer Fixes",
+      "homepage": "https://github.com/zelect0r/zamr/releases/tag/opcamera-v1.0",
+      "support": "https://github.com/zelect0r/zamr/issues",
+      "license": "Proprietary",
+      "categories": [
+        "APatch",
+        "KernelSU",
+        "Magisk",
+        "Customization"
+      ],
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
+      ],
+      "maxApi": 37,
+      "size": 207265262
+    },
+    {
       "id": "open_fonts",
       "name": "Open Fonts",
       "author": "F3FFO",
@@ -17751,25 +17816,25 @@
     {
       "id": "phhims_volte",
       "name": "PhhIms VoLTE (r8q)",
-      "version": "v0.3.9",
-      "versionCode": 18,
+      "version": "v0.3.10",
+      "versionCode": 19,
       "author": "Silvertax, based on buddi0812's r8q-volte-phhims",
-      "description": "Open-source IMS (PhhIms) for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q), Android 17 and 16. Tested with o2 (DE), ONDO (MN), VIVACOM and A1 (BG) and Turkcell (TR); testers wanted. Action button shows the VoLTE status. Boot-loop protected, log: /data/adb/phhims-volte.log",
+      "description": "Open-source IMS (PhhIms) for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q), Android 17 and 16. Tested with o2 (DE), ONDO (MN), VIVACOM and A1 (BG), Turkcell and Vodafone (TR) and Jio (IN); testers wanted. Action button shows the VoLTE status. Boot-loop protected, log: /data/adb/phhims-volte.log",
       "homepage": "https://github.com/silvertax/phhims-volte-o2",
-      "size": 4928113,
+      "size": 4928867,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795461585.0,
+        "added": 1795720901.0,
         "source": "https://github.com/silvertax/phhims-volte-o2"
       },
       "versions": [
         {
-          "version": "v0.3.9",
-          "versionCode": 18,
-          "zipUrl": "https://github.com/Silvertax/phhims-volte-o2/releases/download/v0.3.9/phhims_volte-v0.3.9.zip",
-          "timestamp": 1795461585.0,
-          "size": 4928113
+          "version": "v0.3.10",
+          "versionCode": 19,
+          "zipUrl": "https://github.com/Silvertax/phhims-volte-o2/releases/download/v0.3.10/phhims_volte-v0.3.10.zip",
+          "timestamp": 1795720901.0,
+          "size": 4928867
         }
       ]
     },
@@ -19141,7 +19206,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 122
+      "stars": 125
     },
     {
       "id": "magisk_proc_monitor",
@@ -19802,6 +19867,31 @@
       "size": 6437684
     },
     {
+      "id": "remotesh",
+      "name": "RemoteSH (Dropbear + playit.gg)",
+      "version": "v1.0.4",
+      "versionCode": 10004,
+      "author": "RemoteSH",
+      "description": "Mount-free root SSH server (Dropbear PBKDF2 + playit.gg tunnel) for KernelSU/APatch/Magisk with WebUI, output file control, and SuSFS auto-hide.",
+      "homepage": "https://github.com/alfnnnnyy/ssh-ksu",
+      "size": 5703443,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1795684708.0,
+        "source": "https://github.com/alfnnnnyy/ssh-ksu"
+      },
+      "versions": [
+        {
+          "version": "v1.0.4",
+          "versionCode": 10004,
+          "zipUrl": "https://github.com/Alfnnnnyy/ssh-KSU/releases/download/v1.0.4/remotesh-v1.0.4-arm64.zip",
+          "timestamp": 1795684708.0,
+          "size": 5703443
+        }
+      ]
+    },
+    {
       "id": "NoProcStatRestriction",
       "name": "Remove /proc/stat restriction",
       "author": "LY",
@@ -19913,25 +20003,25 @@
     {
       "id": "resonancefx",
       "name": "ResonanceFX",
-      "version": "v2.7.0",
-      "versionCode": 20700,
+      "version": "v2.8.0",
+      "versionCode": 20800,
       "author": "Xeloria",
       "description": "Free and open-source audio effects engine by Xeloria.",
       "homepage": "https://github.com/xeloria/resonancefx",
-      "size": 2261835,
+      "size": 2264203,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795436096.0,
+        "added": 1795703628.0,
         "source": "https://github.com/xeloria/resonancefx"
       },
       "versions": [
         {
-          "version": "v2.7.0",
-          "versionCode": 20700,
-          "zipUrl": "https://github.com/xeloria/ResonanceFX/releases/download/2.7.0/ResonanceFX-v2.7.0.zip",
-          "timestamp": 1795436096.0,
-          "size": 2261835
+          "version": "v2.8.0",
+          "versionCode": 20800,
+          "zipUrl": "https://github.com/xeloria/ResonanceFX/releases/download/2.8.0/ResonanceFX-v2.8.0.zip",
+          "timestamp": 1795703628.0,
+          "size": 2264203
         }
       ]
     },
@@ -19963,25 +20053,25 @@
     {
       "id": "revancex-tools",
       "name": "ReVanceX Tools Bundle",
-      "version": "auto-v1.2.0-2026.11.25-b194",
-      "versionCode": 2026112501,
+      "version": "auto-v1.2.0-2026.11.27-b196",
+      "versionCode": 2026112701,
       "author": "Thunderkex",
       "description": "Patched module for ReVanceX Tools Bundle via ReVanceX",
       "homepage": "https://github.com/thunderkex/revancex",
-      "size": 52337076,
+      "size": 52356152,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795583411.0,
+        "added": 1795754774.0,
         "source": "https://github.com/thunderkex/revancex"
       },
       "versions": [
         {
-          "version": "auto-v1.2.0-2026.11.25-b194",
-          "versionCode": 2026112501,
-          "zipUrl": "https://github.com/thunderkex/revancex/releases/download/auto-v1.2.0-2026.11.25-b194/revancex-bundle-tools.zip",
-          "timestamp": 1795583411.0,
-          "size": 52337076
+          "version": "auto-v1.2.0-2026.11.27-b196",
+          "versionCode": 2026112701,
+          "zipUrl": "https://github.com/thunderkex/revancex/releases/download/auto-v1.2.0-2026.11.27-b196/revancex-bundle-tools.zip",
+          "timestamp": 1795754774.0,
+          "size": 52356152
         }
       ]
     },
@@ -20041,7 +20131,7 @@
         "miscellaneous"
       ],
       "permissions": [],
-      "stars": 248
+      "stars": 251
     },
     {
       "id": "rezygisk",
@@ -20792,7 +20882,7 @@
         "magisk.permission.ZYGISK"
       ],
       "size": 4979675,
-      "stars": 25662
+      "stars": 25674
     },
     {
       "id": "font_collection_sharetech",
@@ -20932,7 +21022,7 @@
       ],
       "permissions": [],
       "size": 13457214,
-      "stars": 38
+      "stars": 39
     },
     {
       "id": "bdJJPDbVGjKU",
@@ -21107,7 +21197,7 @@
       ],
       "permissions": [],
       "size": 1178399,
-      "stars": 47
+      "stars": 48
     },
     {
       "id": "Simple_BootloopSaver",
@@ -21994,6 +22084,31 @@
       "stars": 83
     },
     {
+      "id": "strongbox_oplimit_unlock",
+      "name": "StrongBox Op-Limit Unlocker",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "Jason",
+      "description": "Lifts the per-UID StrongBox concurrent-operation limit (hardcoded 4) enforced by TEESimulator-RS / tricky_store v6.0.1-307. That limit makes StrongBox-backed apps crash on launch with KeyStoreException TOO_MANY_OPERATIONS (e.g. androidx EncryptedSharedPreferences / MasterKey users). Hash-gated: only patches the known original dex; safely skips any other version.",
+      "homepage": "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker",
+      "size": 1078027,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1795664722.0,
+        "source": "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker"
+      },
+      "versions": [
+        {
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://github.com/Jas0n1ee0315/StrongBox-OpLimit-Unlocker/releases/download/v1.0/StrongBox-OpLimit-Unlocker-v1.0.zip",
+          "timestamp": 1795664722.0,
+          "size": 1078027
+        }
+      ]
+    },
+    {
       "id": "stylusctrl",
       "name": "StylusCtrl",
       "version": "v0.5.0",
@@ -22021,25 +22136,25 @@
     {
       "id": "sub-store-runsv",
       "name": "Sub-Store (runsv)",
-      "version": "2.44.30-r3.c8c6e086d1aa",
-      "versionCode": 217840384,
+      "version": "2.44.31-r3.79b7dcb46dc3",
+      "versionCode": 217926533,
       "author": "sorubedo(github)",
       "description": "Sub-Store frontend and backend in merged mode, with Android Node.js LTS. Requires runsvdir-magisk. No http-meta.",
       "homepage": "https://github.com/sorubedo/sub-store-magisk-runsv",
-      "size": 38048635,
+      "size": 38048683,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795677210.0,
+        "added": 1795763356.0,
         "source": "https://github.com/sorubedo/sub-store-magisk-runsv"
       },
       "versions": [
         {
-          "version": "2.44.30-r3.c8c6e086d1aa",
-          "versionCode": 217840384,
-          "zipUrl": "https://github.com/sorubedo/sub-store-magisk-runsv/releases/download/v2.44.30-r3.c8c6e086d1aa/sub-store-runsv-2.44.30-r3.c8c6e086d1aa-arm64-v8a.zip",
-          "timestamp": 1795677210.0,
-          "size": 38048635
+          "version": "2.44.31-r3.79b7dcb46dc3",
+          "versionCode": 217926533,
+          "zipUrl": "https://github.com/sorubedo/sub-store-magisk-runsv/releases/download/v2.44.31-r3.79b7dcb46dc3/sub-store-runsv-2.44.31-r3.79b7dcb46dc3-arm64-v8a.zip",
+          "timestamp": 1795763356.0,
+          "size": 38048683
         }
       ]
     },
@@ -22436,7 +22551,7 @@
       ],
       "permissions": [],
       "size": 155681,
-      "stars": 35
+      "stars": 36
     },
     {
       "id": "Swap-Disabler",
@@ -22544,7 +22659,7 @@
         "system"
       ],
       "permissions": [],
-      "stars": 38
+      "stars": 40
     },
     {
       "id": "cacerts_bind_manager",
@@ -22577,7 +22692,7 @@
       ],
       "permissions": [],
       "size": 17607,
-      "stars": 0
+      "stars": 1
     },
     {
       "id": "systemless-adblocker",
@@ -24969,7 +25084,7 @@
       ],
       "permissions": [],
       "size": 4060477,
-      "stars": 18
+      "stars": 19
     },
     {
       "id": "Vazirmatn-Regular",
@@ -25055,8 +25170,8 @@
       "id": "vddropbear",
       "name": "VD Dropbear",
       "author": "VD171",
-      "version": "v1.13",
-      "versionCode": 10013,
+      "version": "v1.15",
+      "versionCode": 10015,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1794698472.0,
@@ -25064,38 +25179,39 @@
       },
       "versions": [
         {
+          "versionCode": 10015,
+          "version": "v1.15",
+          "timestamp": 1795744358.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.15_10015.zip",
+          "size": 2693146,
+          "changelog": ""
+        },
+        {
+          "versionCode": 10014,
+          "version": "v1.14",
+          "timestamp": 1795708919.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.14_10014.zip",
+          "size": 2707707,
+          "changelog": ""
+        },
+        {
           "versionCode": 10013,
           "version": "v1.13",
           "timestamp": 1795607633.0,
           "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.13_10013.zip",
           "size": 2693985,
           "changelog": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.13_10013.md"
-        },
-        {
-          "versionCode": 10012,
-          "version": "v1.12",
-          "timestamp": 1795549747.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.12_10012.zip",
-          "size": 2693269,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.12_10012.md"
-        },
-        {
-          "versionCode": 10011,
-          "version": "v1.11",
-          "timestamp": 1795362808.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.11_10011.zip",
-          "size": 2692255,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vddropbear/v1.11_10011.md"
         }
       ],
       "verified": false,
       "description": "Standalone, fully configurable Dropbear SSH server for KernelSU/APatch/Magisk. Independent of any other module. Port, binds, host keys, authorized keys, passwords, a hidden version banner and BFU/AFU start behaviour are all set from the WebUI. WARNING: logins default to a ROOT shell.",
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
-      "size": 2693985,
+      "size": 2693146,
       "stars": 24
     },
     {
@@ -25142,70 +25258,53 @@
         "mmrl.permission.WEBUI_CONFIG"
       ],
       "size": 4812154,
-      "stars": 150
+      "stars": 151
     },
     {
       "id": "vdbackup",
       "name": "VDBackup",
+      "version": "v1.18",
+      "versionCode": 11800,
       "author": "VD171",
-      "version": "v1.17",
-      "versionCode": 11700,
+      "description": "Full app and data backup & restore.",
+      "homepage": "https://github.com/vd171/vd-backup",
+      "size": 65429049,
+      "verified": false,
       "track": {
-        "type": "ONLINE_JSON",
-        "added": 0.0,
-        "source": "https://github.com/VD171/VD-Backup"
+        "type": "GIT",
+        "added": 1795707890.0,
+        "source": "https://github.com/vd171/vd-backup"
       },
       "versions": [
         {
-          "versionCode": 11700,
-          "version": "v1.17",
-          "timestamp": 1795635355.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.17_11700.zip",
-          "size": 65422761,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.17_11700.md"
-        },
-        {
-          "versionCode": 11600,
-          "version": "v1.16",
-          "timestamp": 1795612132.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.16_11600.zip",
-          "size": 26353271,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.16_11600.md"
-        },
-        {
-          "versionCode": 11500,
-          "version": "v1.15",
-          "timestamp": 1795550775.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.15_11500.zip",
-          "size": 26353271,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vdbackup/v1.15_11500.md"
+          "version": "v1.18",
+          "versionCode": 11800,
+          "zipUrl": "https://github.com/VD171/VD-Backup/releases/download/v1.18/VD-Backup-v1.18-universal-lite.zip",
+          "timestamp": 1795707890.0,
+          "size": 65429049
         }
-      ],
-      "verified": false,
-      "description": "Full app and data backup & restore.",
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.SEPOLICY",
-        "kernelsu.permission.WEBUI",
-        "mmrl.permission.WEBUI_CONFIG",
-        "mmrl.permission.APKS",
-        "mmrl.permission.DEXS"
-      ],
-      "size": 65422761,
-      "stars": 98
+      ]
     },
     {
       "id": "vdinstaller",
       "name": "VDInstaller",
       "author": "VD171",
-      "version": "v1.03",
-      "versionCode": 10300,
+      "version": "v1.04",
+      "versionCode": 10400,
       "track": {
         "type": "ONLINE_JSON",
         "added": 0.0,
         "source": "https://github.com/VD171/VD-Installer"
       },
       "versions": [
+        {
+          "versionCode": 10400,
+          "version": "v1.04",
+          "timestamp": 1795712750.0,
+          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.04_10400.zip",
+          "size": 4026709,
+          "changelog": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.04_10400.md"
+        },
         {
           "versionCode": 10300,
           "version": "v1.03",
@@ -25221,25 +25320,18 @@
           "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.02_10200.zip",
           "size": 4003289,
           "changelog": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.02_10200.md"
-        },
-        {
-          "versionCode": 10100,
-          "version": "v1.01",
-          "timestamp": 1795209158.0,
-          "zipUrl": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.01_10100.zip",
-          "size": 3990163,
-          "changelog": "https://vd171.github.io/VD-Modules/modules/vdinstaller/v1.01_10100.md"
         }
       ],
       "verified": false,
       "description": "Frictionless root sideload installer: single, batch and split APKs (xapk/apkm/apks), Play Protect verifier toggle, Play install-source spoof. KernelSU/APatch/Magisk WebUI.",
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.SEPOLICY",
         "kernelsu.permission.WEBUI",
         "mmrl.permission.WEBUI_CONFIG"
       ],
-      "size": 4004304,
-      "stars": 23
+      "size": 4026709,
+      "stars": 24
     },
     {
       "id": "vector",
@@ -25295,7 +25387,7 @@
         {
           "versionCode": 3080,
           "version": "v2.2",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/JingMatrix/Vector/releases/download/v2.2/Vector-v2.2-3080-Release.zip",
           "size": 9316843,
           "changelog": "https://raw.githubusercontent.com/JingMatrix/Vector/master/zygisk/changelog.md"
@@ -25880,7 +25972,7 @@
         "development"
       ],
       "permissions": [],
-      "stars": 877
+      "stars": 891
     },
     {
       "id": "webview_optimizer",
@@ -26227,7 +26319,7 @@
         "security"
       ],
       "permissions": [],
-      "stars": 174
+      "stars": 179
     },
     {
       "id": "powershell",
@@ -26838,7 +26930,7 @@
         "kernelsu.permission.WEBUI"
       ],
       "size": 16401,
-      "stars": 210
+      "stars": 211
     },
     {
       "id": "YAKT",
@@ -26899,8 +26991,8 @@
       "id": "youtube-morphe",
       "name": "YouTube Morphe",
       "author": "j-hc",
-      "version": "v21.30.216 (patches 2.3.0.mpp)",
-      "versionCode": 20221129,
+      "version": "v21.30.216 (patches 2.4.0.mpp)",
+      "versionCode": 20221130,
       "track": {
         "type": "GIT",
         "added": 1786750000.0,
@@ -26908,11 +27000,11 @@
       },
       "versions": [
         {
-          "versionCode": 20221129,
-          "version": "v21.30.216 (patches 2.3.0.mpp)",
-          "timestamp": 1794845420.0,
-          "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221129/youtube-morphe-module-v21.30.216-all.zip",
-          "size": 238537113,
+          "versionCode": 20221130,
+          "version": "v21.30.216 (patches 2.4.0.mpp)",
+          "timestamp": 1795710091.0,
+          "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221130/youtube-morphe-module-v21.30.216-all.zip",
+          "size": 239826888,
           "changelog": ""
         }
       ],
@@ -26929,7 +27021,7 @@
         "mmrl.permission.APKS"
       ],
       "maxApi": 36,
-      "size": 238537113
+      "size": 239826888
     },
     {
       "id": "yt-morphe",
@@ -26946,7 +27038,7 @@
         {
           "versionCode": 165,
           "version": "v21.30.216 (patches 2.3.0.mpp)",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/NoName-exe/revanced-extended/releases/download/165/youtube-morphe-module-v21.30.216-all.zip",
           "size": 238558121,
           "changelog": "https://raw.githubusercontent.com/NoName-exe/revanced-extended/update/build.md"
@@ -27021,7 +27113,7 @@
         {
           "versionCode": 165,
           "version": "v9.30.53 (patches 2.3.0.mpp)",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/NoName-exe/revanced-extended/releases/download/165/youtube-music-morphe-module-v9.30.53-arm64-v8a.zip",
           "size": 70083136,
           "changelog": "https://raw.githubusercontent.com/NoName-exe/revanced-extended/update/build.md"
@@ -27098,7 +27190,7 @@
       ],
       "permissions": [],
       "size": 3549917,
-      "stars": 158
+      "stars": 160
     },
     {
       "id": "yumi",
@@ -27148,7 +27240,7 @@
         {
           "versionCode": 310,
           "version": "3.1.0",
-          "timestamp": 1795625003.0,
+          "timestamp": 1795709851.0,
           "zipUrl": "https://github.com/Yurii0307/yurikey/releases/download/v3.1.0/Yurikey-v3.1.0.signed.zip",
           "changelog": "https://raw.githubusercontent.com/Yurii0307/yurikey/main/changelog.md"
         }
@@ -27346,25 +27438,25 @@
     {
       "id": "zygisknextsu",
       "name": "ZNNext",
-      "version": "v2.21.0 (451-eed9487-release)",
-      "versionCode": 451,
+      "version": "v2.22.0 (454-95e2d0a-release)",
+      "versionCode": 454,
       "author": "VeryBaaad",
       "description": "Standalone Zygisk Next module loader.",
       "homepage": "https://github.com/verybaaad/znnext",
-      "size": 6330406,
+      "size": 6334215,
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1795616972.0,
+        "added": 1795711297.0,
         "source": "https://github.com/verybaaad/znnext"
       },
       "versions": [
         {
-          "version": "v2.21.0 (451-eed9487-release)",
-          "versionCode": 451,
-          "zipUrl": "https://github.com/VeryBaaad/ZNNext/releases/download/v2.21.0/ZNNext-v2.21.0-451-eed9487-release.zip",
-          "timestamp": 1795616972.0,
-          "size": 6330406
+          "version": "v2.22.0 (454-95e2d0a-release)",
+          "versionCode": 454,
+          "zipUrl": "https://github.com/VeryBaaad/ZNNext/releases/download/v2.22.0/ZNNext-v2.22.0-454-95e2d0a-release.zip",
+          "timestamp": 1795711297.0,
+          "size": 6334215
         }
       ]
     },
@@ -27570,14 +27662,22 @@
       "id": "zygisk_fusehide",
       "name": "Zygisk - FuseHide",
       "author": "XiaoTong",
-      "version": "1.221 (221-caffd6f-release)",
-      "versionCode": 221,
+      "version": "1.222 (222-53997de-release)",
+      "versionCode": 222,
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1795100154.0,
+        "added": 1795155877.0,
         "source": "https://github.com/XiaoTong6666/zygisk_fusehide"
       },
       "versions": [
+        {
+          "versionCode": 222,
+          "version": "1.222 (222-53997de-release)",
+          "timestamp": 1795685939.0,
+          "zipUrl": "https://github.com/XiaoTong6666/zygisk_fusehide/releases/download/v222-53997de/FuseHide-1.222_222-53997de-release.zip",
+          "size": 7952922,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/zygisk_fusehide/changelogs/1.222__222-53997de-release_.md"
+        },
         {
           "versionCode": 221,
           "version": "1.221 (221-caffd6f-release)",
@@ -27609,14 +27709,6 @@
           "zipUrl": "https://github.com/XiaoTong6666/zygisk_fusehide/releases/download/v218-11d7059/FuseHide-1.218_218-11d7059-release.zip",
           "size": 7801426,
           "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/zygisk_fusehide/changelogs/1.218__218-11d7059-release_.md"
-        },
-        {
-          "versionCode": 217,
-          "version": "1.217 (217-31d6fa2-release)",
-          "timestamp": 1795403495.0,
-          "zipUrl": "https://github.com/XiaoTong6666/zygisk_fusehide/releases/download/v217-31d6fa2/FuseHide-1.217_217-31d6fa2-release.zip",
-          "size": 7801426,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/zygisk_fusehide/changelogs/1.217__217-31d6fa2-release_.md"
         }
       ],
       "verified": false,
@@ -27632,8 +27724,8 @@
         "fusehide"
       ],
       "permissions": [],
-      "size": 7948826,
-      "stars": 35
+      "size": 7952922,
+      "stars": 36
     },
     {
       "id": "zygisk_ifw_enhance",
@@ -27717,14 +27809,22 @@
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
       "author": "XiaoTong, RikkaW, Sui Contributors",
-      "version": "v13.5.4.3 (589-cb157fa-release)",
-      "versionCode": 589,
+      "version": "v13.5.4.3 (590-6844d95-release)",
+      "versionCode": 590,
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1793337827.0,
+        "added": 1793695454.0,
         "source": "https://github.com/XiaoTong6666/zygisk-sui"
       },
       "versions": [
+        {
+          "versionCode": 590,
+          "version": "v13.5.4.3 (590-6844d95-release)",
+          "timestamp": 1795707772.0,
+          "zipUrl": "https://github.com/XiaoTong6666/zygisk-sui/releases/download/v590-6844d95/Sui-v13.5.4.3_590-6844d95-release.zip",
+          "size": 1505877,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/zygisk-sui/changelogs/v13.5.4.3__590-6844d95-release_.md"
+        },
         {
           "versionCode": 589,
           "version": "v13.5.4.3 (589-cb157fa-release)",
@@ -27756,14 +27856,6 @@
           "zipUrl": "https://github.com/XiaoTong6666/zygisk-sui/releases/download/v585-2d81fb2/Sui-v13.5.4.3_585-2d81fb2-release.zip",
           "size": 1505597,
           "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/zygisk-sui/changelogs/v13.5.4.3__585-2d81fb2-release_.md"
-        },
-        {
-          "versionCode": 584,
-          "version": "v13.5.4.3 (584-6905910-release)",
-          "timestamp": 1795071135.0,
-          "zipUrl": "https://github.com/XiaoTong6666/zygisk-sui/releases/download/v584-6905910/Sui-v13.5.4.3_584-6905910-release.zip",
-          "size": 1505782,
-          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/zygisk-sui/changelogs/v13.5.4.3__584-6905910-release_.md"
         }
       ],
       "verified": false,
@@ -27780,7 +27872,7 @@
         "zygisk"
       ],
       "permissions": [],
-      "size": 1505878,
+      "size": 1505877,
       "stars": 24
     },
     {
@@ -28068,7 +28160,7 @@
         "miscellaneous"
       ],
       "permissions": [],
-      "stars": 183
+      "stars": 185
     },
     {
       "id": "ZygiskNext",
@@ -28241,7 +28333,7 @@
         "kernelsu.permission.WEBUI"
       ],
       "size": 5810459,
-      "stars": 11177
+      "stars": 11183
     },
     {
       "id": "zygiskfrida",
@@ -28445,14 +28537,22 @@
       "id": "QSC_Battery",
       "name": "充电控制",
       "author": "top大佬, 许小墨",
-      "version": "2026.11.24",
-      "versionCode": 2026112401,
+      "version": "2026.11.26",
+      "versionCode": 2026112601,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1791776363.0,
         "source": "https://github.com/Eikeitsu/QSC-Battery"
       },
       "versions": [
+        {
+          "versionCode": 2026112601,
+          "version": "2026.11.26",
+          "timestamp": 1795664308.0,
+          "zipUrl": "https://github.com/Eikeitsu/QSC-Battery/releases/download/v2026.11.26/QSC-Battery_v2026.11.26-full.zip",
+          "size": 4686532,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/QSC_Battery/changelogs/2026.11.26.md"
+        },
         {
           "versionCode": 2026112401,
           "version": "2026.11.24",
@@ -28481,8 +28581,8 @@
         "tools"
       ],
       "permissions": [],
-      "size": 4630840,
-      "stars": 75
+      "size": 4686532,
+      "stars": 77
     },
     {
       "id": "MemoryOpt",
@@ -28938,20 +29038,28 @@
       ],
       "permissions": [],
       "size": 2428904,
-      "stars": 8
+      "stars": 10
     },
     {
       "id": "CertBridge",
       "name": "证书桥",
       "author": "许小墨",
-      "version": "v5.1.2",
-      "versionCode": 50107,
+      "version": "v5.2.0",
+      "versionCode": 50200,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1791735507.0,
         "source": "https://github.com/Eikeitsu/CertBridge"
       },
       "versions": [
+        {
+          "versionCode": 50200,
+          "version": "v5.2.0",
+          "timestamp": 1795673998.0,
+          "zipUrl": "https://github.com/Eikeitsu/CertBridge/releases/download/v5.2.0/CertBridge_v5.2.0_arm64.zip",
+          "size": 5622549,
+          "changelog": "https://raw.githubusercontent.com/MMRLApp/repo/refs/heads/master/ksu/modules/CertBridge/changelogs/v5.2.0.md"
+        },
         {
           "versionCode": 50107,
           "version": "v5.1.2",
@@ -28973,8 +29081,8 @@
         "tools"
       ],
       "permissions": [],
-      "size": 5606814,
-      "stars": 69
+      "size": 5622549,
+      "stars": 70
     },
     {
       "id": "Lowlife",

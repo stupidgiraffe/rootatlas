@@ -606,6 +606,13 @@
     "license": "AGPL-3.0"
   },
   {
+    "name": "DeX Display Control",
+    "description": "Resolution and refresh rate for USB-C monitors on Samsung DeX, remembered per monitor, with DeX and apps kept at the monitor's rate. Optional: keep the phone screen off while connected, a lower phone screen refresh rate during DeX, and experimental compression (DSC) and extra refresh rates (for example 5120x2160 at 110 Hz). Open the page from Kerne",
+    "author": "Ilkygul",
+    "repoUrl": "https://github.com/ilkygul/dex-display-control",
+    "visibility": 1
+  },
+  {
     "name": "Dirac Universal - Port from Oplus Ossi",
     "description": "Dirac audio for any device. Bundles the control service, my own custom DiracUI app, and a headphone filter database that combines multiple devices. Not affiliated with Dirac Research.",
     "author": "TAlgorhythmic",
@@ -1789,7 +1796,7 @@
   },
   {
     "name": "PhhIms VoLTE (r8q)",
-    "description": "Open-source IMS (PhhIms) for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q), Android 17 and 16. Tested with o2 (DE), ONDO (MN), VIVACOM and A1 (BG) and Turkcell (TR); testers wanted. Action button shows the VoLTE status. Boot-loop protected, log: /data/adb/phhims-volte.log",
+    "description": "Open-source IMS (PhhIms) for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q), Android 17 and 16. Tested with o2 (DE), ONDO (MN), VIVACOM and A1 (BG), Turkcell and Vodafone (TR) and Jio (IN); testers wanted. Action button shows the VoLTE status. Boot-loop protected, log: /data/adb/phhims-volte.log",
     "author": "Silvertax, based on buddi0812's r8q-volte-phhims",
     "repoUrl": "https://github.com/silvertax/phhims-volte-o2",
     "visibility": 1
@@ -1992,6 +1999,13 @@
     "description": "Fixes status bar and Quick Settings height on Redmi Note 14 Pro 4G (obsidian) running Android 15/16 GSIs.",
     "author": "moloo4ni",
     "repoUrl": "https://github.com/moloo4ni/statusbar-fix-obsidian",
+    "visibility": 1
+  },
+  {
+    "name": "RemoteSH (Dropbear + playit.gg)",
+    "description": "Mount-free root SSH server (Dropbear PBKDF2 + playit.gg tunnel) for KernelSU/APatch/Magisk with WebUI, output file control, and SuSFS auto-hide.",
+    "author": "RemoteSH",
+    "repoUrl": "https://github.com/alfnnnnyy/ssh-ksu",
     "visibility": 1
   },
   {
@@ -2210,6 +2224,13 @@
     "description": "🛡️ Zero-bloat systemless ad blocker • 7 lists + add-ons • Live apply • WebUI • Reboot to finish setup",
     "author": "mikropsoft",
     "repoUrl": "https://github.com/mikropsoft/StevenBlock",
+    "visibility": 1
+  },
+  {
+    "name": "StrongBox Op-Limit Unlocker",
+    "description": "Lifts the per-UID StrongBox concurrent-operation limit (hardcoded 4) enforced by TEESimulator-RS / tricky_store v6.0.1-307. That limit makes StrongBox-backed apps crash on launch with KeyStoreException TOO_MANY_OPERATIONS (e.g. androidx EncryptedSharedPreferences / MasterKey users). Hash-gated: only patches the known original dex; safely skips any ",
+    "author": "Jason",
+    "repoUrl": "https://github.com/jas0n1ee0315/strongbox-oplimit-unlocker",
     "visibility": 1
   },
   {
