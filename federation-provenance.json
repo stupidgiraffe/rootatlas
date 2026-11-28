@@ -316,6 +316,10 @@
       "kind": "catalog",
       "url": "https://github.com/zarkentroska/crdroid-a16-skip-lockscreen"
     },
+    "CRecordEvolution": {
+      "kind": "catalog",
+      "url": "https://github.com/f1owkang/crecordevolution"
+    },
     "crond4android": {
       "kind": "catalog",
       "url": "https://github.com/powerAn2020/crond4android"
@@ -784,6 +788,10 @@
       "kind": "catalog",
       "url": "https://github.com/makuro-arisaka/android17-lhdc-a2dp-universal"
     },
+    "android17-lhdc-v5-universal": {
+      "kind": "catalog",
+      "url": "https://github.com/prithic05/android17-lhdc-v5-universal"
+    },
     "LiteBlur": {
       "kind": "catalog",
       "url": "https://github.com/fakerieh/Lite-Blur-Control-Center-For-HyperOS2"
@@ -1192,10 +1200,6 @@
       "kind": "catalog",
       "url": "https://github.com/ahmed-alnassif/resusfs"
     },
-    "revancex-tools": {
-      "kind": "catalog",
-      "url": "https://github.com/thunderkex/revancex"
-    },
     "rezygisk": {
       "kind": "mmrl",
       "url": "https://apt.izzysoft.de/magisk/"
@@ -1247,6 +1251,10 @@
     "sideveil_proxy": {
       "kind": "catalog",
       "url": "https://github.com/5jona/sideveil-proxy"
+    },
+    "skia-motion-blur": {
+      "kind": "catalog",
+      "url": "https://github.com/yassernull/skia-motion-blur"
     },
     "scenethesky": {
       "kind": "catalog",
@@ -1644,9 +1652,17 @@
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/"
     },
+    "zygote_heap_scrub": {
+      "kind": "catalog",
+      "url": "https://github.com/hongphong5115/zygote-heap-scrub"
+    },
     "COPG": {
       "kind": "catalog",
       "url": "https://github.com/AlirezaParsi/COPG"
+    },
+    "secondspace_hotspot_guard": {
+      "kind": "catalog",
+      "url": "https://github.com/earlchen945/secondspacehotspotguard"
     },
     "nanhe_ovo": {
       "kind": "catalog",
@@ -3020,10 +3036,6 @@
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/ksu/"
     },
-    "CRecordEvolution": {
-      "kind": "mmrl",
-      "url": "https://mmrl.dev/repo/ksu/"
-    },
     "enable_miui_adb": {
       "kind": "mmrl",
       "url": "https://mmrl.dev/repo/ksu/"
@@ -3672,6 +3684,7 @@
     "altdb": 1,
     "auriya": 1,
     "Clear_Rubbish": 1,
+    "CRecordEvolution": 1,
     "device_faker": 1,
     "duck-toolbox": 2,
     "hypercool": 1,
@@ -4049,6 +4062,7 @@
     "https://github.com/albatrossmicrosystems/lazarus-xposed": "catalog",
     "https://github.com/k3v1991/level3dns4magisk": "catalog",
     "https://github.com/makuro-arisaka/android17-lhdc-a2dp-universal": "catalog",
+    "https://github.com/prithic05/android17-lhdc-v5-universal": "catalog",
     "https://github.com/symbuzzer/livebootmodule": "catalog",
     "https://github.com/idklelpigeon/liveboot-enhanced": "catalog",
     "https://github.com/cyanmint/lkm4ctr": "catalog",
@@ -4150,6 +4164,7 @@
     "https://github.com/nalbe/shark8-smartrefresh-gsi": "catalog",
     "https://github.com/liyw0205/sidekeyplus": "catalog",
     "https://github.com/5jona/sideveil-proxy": "catalog",
+    "https://github.com/yassernull/skia-motion-blur": "catalog",
     "https://github.com/weirdmidas/skysceneaddon": "catalog",
     "https://github.com/saadnahid7/smalipatcherreborn": "catalog",
     "https://github.com/leanxmodulostk/smallbattery": "catalog",
@@ -4238,7 +4253,9 @@
     "https://github.com/eritpchy/fingerprintpay": "catalog",
     "https://github.com/dr-tsng/zygisknext": "catalog",
     "https://github.com/j-hc/zygisk-detach": "catalog",
+    "https://github.com/hongphong5115/zygote-heap-scrub": "catalog",
     "https://github.com/alirezaparsi/copg": "catalog",
+    "https://github.com/earlchen945/secondspacehotspotguard": "catalog",
     "https://github.com/luoyi0914/thermocharge": "catalog",
     "https://github.com/tsangasuna/hoshitele-dns-module": "catalog",
     "https://github.com/mieaiiii/oplus-antidizzy-module": "catalog",

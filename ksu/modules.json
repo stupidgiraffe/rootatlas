@@ -1337,6 +1337,13 @@
     "visibility": 1
   },
   {
+    "name": "LHDC V5 192kHz Universal Enabler (Android 17)",
+    "description": "Dynamically patches Android 17 Bluetooth stack & vendor AIDL audio HAL to enable native LHDC V5 at 192kHz/24-bit (default 500kbps). Includes Magisk Action button & lhdc-mode CLI.",
+    "author": "Prithick",
+    "repoUrl": "https://github.com/prithic05/android17-lhdc-v5-universal",
+    "visibility": 1
+  },
+  {
     "name": "LiveBoot",
     "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
     "author": "Ali Beyaz (avalibeyaz.com/github)",
@@ -1674,8 +1681,8 @@
     "visibility": 1
   },
   {
-    "name": "Nothing Display 120Hz & LTPO Unlocker",
-    "description": "Принудительные 120 Гц для Twitch, браузеров, соцсетей и будущих приложений. Полное сохранение динамического LTPO (1-10 Гц в простое). Не конфликтует с Nothing Optimizer.",
+    "name": "Nothing Display 120Hz & Smooth UI",
+    "description": "Принудительные 120 Гц с сохранением LTPO (1-10 Гц в простое) + плавные анимации UI (SurfaceFlinger, HWUI/Skia, uclamp, авто-AOT speed) + оптимизация памяти (ZRAM lz4, swappiness=60, UFS read_ahead=256). Совместимо с NothingBlurShortcuts и NothingBlurIcons.",
     "author": "Antigravity",
     "repoUrl": "https://github.com/ak1o-t/nothingphone3-display-120hz-unlocker",
     "visibility": 1
@@ -2112,6 +2119,13 @@
     "description": "ClashMeta (Mihomo) proxy plugin for SideVeil with safe TUN routing and automatic rollback.",
     "author": "pochita",
     "repoUrl": "https://github.com/5jona/sideveil-proxy",
+    "visibility": 1
+  },
+  {
+    "name": "Skia Motion Blur",
+    "description": "Get Motion Blur on Your Android!",
+    "author": "@YasserNull",
+    "repoUrl": "https://github.com/yassernull/skia-motion-blur",
     "visibility": 1
   },
   {
@@ -2768,6 +2782,13 @@
     "license": "Apache-2.0"
   },
   {
+    "name": "Zygote Heap Scrubber",
+    "description": "Userspace ART heap scrubber removing hidden package startup traces from zygote64/zygote idle memory.",
+    "author": "epcd",
+    "repoUrl": "https://github.com/hongphong5115/zygote-heap-scrub",
+    "visibility": 1
+  },
+  {
     "name": "✨ COPG SPOOF ✨",
     "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
     "author": "AlirezaParsi",
@@ -2775,6 +2796,13 @@
     "visibility": 1,
     "bannerUrl": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/banner.png",
     "license": "Apache-2.0"
+  },
+  {
+    "name": "分身热点保活",
+    "description": "切换小米手机分身(第二空间)后自动恢复 Wi-Fi 热点；热点控制复用 HotspotPlus 的 hotspotctl.dex",
+    "author": "Ronrole",
+    "repoUrl": "https://github.com/earlchen945/secondspacehotspotguard",
+    "visibility": 1
   },
   {
     "name": "恒温充电 (ThermoCharge)",

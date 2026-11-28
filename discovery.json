@@ -3,19 +3,19 @@
   "source": "https://github.com/krishna3163/best-root-apps-for-android",
   "upstream_website": "https://krishna3163.github.io/best-root-apps-for-android/",
   "summary": {
-    "total_entries": 2064,
-    "readme_entries": 2019,
+    "total_entries": 2086,
+    "readme_entries": 2041,
     "morphe_entries": 45,
     "tracker_extras": 0,
-    "unique_github_repositories": 1954,
+    "unique_github_repositories": 1976,
     "by_kind": {
       "android_app": 36,
-      "android_tool": 735,
+      "android_tool": 740,
       "lsposed": 194,
-      "lsposed_or_zygisk": 334,
+      "lsposed_or_zygisk": 342,
       "patched_apk": 45,
-      "root_module_candidate": 506,
-      "shizuku": 214
+      "root_module_candidate": 512,
+      "shizuku": 217
     },
     "by_provider": {
       "adguard.com": 1,
@@ -23,7 +23,7 @@
       "blokada.org": 1,
       "codeberg.org": 3,
       "gitea.angry.im": 1,
-      "github.com": 2001,
+      "github.com": 2023,
       "gitlab.com": 6,
       "joycondroid.gitbook.io": 1,
       "lsposed.zip": 1,
@@ -37,14 +37,14 @@
       "revanced.app": 1,
       "xdaforums.com": 2
     },
-    "repository_candidates": 1954,
-    "checked_repositories": 1954,
+    "repository_candidates": 1976,
+    "checked_repositories": 1976,
     "pending_repositories": 0,
-    "valid_module_repositories": 435,
-    "mmrl_modules": 893,
-    "kernelsu_next_modules": 397,
-    "catalog_mmrl_modules": 419,
-    "catalog_kernelsu_next_modules": 380,
+    "valid_module_repositories": 439,
+    "mmrl_modules": 896,
+    "kernelsu_next_modules": 401,
+    "catalog_mmrl_modules": 423,
+    "catalog_kernelsu_next_modules": 384,
     "federated_mmrl_sources": 51,
     "federated_ksu_sources": 2
   },
@@ -27467,6 +27467,424 @@
       "repository": "ykl03/vpntether"
     },
     {
+      "id": "c7622dcaf51c6939f2",
+      "name": "almazoom",
+      "url": "https://github.com/zz5644934-design/almazoom",
+      "description": "AlmaZoom: 1000x digital zoom for the Samsung Camera (One UI 8 / 9, Galaxy S25 Ultra). Xposed module for Vector / LSPosed, with AlmaLens (60 fps preview, gallery spoiler).",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/zz5644934-design/almazoom"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "zz5644934-design/almazoom"
+    },
+    {
+      "id": "1c446c9b1623178013",
+      "name": "android-linux-mt5",
+      "url": "https://github.com/mrrininfo/android-linux-mt5",
+      "description": "All-in-One Bootloop-Safe Magisk Module: Ubuntu 24.04 ARM64 + Hangover Wine + TigerVNC + Multi-MT5 24/7",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mrrininfo/android-linux-mt5"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "mrrininfo/android-linux-mt5"
+    },
+    {
+      "id": "1cc0c6564132c9331b",
+      "name": "android17-lhdc-v5-universal",
+      "url": "https://github.com/prithic05/android17-lhdc-v5-universal",
+      "description": "Universal Magisk module for Android 17 (ARM64) that dynamically patches the AOSP Bluetooth stack & vendor AIDL audio HAL to enable native LHDC V5 up to 192kHz/24-bit and 1000kbps.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/prithic05/android17-lhdc-v5-universal"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "prithic05/android17-lhdc-v5-universal"
+    },
+    {
+      "id": "0c0b8dcad61dcb57f2",
+      "name": "AppDesk",
+      "url": "https://github.com/lwtdzh/appdesk",
+      "description": "Native Android APK installer and app manager with Standard, Shizuku, and Root modes.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/lwtdzh/appdesk"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "lwtdzh/appdesk"
+    },
+    {
+      "id": "84f43bd7c05ec4c07c",
+      "name": "brik",
+      "url": "https://github.com/hotaro26/brik",
+      "description": "Offline, strict, bypass-resistant Android app blocker using ADB/Shizuku & Device Policy Manager to eliminate digital distractions.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hotaro26/brik"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "hotaro26/brik"
+    },
+    {
+      "id": "50f55fa6e3ff428c75",
+      "name": "CRecordEvolution",
+      "url": "https://github.com/f1owkang/crecordevolution",
+      "description": "🔋在管理器模块描述中实时显示电池健康度的 root 模块。 \\| A root module that shows real-time battery health right in your manager's module description.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/f1owkang/crecordevolution"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "f1owkang/crecordevolution"
+    },
+    {
+      "id": "1256840b4689e6fda7",
+      "name": "DSHGoXpandh",
+      "url": "https://github.com/hehe15855/dshgoxpandh",
+      "description": "Runtime Java-layer access to any app: hook, read, rewrite. LSPosed module.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hehe15855/dshgoxpandh"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "hehe15855/dshgoxpandh"
+    },
+    {
+      "id": "275e22b5419873e50b",
+      "name": "Eclipse-2",
+      "url": "https://github.com/somilkhan/eclipse-2",
+      "description": "Eclipse 2: privacy, downloads and feed tools for Instagram as an LSPosed module. GPL-3.0. Continuation of InstaEclipse.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/somilkhan/eclipse-2"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "somilkhan/eclipse-2"
+    },
+    {
+      "id": "b6cb6478f9ca55a948",
+      "name": "GKD-XAP",
+      "url": "https://github.com/10268697/gkd-xap",
+      "description": "GKD-XAP 融合版：来自上游GKD-XA，界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告，修复应用列表闪退BUG（Android / Kotlin Compose）",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/10268697/gkd-xap"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "10268697/gkd-xap"
+    },
+    {
+      "id": "2d8f7ef8c20f2e23e9",
+      "name": "longlapse",
+      "url": "https://github.com/ksrujankanth/longlapse",
+      "description": "Android app for very long timelapses. Turns phone on for one frame, sleeps between shots, and keeps an old dedicated phone capturing for days, months, or even a year.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ksrujankanth/longlapse"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "ksrujankanth/longlapse"
+    },
+    {
+      "id": "6c1f9285db058fa603",
+      "name": "mi5g-debloat",
+      "url": "https://github.com/al3nkboot/mi5g-debloat",
+      "description": "إزالة التطبيقات الزائدة — remove preinstalled Android system apps via Shizuku, no root",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/al3nkboot/mi5g-debloat"
+        }
+      ],
+      "kind": "shizuku",
+      "origin": "upstream_readme",
+      "repository": "al3nkboot/mi5g-debloat"
+    },
+    {
+      "id": "68a5890bcb996a9171",
+      "name": "MultiSpace",
+      "url": "https://github.com/duskstarxiao/multispace",
+      "description": "Clean-room, non-root Android standalone-shell app multi-open, privacy sandbox & configurable test container (16KB page-size ready, Amap/OSM route simulator, 18+ device profile, Xposed compat).",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/duskstarxiao/multispace"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "duskstarxiao/multispace"
+    },
+    {
+      "id": "0e229ee7f0f3579726",
+      "name": "mumu-android15-modules",
+      "url": "https://github.com/3056810551/mumu-android15-modules",
+      "description": "MuMu Player Android 15 (KernelSU) anti-detection modules, hardware property fixes, ad removal & AuroraSpoof LSPosed CPU/GPU module",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/3056810551/mumu-android15-modules"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "3056810551/mumu-android15-modules"
+    },
+    {
+      "id": "d04408767e9dc51c25",
+      "name": "PhoneMicGuard",
+      "url": "https://github.com/dopoil/phonemicguard",
+      "description": "Android 10-16 LSPosed module (libxposed API 101/102) to force built-in phone mic for wired/Type-C/optional Bluetooth headsets with live Bluetooth codec monitor",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dopoil/phonemicguard"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "dopoil/phonemicguard"
+    },
+    {
+      "id": "2b2fec9a0e72edfcfa",
+      "name": "PrivacyScreen",
+      "url": "https://github.com/jsocarras975-hub/privacyscreen",
+      "description": "Privacy Screen - no-root Android privacy filter + panic hide overlay app",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jsocarras975-hub/privacyscreen"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "jsocarras975-hub/privacyscreen"
+    },
+    {
+      "id": "4e5c330453b186dca6",
+      "name": "root-cellar",
+      "url": "https://github.com/noobie3dprinting/root-cellar",
+      "description": "Household apps for your own home server: a shared checkbook with bills, private and shared notes, a movie collection tracker, a work-hours and paycheck tracker, and a DYMO label maker. One-command Docker install, Windows and Android apps, iPhone via Home Screen.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/noobie3dprinting/root-cellar"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "noobie3dprinting/root-cellar"
+    },
+    {
+      "id": "c52a0261da43509b4a",
+      "name": "SecondSpaceHotspotGuard",
+      "url": "https://github.com/earlchen945/secondspacehotspotguard",
+      "description": "Keep Android Wi-Fi hotspot alive when switching to Xiaomi second space (KernelSU/Magisk module). By Ronrole.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/earlchen945/secondspacehotspotguard"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "earlchen945/secondspacehotspotguard"
+    },
+    {
+      "id": "c5bb0a89b29a75d02e",
+      "name": "skia-motion-blur",
+      "url": "https://github.com/yassernull/skia-motion-blur",
+      "description": "A Magisk module that adds Motion Blur to your Android device.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/yassernull/skia-motion-blur"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "yassernull/skia-motion-blur"
+    },
+    {
+      "id": "246850387a12d57514",
+      "name": "spotify-multipoint-guard",
+      "url": "https://github.com/realmoai/spotify-multipoint-guard",
+      "description": "Vector / libxposed module that stops Bluetooth multipoint pause/resume loops with Spotify Connect on Android.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/realmoai/spotify-multipoint-guard"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "realmoai/spotify-multipoint-guard"
+    },
+    {
+      "id": "503c743fb67e7fe6cb",
+      "name": "TimeLeak",
+      "url": "https://github.com/xyzovo/timeleak",
+      "description": "一款轻量、开源的 Android 广告拦截工具。通过本地 DNS 过滤拦截广告与追踪域名，结合无障碍服务自动跳过 App 开屏广告。无需 Root、无需账号、无数据上传、无广告统计，专注轻量、隐私与实用。",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xyzovo/timeleak"
+        }
+      ],
+      "kind": "android_tool",
+      "origin": "upstream_readme",
+      "repository": "xyzovo/timeleak"
+    },
+    {
+      "id": "8bf6b59aab4ec8b605",
+      "name": "WallpaperEnginePlus",
+      "url": "https://github.com/nxdyy/wallpaperengineplus",
+      "description": "Web wallpaper support, sound fixes and enhancements for Wallpaper Engine for Android. Xposed / LSPosed module.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/nxdyy/wallpaperengineplus"
+        }
+      ],
+      "kind": "lsposed_or_zygisk",
+      "origin": "upstream_readme",
+      "repository": "nxdyy/wallpaperengineplus"
+    },
+    {
+      "id": "650c2f99ba2c94236e",
+      "name": "zygote-heap-scrub",
+      "url": "https://github.com/hongphong5115/zygote-heap-scrub",
+      "description": "Zero-injection userspace ARM64 ART heap scrubber & APatch/Magisk module removing dead hidden-package startup argument strings from idle zygote64/zygote memory.",
+      "category": "Auto-Discovered Root Projects",
+      "provider": "github.com",
+      "frameworks": [],
+      "license": "See project",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hongphong5115/zygote-heap-scrub"
+        }
+      ],
+      "kind": "root_module_candidate",
+      "origin": "upstream_readme",
+      "repository": "hongphong5115/zygote-heap-scrub"
+    },
+    {
       "id": "cc52f8fa35dcda6edd",
       "name": "⭐ KernelSU",
       "url": "https://github.com/tiann/KernelSU",
@@ -40596,5 +41014,5 @@
       "build_type": "release"
     }
   ],
-  "updated": 1795771477
+  "updated": 1795857801
 }
